@@ -1948,3 +1948,4 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [23Jun2025 22:25:30.397] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AgentePerrote[/127.153.255.77:47267] logged in with entity id 16855 at (-1902.322335736082, 55.0, 246.02243644241065)
 [23Jun2025 22:25:30.485] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player AgentePerrote
 [23Jun2025 22:25:30.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote joined the game
+[23Jun2025 22:45:20.061] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AgentePerrote moved wrongly!

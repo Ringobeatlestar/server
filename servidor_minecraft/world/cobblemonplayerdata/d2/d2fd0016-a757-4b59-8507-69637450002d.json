@@ -1626,19 +1626,19 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 132,
+    "totalCaptureCount": 133,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 52,
-    "totalBattleVictoryCount": 217,
+    "totalBattleVictoryCount": 218,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 217,
+    "totalPvWBattleVictoryCount": 218,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 9,
     "totalTradedCount": 21,
     "totalTypeCaptureCounts": {
       "grass": 17,
       "psychic": 5,
-      "water": 8,
+      "water": 9,
       "normal": 29,
       "flying": 26,
       "ground": 8,
