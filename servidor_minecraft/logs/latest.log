@@ -1912,3 +1912,13 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [23Jun2025 19:12:53.122] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for ad_astra:glacio changed from NORMAL (avg. 45.0) to VERY_LOW (avg. 0.04438712)
 [23Jun2025 19:12:53.122] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for ad_astra:mercury_orbit changed from NORMAL (avg. 45.0) to VERY_LOW (avg. 0.04562676)
 [23Jun2025 19:12:53.123] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for ad_astra:venus changed from NORMAL (avg. 45.0) to VERY_LOW (avg. 0.044972559999999995)
+[23Jun2025 20:04:41.719] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player AgentePerrote is d2fd0016-a757-4b59-8507-69637450002d
+[23Jun2025 20:04:44.021] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[23Jun2025 20:04:44.169] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AgentePerrote[/127.153.255.77:47007] logged in with entity id 1151 at (-1889.1655376779206, 55.0, 245.36525642185114)
+[23Jun2025 20:04:44.429] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player AgentePerrote
+[23Jun2025 20:04:44.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote joined the game
+[23Jun2025 20:04:44.615] [Server thread/WARN] [solapplepie/]: Invalid attribute specified in config: generic.speed
+[23Jun2025 20:04:45.146] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 1.481994390487671) to VERY_HIGH (avg. 64.42742919921875)
+[23Jun2025 20:04:51.867] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 64.42742919921875) to LOW (avg. 24.247793197631836)
+[23Jun2025 20:04:53.117] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from VERY_LOW (avg. 9.03090714) to LOW (avg. 25.340062890000002)
+[23Jun2025 20:05:06.867] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.247793197631836) to VERY_LOW (avg. 10.938240051269531)
