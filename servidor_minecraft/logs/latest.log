@@ -1926,3 +1926,17 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [23Jun2025 21:39:22.554] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 30.089290618896484) to VERY_LOW (avg. 17.09873390197754)
 [23Jun2025 21:40:14.168] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PokemonEntity['Bombardiro'/1814, l='ServerLevel[world]', x=-1897.85, y=67.00, z=172.45] died: Bombardiro was slain by Man From The Fog
 [23Jun2025 21:40:18.660] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PokemonEntity['Pepito'/1815, l='ServerLevel[world]', x=-1896.49, y=67.00, z=179.91] died: Pepito was slain by Man From The Fog
+[23Jun2025 22:06:33.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> minerales
+[23Jun2025 22:06:35.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> drops
+[23Jun2025 22:06:41.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> comida
+[23Jun2025 22:06:44.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> herramientas
+[23Jun2025 22:07:07.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> encantamientos
+[23Jun2025 22:07:21.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> mecanismos
+[23Jun2025 22:07:37.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> madera
+[23Jun2025 22:07:39.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> piedra
+[23Jun2025 22:07:49.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> tierra
+[23Jun2025 22:08:13.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> decoración
+[23Jun2025 22:09:16.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> alex cuevas
+[23Jun2025 22:10:51.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> cobblemon
+[23Jun2025 22:11:29.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> ad astra
+[23Jun2025 22:12:40.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> dinosaurios
