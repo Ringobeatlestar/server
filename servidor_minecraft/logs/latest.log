@@ -2024,3 +2024,8 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [23Jun2025 16:02:32.310] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: bc58c781-dc90-488d-b63b-d1e0ba8e1d18
 [23Jun2025 16:02:38.815] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 9.248067855834961) to MEDIUM (avg. 46.379539489746094)
 [23Jun2025 16:02:46.143] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.379539489746094) to VERY_LOW (avg. 16.08113670349121)
+[23Jun2025 16:05:53.643] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.708900451660156) to LOW (avg. 36.905174255371094)
+[23Jun2025 16:06:16.143] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 29.86050796508789) to VERY_LOW (avg. 10.866268157958984)
+[23Jun2025 16:06:23.804] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 629.0 μs. 293/293 recipes are parallelized.
+[23Jun2025 16:11:36.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has reached the goal [Quaint Scribe]
+[23Jun2025 16:11:36.365] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 4.240 ms. 5713/5766 recipes are parallelized.
