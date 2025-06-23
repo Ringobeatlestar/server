@@ -232,7 +232,7 @@
     },
     "bouffalant": {
       "normal": {
-        "isShiny": false,
+        "isShiny": true,
         "status": "CAUGHT",
         "discoveredTimestamp": 1749996679082,
         "caughtTimestamp": 1750414420845

@@ -185,9 +185,10 @@
         },
         "bouffalant": {
           "normal": {
-            "isShiny": false,
-            "status": "SEEN",
-            "discoveredTimestamp": 1749996679081
+            "isShiny": true,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749996679081,
+            "caughtTimestamp": 1750695501032
           }
         },
         "diggersby": {
@@ -1617,20 +1618,20 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 130,
+    "totalCaptureCount": 131,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 52,
-    "totalBattleVictoryCount": 214,
+    "totalBattleVictoryCount": 215,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 214,
+    "totalPvWBattleVictoryCount": 215,
     "totalPvNBattleVictoryCount": 0,
-    "totalShinyCaptureCount": 8,
+    "totalShinyCaptureCount": 9,
     "totalTradedCount": 21,
     "totalTypeCaptureCounts": {
       "grass": 17,
       "psychic": 5,
       "water": 8,
-      "normal": 28,
+      "normal": 29,
       "flying": 26,
       "ground": 8,
       "fire": 14,
