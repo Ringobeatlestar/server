@@ -1629,9 +1629,9 @@
     "totalCaptureCount": 132,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 52,
-    "totalBattleVictoryCount": 216,
+    "totalBattleVictoryCount": 217,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 216,
+    "totalPvWBattleVictoryCount": 217,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 9,
     "totalTradedCount": 21,
@@ -1702,7 +1702,8 @@
       "cobblemon:igglybuff": 1,
       "cobblemon:diglett": 1,
       "cobblemon:eiscue": 1,
-      "cobblemon:meloetta": 1
+      "cobblemon:meloetta": 1,
+      "cobblemon:rattata": 1
     },
     "aspectsCollected": {
       "cobblemon:vivillon": [
