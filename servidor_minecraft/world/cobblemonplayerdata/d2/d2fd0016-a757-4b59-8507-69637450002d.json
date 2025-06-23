@@ -1595,6 +1595,14 @@
             "discoveredTimestamp": 1750688605243,
             "caughtTimestamp": 1750688605243
           }
+        },
+        "xerneas": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750715594828,
+            "caughtTimestamp": 1750715594828
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1618,12 +1626,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 131,
+    "totalCaptureCount": 132,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 52,
-    "totalBattleVictoryCount": 215,
+    "totalBattleVictoryCount": 216,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 215,
+    "totalPvWBattleVictoryCount": 216,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 9,
     "totalTradedCount": 21,
@@ -1641,7 +1649,7 @@
       "fighting": 9,
       "bug": 18,
       "electric": 4,
-      "fairy": 11,
+      "fairy": 12,
       "rock": 8,
       "poison": 11,
       "dragon": 5,
