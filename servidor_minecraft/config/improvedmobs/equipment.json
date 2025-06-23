@@ -1,0 +1,1160 @@
+{
+  "__comment": [
+    "Mobs will be able to equip items declared here",
+    "The first number is the weight while the second number is the quality",
+    "Weight is the weight of an item. Higher weight means that the item is more likely to get choosen",
+    "Quality is a modifier applied to the weight. The final weight used is weight + quality * current difficulty"
+  ],
+  "MAINHAND": {
+    "alexscaves:desolate_dagger": [
+      8899,
+      4.753436
+    ],
+    "alexsmobs:skelewag_sword": [
+      10813,
+      0.7804518
+    ],
+    "alexsmobs:tendon_whip": [
+      11110,
+      0.0469
+    ],
+    "cataclysm:athame": [
+      11110,
+      0.0469
+    ],
+    "cataclysm:black_steel_axe": [
+      10152,
+      1.6320775
+    ],
+    "cataclysm:black_steel_sword": [
+      10239,
+      1.5193686
+    ],
+    "cataclysm:final_fractal": [
+      17,
+      23.563541
+    ],
+    "cataclysm:khopesh": [
+      10260,
+      1.4922183
+    ],
+    "cataclysm:zweiender": [
+      17,
+      23.563541
+    ],
+    "legendary_monsters:anchor_handle": [
+      11089,
+      0.049
+    ],
+    "legendary_monsters:axe_of_lightning": [
+      6233,
+      10.333886
+    ],
+    "legendary_monsters:chorus_blade": [
+      10214,
+      1.5517184
+    ],
+    "legendary_monsters:chorus_cannon": [
+      9179,
+      4.129458
+    ],
+    "legendary_monsters:dinosaur_bone_club": [
+      8622,
+      5.345786
+    ],
+    "legendary_monsters:fiery_jaw": [
+      10239,
+      1.5193686
+    ],
+    "legendary_monsters:golden_halbert": [
+      11077,
+      0.26597553
+    ],
+    "legendary_monsters:heart_of_tornado": [
+      9781,
+      2.1169202
+    ],
+    "legendary_monsters:knights_sword": [
+      11089,
+      0.049
+    ],
+    "legendary_monsters:monstrous_anchor": [
+      9451,
+      3.4189806
+    ],
+    "legendary_monsters:sand_cannon": [
+      9179,
+      4.129458
+    ],
+    "legendary_monsters:sharp_battle_axe": [
+      10214,
+      1.5517184
+    ],
+    "legendary_monsters:sharp_sai": [
+      11089,
+      0.049
+    ],
+    "legendary_monsters:soul_great_sword": [
+      7395,
+      7.9092336
+    ],
+    "legendary_monsters:the_great_frost": [
+      10214,
+      1.5517184
+    ],
+    "legendary_monsters:void_sword": [
+      11089,
+      0.049
+    ],
+    "mca:scythe": [
+      11295,
+      0.028399998
+    ],
+    "minecraft:bow": [
+      9011,
+      4.508568
+    ],
+    "minecraft:crossbow": [
+      9305,
+      3.826627
+    ],
+    "minecraft:diamond_axe": [
+      8774,
+      5.022479
+    ],
+    "minecraft:diamond_sword": [
+      8836,
+      4.889481
+    ],
+    "minecraft:enchanted_book": [
+      9979,
+      1.8573177
+    ],
+    "minecraft:golden_axe": [
+      11435,
+      0.014399999
+    ],
+    "minecraft:golden_sword": [
+      11498,
+      0.0081
+    ],
+    "minecraft:iron_axe": [
+      11002,
+      0.51635593
+    ],
+    "minecraft:iron_sword": [
+      11089,
+      0.049
+    ],
+    "minecraft:lingering_potion{Potion:\"minecraft:harming\"}": [
+      10079,
+      1.7269388
+    ],
+    "minecraft:netherite_axe": [
+      7938,
+      6.778693
+    ],
+    "minecraft:netherite_sword": [
+      8008,
+      6.632802
+    ],
+    "minecraft:snowball": [
+      11029,
+      0.46844563
+    ],
+    "minecraft:splash_potion{Potion:\"minecraft:harming\"}": [
+      10079,
+      1.7269388
+    ],
+    "minecraft:stone_axe": [
+      11205,
+      0.0374
+    ],
+    "minecraft:stone_sword": [
+      11313,
+      0.026599998
+    ],
+    "minecraft:tnt": [
+      9879,
+      1.9881918
+    ],
+    "minecraft:trident": [
+      9079,
+      4.357304
+    ],
+    "minecraft:wooden_axe": [
+      11389,
+      0.019
+    ],
+    "minecraft:wooden_sword": [
+      11452,
+      0.0127
+    ],
+    "mowziesmobs:blowgun": [
+      9179,
+      4.129458
+    ],
+    "mowziesmobs:wrought_axe": [
+      11002,
+      0.51635593
+    ],
+    "refurbished_furniture:knife": [
+      11079,
+      0.049999997
+    ],
+    "refurbished_furniture:spatula": [
+      11117,
+      0.046199996
+    ],
+    "the_deep_void:all_seeing_axe": [
+      10645,
+      0.9973453
+    ],
+    "the_deep_void:all_seeing_sword": [
+      10707,
+      0.91769844
+    ],
+    "the_deep_void:bismuth_netherite_axe": [
+      7161,
+      8.3965435
+    ],
+    "the_deep_void:bismuth_netherite_sword": [
+      7239,
+      8.234071
+    ],
+    "the_deep_void:bone_axe": [
+      11002,
+      0.51635593
+    ],
+    "the_deep_void:bone_sword": [
+      11110,
+      0.0469
+    ],
+    "the_deep_void:cruel_stiletto": [
+      8882,
+      4.790248
+    ],
+    "the_deep_void:flesh_glove": [
+      8100,
+      6.4409266
+    ],
+    "the_deep_void:goo_sword": [
+      10732,
+      0.8854958
+    ],
+    "the_deep_void:grim_scythe": [
+      8737,
+      5.1015
+    ],
+    "the_deep_void:grim_sickle": [
+      8899,
+      4.753436
+    ],
+    "the_deep_void:hard_flesh_sword": [
+      9992,
+      1.8403403
+    ],
+    "the_deep_void:judgement": [
+      11390,
+      0.0189
+    ],
+    "the_deep_void:lavendite_all_seeing_sword": [
+      10732,
+      0.8854958
+    ],
+    "the_deep_void:lavendite_axe": [
+      11370,
+      0.020899998
+    ],
+    "the_deep_void:lavendite_bone_sword": [
+      11127,
+      0.045199998
+    ],
+    "the_deep_void:lavendite_diamond_sword": [
+      8861,
+      4.8356147
+    ],
+    "the_deep_void:lavendite_golden_sword": [
+      11511,
+      0.0068
+    ],
+    "the_deep_void:lavendite_iron_sword": [
+      11110,
+      0.0469
+    ],
+    "the_deep_void:lavendite_netherite_sword": [
+      8037,
+      6.5723376
+    ],
+    "the_deep_void:lavendite_onyx_sword": [
+      8861,
+      4.8356147
+    ],
+    "the_deep_void:lavendite_stone_sword": [
+      11330,
+      0.024899999
+    ],
+    "the_deep_void:lavendite_sword": [
+      11440,
+      0.0139
+    ],
+    "the_deep_void:lavendite_voidrium_sword": [
+      5606,
+      11.648476
+    ],
+    "the_deep_void:lavendite_wooden_sword": [
+      11465,
+      0.011399999
+    ],
+    "the_deep_void:off_hand_void_dagger": [
+      8861,
+      4.8356147
+    ],
+    "the_deep_void:onyx_axe": [
+      8774,
+      5.022479
+    ],
+    "the_deep_void:onyx_sword": [
+      8836,
+      4.889481
+    ],
+    "the_deep_void:rotten_all_seeing_sword": [
+      10707,
+      0.91769844
+    ],
+    "the_deep_void:rotten_diamond_sword": [
+      8836,
+      4.889481
+    ],
+    "the_deep_void:rotten_golden_sword": [
+      11498,
+      0.0081
+    ],
+    "the_deep_void:rotten_iron_sword": [
+      11089,
+      0.049
+    ],
+    "the_deep_void:rotten_netherite_sword": [
+      8008,
+      6.632802
+    ],
+    "the_deep_void:rotten_sickle": [
+      10809,
+      0.7856766
+    ],
+    "the_deep_void:rotten_stone_sword": [
+      11313,
+      0.026599998
+    ],
+    "the_deep_void:rotten_wooden_sword": [
+      11452,
+      0.0127
+    ],
+    "the_deep_void:soul_cleaver": [
+      11427,
+      0.015199999
+    ],
+    "the_deep_void:stalker_scythe_claw": [
+      8690,
+      5.201559
+    ],
+    "the_deep_void:the_harvest": [
+      11321,
+      0.025799999
+    ],
+    "the_deep_void:tombstone": [
+      11241,
+      0.0338
+    ],
+    "the_deep_void:void_dagger": [
+      8861,
+      4.8356147
+    ],
+    "the_deep_void:voidrium_axe": [
+      5507,
+      11.856488
+    ],
+    "the_deep_void:voidrium_sword": [
+      5577,
+      11.709396
+    ],
+    "unusualprehistory:handmade_battleaxe": [
+      10115,
+      1.6801245
+    ],
+    "unusualprehistory:handmade_club": [
+      10058,
+      1.7542769
+    ],
+    "unusualprehistory:handmade_spear": [
+      10185,
+      1.589282
+    ],
+    "unusualprehistory:primal_macuahuitl": [
+      8458,
+      5.6916375
+    ],
+    "unusualprehistory:warpick": [
+      8557,
+      5.4831543
+    ],
+    "wan_ancient_beasts:ancient_club": [
+      11089,
+      0.049
+    ]
+  },
+  "OFFHAND": {
+    "alexscaves:resistor_shield": [
+      5197,
+      4.9045377
+    ],
+    "cataclysm:black_steel_targe": [
+      5517,
+      4.1986494
+    ],
+    "legendary_monsters:dinosaur_bone_shield": [
+      1697,
+      12.230802
+    ],
+    "legendary_monsters:frostbitten_shield": [
+      6497,
+      1.6619366
+    ],
+    "legendary_monsters:shulker_shield": [
+      6297,
+      1.9226934
+    ],
+    "legendary_monsters:spiky_shield": [
+      6497,
+      1.6619366
+    ],
+    "minecraft:ender_pearl": [
+      6847,
+      1.2102311
+    ],
+    "minecraft:flint_and_steel": [
+      6819,
+      1.2461817
+    ],
+    "minecraft:lava_bucket": [
+      6447,
+      1.7269388
+    ],
+    "minecraft:shield": [
+      6525,
+      1.6255897
+    ],
+    "the_deep_void:devourer_shield": [
+      6117,
+      2.159053
+    ],
+    "the_deep_void:eye_shield": [
+      4075,
+      7.259756
+    ],
+    "the_deep_void:lavendite_shield": [
+      6117,
+      2.159053
+    ],
+    "the_deep_void:voidrium_bulwark": [
+      275,
+      15.234985
+    ],
+    "unusualprehistory:trike_shield": [
+      4597,
+      6.171527
+    ],
+    "unusualprehistory:veloci_shield": [
+      5597,
+      4.012047
+    ],
+    "wan_ancient_beasts:reinforced_shield": [
+      6397,
+      1.792066
+    ]
+  },
+  "FEET": {
+    "ad_astra:jet_suit_boots": [
+      7722,
+      5.086568
+    ],
+    "ad_astra:netherite_space_boots": [
+      8555,
+      2.3839326
+    ],
+    "ad_astra:space_boots": [
+      9368,
+      1.3245949
+    ],
+    "alexscaves:diving_boots": [
+      9529,
+      1.1178746
+    ],
+    "alexscaves:gingerbread_boots": [
+      9783,
+      0.79089624
+    ],
+    "alexscaves:hazmat_boots": [
+      9730,
+      0.85967726
+    ],
+    "alexscaves:rainbounce_boots": [
+      10170,
+      0.0387
+    ],
+    "alexsmobs:flying_fish_boots": [
+      10416,
+      0.014099999
+    ],
+    "alexsmobs:roadrunner_boots": [
+      9854,
+      0.6972618
+    ],
+    "cataclysm:cursium_boots": [
+      6911,
+      6.789111
+    ],
+    "cataclysm:ignitium_boots": [
+      5701,
+      9.309818
+    ],
+    "legendary_monsters:atmospheric_boots": [
+      8450,
+      3.3474827
+    ],
+    "legendary_monsters:fiery_boots": [
+      8482,
+      3.22291
+    ],
+    "minecraft:chainmail_boots": [
+      9965,
+      0.540316
+    ],
+    "minecraft:diamond_boots": [
+      9049,
+      1.7373508
+    ],
+    "minecraft:golden_boots": [
+      10031,
+      0.4136078
+    ],
+    "minecraft:iron_boots": [
+      9717,
+      0.8764657
+    ],
+    "minecraft:leather_boots": [
+      10313,
+      0.0244
+    ],
+    "minecraft:netherite_boots": [
+      8922,
+      1.9030677
+    ],
+    "mowziesmobs:geomancer_sandals": [
+      9125,
+      1.6385665
+    ],
+    "the_deep_void:all_seeing_boots": [
+      9343,
+      1.3567728
+    ],
+    "the_deep_void:bismuth_netherite_boots": [
+      7008,
+      6.586934
+    ],
+    "the_deep_void:crawler_boots": [
+      9039,
+      1.7503701
+    ],
+    "the_deep_void:cult_boots": [
+      9893,
+      0.64441437
+    ],
+    "the_deep_void:flesh_armor_boots": [
+      2252,
+      16.579857
+    ],
+    "the_deep_void:grim_crawler_boots": [
+      8069,
+      4.3303447
+    ],
+    "the_deep_void:grim_lavendite_boots": [
+      8157,
+      4.129458
+    ],
+    "the_deep_void:grim_rotten_bone_boots": [
+      8445,
+      3.365072
+    ],
+    "the_deep_void:lavendite_armor_boots": [
+      9268,
+      1.4534681
+    ],
+    "the_deep_void:onyx_armor_boots": [
+      8103,
+      4.2534456
+    ],
+    "the_deep_void:rotten_bone_armor_boots": [
+      8949,
+      1.8677695
+    ],
+    "the_deep_void:sacred_voidrium_boots": [
+      35,
+      21.32285
+    ],
+    "the_deep_void:voidrium_boots": [
+      4556,
+      11.707294
+    ],
+    "the_deep_void:weaver_boots_boots": [
+      9649,
+      0.96397245
+    ],
+    "unusualprehistory:austro_boots": [
+      9938,
+      0.5808878
+    ],
+    "unusualprehistory:shedscale_boots": [
+      9478,
+      1.1832824
+    ]
+  },
+  "LEGS": {
+    "ad_astra:jet_suit_pants": [
+      7695,
+      5.199434
+    ],
+    "ad_astra:netherite_space_pants": [
+      8521,
+      3.1634672
+    ],
+    "ad_astra:space_pants": [
+      9337,
+      1.397999
+    ],
+    "alexscaves:diving_leggings": [
+      9527,
+      1.1537791
+    ],
+    "alexscaves:gingerbread_leggings": [
+      9796,
+      0.8078281
+    ],
+    "alexscaves:hazmat_leggings": [
+      9728,
+      0.89580816
+    ],
+    "alexscaves:primordial_pants": [
+      9818,
+      0.7791448
+    ],
+    "alexsmobs:centipede_leggings": [
+      8277,
+      3.9059477
+    ],
+    "alexsmobs:emu_leggings": [
+      9512,
+      1.173019
+    ],
+    "cataclysm:cursium_leggings": [
+      6937,
+      6.789111
+    ],
+    "cataclysm:ignitium_leggings": [
+      5727,
+      9.309818
+    ],
+    "minecraft:chainmail_leggings": [
+      9991,
+      0.540316
+    ],
+    "minecraft:diamond_leggings": [
+      9075,
+      1.7373508
+    ],
+    "minecraft:golden_leggings": [
+      10057,
+      0.4136078
+    ],
+    "minecraft:iron_leggings": [
+      9743,
+      0.8764657
+    ],
+    "minecraft:leather_leggings": [
+      10339,
+      0.0244
+    ],
+    "minecraft:netherite_leggings": [
+      8948,
+      1.9030677
+    ],
+    "mowziesmobs:geomancer_belt": [
+      9151,
+      1.6385665
+    ],
+    "the_deep_void:all_seeing_leggings": [
+      9369,
+      1.3567728
+    ],
+    "the_deep_void:bismuth_netherite_leggings": [
+      7034,
+      6.586934
+    ],
+    "the_deep_void:crawler_leggings": [
+      9065,
+      1.7503701
+    ],
+    "the_deep_void:cult_leggings": [
+      9919,
+      0.64441437
+    ],
+    "the_deep_void:flesh_armor_leggings": [
+      2278,
+      16.579857
+    ],
+    "the_deep_void:grim_crawler_leggings": [
+      8095,
+      4.3303447
+    ],
+    "the_deep_void:grim_lavendite_leggings": [
+      8183,
+      4.129458
+    ],
+    "the_deep_void:grim_rotten_bone_leggings": [
+      8471,
+      3.365072
+    ],
+    "the_deep_void:lavendite_armor_leggings": [
+      9294,
+      1.4534681
+    ],
+    "the_deep_void:onyx_armor_leggings": [
+      8129,
+      4.2534456
+    ],
+    "the_deep_void:rotten_bone_armor_leggings": [
+      8975,
+      1.8677695
+    ],
+    "the_deep_void:sacred_voidrium_leggings": [
+      61,
+      21.32285
+    ],
+    "the_deep_void:voidrium_leggings": [
+      4582,
+      11.707294
+    ],
+    "the_deep_void:weaver_leggings_leggings": [
+      9675,
+      0.96397245
+    ],
+    "unusualprehistory:shedscale_leggings": [
+      9504,
+      1.1832824
+    ]
+  },
+  "CHEST": {
+    "ad_astra:jet_suit": [
+      7732,
+      5.120687
+    ],
+    "ad_astra:netherite_space_suit": [
+      8557,
+      2.9321702
+    ],
+    "ad_astra:space_suit": [
+      9371,
+      1.3541976
+    ],
+    "alexscaves:cloak_of_darkness": [
+      9880,
+      0.6972618
+    ],
+    "alexscaves:diving_chestplate": [
+      9543,
+      1.1332608
+    ],
+    "alexscaves:gingerbread_chestplate": [
+      9804,
+      0.7974141
+    ],
+    "alexscaves:hazmat_chestplate": [
+      9745,
+      0.87388456
+    ],
+    "alexscaves:primordial_tunic": [
+      9835,
+      0.7568712
+    ],
+    "alexsmobs:crocodile_chestplate": [
+      9301,
+      1.4444326
+    ],
+    "alexsmobs:rocky_chestplate": [
+      9380,
+      1.3426114
+    ],
+    "alexsmobs:tarantula_hawk_elytra": [
+      9728,
+      0.89580816
+    ],
+    "alexsmobs:unsettling_kimono": [
+      9951,
+      0.59963983
+    ],
+    "cataclysm:bloom_stone_pauldrons": [
+      8548,
+      3.0056863
+    ],
+    "cataclysm:bone_reptile_chestplate": [
+      6768,
+      7.1410875
+    ],
+    "cataclysm:cursium_chestplate": [
+      6937,
+      6.789111
+    ],
+    "cataclysm:ignitium_chestplate": [
+      5727,
+      9.309818
+    ],
+    "cataclysm:ignitium_elytra_chestplate": [
+      5727,
+      9.309818
+    ],
+    "legendary_monsters:mossy_chestplate": [
+      7775,
+      5.028895
+    ],
+    "legendary_monsters:withered_ribcage": [
+      8405,
+      3.571134
+    ],
+    "minecraft:chainmail_chestplate": [
+      9991,
+      0.540316
+    ],
+    "minecraft:diamond_chestplate": [
+      9075,
+      1.7373508
+    ],
+    "minecraft:golden_chestplate": [
+      10057,
+      0.4136078
+    ],
+    "minecraft:iron_chestplate": [
+      9743,
+      0.8764657
+    ],
+    "minecraft:leather_chestplate": [
+      10339,
+      0.0244
+    ],
+    "minecraft:netherite_chestplate": [
+      8948,
+      1.9030677
+    ],
+    "mowziesmobs:geomancer_robe": [
+      9151,
+      1.6385665
+    ],
+    "the_deep_void:all_seeing_chestplate": [
+      9369,
+      1.3567728
+    ],
+    "the_deep_void:bismuth_netherite_chestplate": [
+      7034,
+      6.586934
+    ],
+    "the_deep_void:crawler_chestplate": [
+      9065,
+      1.7503701
+    ],
+    "the_deep_void:cult_chestplate": [
+      9919,
+      0.64441437
+    ],
+    "the_deep_void:flesh_armor_chestplate": [
+      2278,
+      16.579857
+    ],
+    "the_deep_void:grim_crawler_chestplate": [
+      8095,
+      4.3303447
+    ],
+    "the_deep_void:grim_lavendite_chestplate": [
+      8183,
+      4.129458
+    ],
+    "the_deep_void:grim_rotten_bone_chestplate": [
+      8471,
+      3.365072
+    ],
+    "the_deep_void:lavendite_armor_chestplate": [
+      9294,
+      1.4534681
+    ],
+    "the_deep_void:onyx_armor_chestplate": [
+      8129,
+      4.2534456
+    ],
+    "the_deep_void:rotten_bone_armor_chestplate": [
+      8975,
+      1.8677695
+    ],
+    "the_deep_void:sacred_voidrium_chestplate": [
+      61,
+      21.32285
+    ],
+    "the_deep_void:void_cloak_chestplate": [
+      10317,
+      0.026599998
+    ],
+    "the_deep_void:voidrium_chestplate": [
+      4582,
+      11.707294
+    ],
+    "the_deep_void:weaver_robe_chestplate": [
+      9649,
+      0.9973453
+    ],
+    "unusualprehistory:shedscale_chestplate": [
+      9504,
+      1.1832824
+    ],
+    "unusualprehistory:sloth_pouch_armor": [
+      10224,
+      0.035899997
+    ]
+  },
+  "HEAD": {
+    "ad_astra:jet_suit_helmet": [
+      7628,
+      5.2949486
+    ],
+    "ad_astra:netherite_space_helmet": [
+      8468,
+      3.2958906
+    ],
+    "ad_astra:space_helmet": [
+      9285,
+      1.4366896
+    ],
+    "alexscaves:diving_helmet": [
+      9490,
+      1.173019
+    ],
+    "alexscaves:gingerbread_helmet": [
+      9767,
+      0.8169267
+    ],
+    "alexscaves:hazmat_mask": [
+      9692,
+      0.91383743
+    ],
+    "alexscaves:hood_of_darkness": [
+      9834,
+      0.7291897
+    ],
+    "alexscaves:primordial_helmet": [
+      9782,
+      0.7974141
+    ],
+    "alexsmobs:fedora": [
+      10122,
+      0.043899998
+    ],
+    "alexsmobs:frontier_cap": [
+      9816,
+      0.75292885
+    ],
+    "alexsmobs:froststalker_helmet": [
+      9909,
+      0.62781405
+    ],
+    "alexsmobs:moose_headgear": [
+      9807,
+      0.7647448
+    ],
+    "alexsmobs:novelty_hat": [
+      10122,
+      0.043899998
+    ],
+    "alexsmobs:sombrero": [
+      10093,
+      0.0468
+    ],
+    "alexsmobs:spiked_turtle_shell": [
+      9557,
+      1.0871058
+    ],
+    "cataclysm:bone_reptile_helmet": [
+      6746,
+      7.1410875
+    ],
+    "cataclysm:cursium_helmet": [
+      6915,
+      6.789111
+    ],
+    "cataclysm:ignitium_helmet": [
+      5705,
+      9.309818
+    ],
+    "cataclysm:monstrous_helm": [
+      8926,
+      1.9030677
+    ],
+    "legendary_monsters:blastproof_helmet": [
+      8719,
+      2.1748655
+    ],
+    "legendary_monsters:chorus_mask": [
+      8838,
+      2.0183623
+    ],
+    "legendary_monsters:dinosaur_bone_helmet": [
+      8631,
+      2.2910256
+    ],
+    "legendary_monsters:shulker_helmet": [
+      8806,
+      2.0603807
+    ],
+    "minecraft:chainmail_helmet": [
+      9969,
+      0.540316
+    ],
+    "minecraft:diamond_helmet": [
+      9053,
+      1.7373508
+    ],
+    "minecraft:golden_helmet": [
+      10035,
+      0.4136078
+    ],
+    "minecraft:iron_helmet": [
+      9721,
+      0.8764657
+    ],
+    "minecraft:leather_helmet": [
+      10317,
+      0.0244
+    ],
+    "minecraft:netherite_helmet": [
+      8926,
+      1.9030677
+    ],
+    "minecraft:turtle_helmet": [
+      9665,
+      0.948558
+    ],
+    "mowziesmobs:geomancer_beads": [
+      9129,
+      1.6385665
+    ],
+    "mowziesmobs:sol_visage": [
+      10131,
+      0.042999998
+    ],
+    "mowziesmobs:umvuthana_mask_bliss": [
+      10405,
+      0.015599999
+    ],
+    "mowziesmobs:umvuthana_mask_faith": [
+      10405,
+      0.015599999
+    ],
+    "mowziesmobs:umvuthana_mask_fear": [
+      10405,
+      0.015599999
+    ],
+    "mowziesmobs:umvuthana_mask_fury": [
+      10405,
+      0.015599999
+    ],
+    "mowziesmobs:umvuthana_mask_misery": [
+      10405,
+      0.015599999
+    ],
+    "mowziesmobs:umvuthana_mask_rage": [
+      10405,
+      0.015599999
+    ],
+    "mowziesmobs:wrought_helmet": [
+      10135,
+      0.0426
+    ],
+    "the_deep_void:all_seeing_helmet": [
+      9347,
+      1.3567728
+    ],
+    "the_deep_void:bismuth_netherite_helmet": [
+      7012,
+      6.586934
+    ],
+    "the_deep_void:crawler_helmet": [
+      9043,
+      1.7503701
+    ],
+    "the_deep_void:cult_helmet": [
+      9897,
+      0.64441437
+    ],
+    "the_deep_void:flesh_armor_helmet": [
+      2256,
+      16.579857
+    ],
+    "the_deep_void:grim_crawler_helmet": [
+      8073,
+      4.3303447
+    ],
+    "the_deep_void:grim_lavendite_helmet": [
+      8161,
+      4.129458
+    ],
+    "the_deep_void:grim_rotten_bone_helmet": [
+      8449,
+      3.365072
+    ],
+    "the_deep_void:harvester_mask_helmet": [
+      9627,
+      0.9973453
+    ],
+    "the_deep_void:lavendite_armor_helmet": [
+      9272,
+      1.4534681
+    ],
+    "the_deep_void:onyx_armor_helmet": [
+      8107,
+      4.2534456
+    ],
+    "the_deep_void:rotten_bone_armor_helmet": [
+      8953,
+      1.8677695
+    ],
+    "the_deep_void:sacred_voidrium_helmet": [
+      39,
+      21.32285
+    ],
+    "the_deep_void:voidrium_helmet": [
+      4560,
+      11.707294
+    ],
+    "the_deep_void:weaver_mask_helmet": [
+      9653,
+      0.96397245
+    ],
+    "unusualprehistory:majunga_helmet": [
+      8970,
+      1.8455633
+    ],
+    "unusualprehistory:shedscale_helmet": [
+      9482,
+      1.1832824
+    ],
+    "unusualprehistory:tyrants_crown": [
+      10010,
+      0.47038844
+    ]
+  }
+}
