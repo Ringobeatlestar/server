@@ -1912,3 +1912,17 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [23Jun2025 21:25:23.808] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for ad_astra:venus_orbit changed from NORMAL (avg. 45.0) to VERY_LOW (avg. 0.04250886)
 [23Jun2025 21:25:23.809] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for the_deep_void:deep_void changed from NORMAL (avg. 45.0) to VERY_LOW (avg. 0.040725199999999996)
 [23Jun2025 21:25:23.809] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for ad_astra:mercury changed from NORMAL (avg. 45.0) to VERY_LOW (avg. 0.044605610000000004)
+[23Jun2025 21:37:55.986] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player AgentePerrote is d2fd0016-a757-4b59-8507-69637450002d
+[23Jun2025 21:37:58.307] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[23Jun2025 21:37:58.437] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AgentePerrote[/127.153.255.77:44469] logged in with entity id 1142 at (-1891.206687912514, 55.0, 241.17095245508528)
+[23Jun2025 21:37:58.727] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player AgentePerrote
+[23Jun2025 21:37:58.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote joined the game
+[23Jun2025 21:37:58.899] [Server thread/WARN] [solapplepie/]: Invalid attribute specified in config: generic.speed
+[23Jun2025 21:38:00.684] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 1.2855709791183472) to LOW (avg. 37.849788665771484)
+[23Jun2025 21:38:01.818] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from VERY_LOW (avg. 8.43769808) to LOW (avg. 18.62392346)
+[23Jun2025 21:38:22.554] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 31.89521026611328) to VERY_LOW (avg. 13.497373580932617)
+[23Jun2025 21:39:00.471] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 4.300 ms. 5713/5766 recipes are parallelized.
+[23Jun2025 21:39:15.061] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 11.445989608764648) to LOW (avg. 30.089290618896484)
+[23Jun2025 21:39:22.554] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 30.089290618896484) to VERY_LOW (avg. 17.09873390197754)
+[23Jun2025 21:40:14.168] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PokemonEntity['Bombardiro'/1814, l='ServerLevel[world]', x=-1897.85, y=67.00, z=172.45] died: Bombardiro was slain by Man From The Fog
+[23Jun2025 21:40:18.660] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PokemonEntity['Pepito'/1815, l='ServerLevel[world]', x=-1896.49, y=67.00, z=179.91] died: Pepito was slain by Man From The Fog
