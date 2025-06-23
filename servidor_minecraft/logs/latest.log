@@ -1942,3 +1942,9 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [23Jun2025 22:12:40.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> dinosaurios
 [23Jun2025 22:14:25.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> mods varios
 [23Jun2025 22:14:26.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> hechizos
+[23Jun2025 22:25:18.014] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AgentePerrote lost connection: Timed out
+[23Jun2025 22:25:18.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote left the game
+[23Jun2025 22:25:28.103] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player AgentePerrote is d2fd0016-a757-4b59-8507-69637450002d
+[23Jun2025 22:25:30.397] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AgentePerrote[/127.153.255.77:47267] logged in with entity id 16855 at (-1902.322335736082, 55.0, 246.02243644241065)
+[23Jun2025 22:25:30.485] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player AgentePerrote
+[23Jun2025 22:25:30.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote joined the game
