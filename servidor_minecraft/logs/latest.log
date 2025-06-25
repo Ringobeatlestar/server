@@ -1989,3 +1989,10 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [25Jun2025 09:35:42.779] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:primordial_caves at 3946 -56 2477 in 1s
 [25Jun2025 09:38:00.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has made the advancement [The Journey Begins]
 [25Jun2025 09:44:47.795] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PokemonEntity['La Ramona'/33292, l='ServerLevel[world]', x=-1881.55, y=69.00, z=207.71] died: La Ramona was slain by Man From The Fog
+[25Jun2025 09:51:59.498] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PokemonEntity['La Ramona'/41809, l='ServerLevel[world]', x=-1867.50, y=64.00, z=217.34] died: La Ramona was shot by Pillager
+[25Jun2025 09:56:39.549] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[25Jun2025 09:56:45.806] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[25Jun2025 09:56:49.860] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[25Jun2025 09:56:49.861] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[25Jun2025 09:56:49.861] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[25Jun2025 09:56:52.555] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'

@@ -2022,6 +2022,14 @@
             "discoveredTimestamp": 1750844628216,
             "caughtTimestamp": 1750844628216
           }
+        },
+        "applin": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750845001011,
+            "caughtTimestamp": 1750845001011
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -2049,12 +2057,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 133,
+    "totalCaptureCount": 134,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 108,
-    "totalBattleVictoryCount": 288,
+    "totalBattleVictoryCount": 291,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 288,
+    "totalPvWBattleVictoryCount": 291,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 22,
@@ -2070,12 +2078,12 @@
       "normal": 34,
       "flying": 20,
       "ground": 7,
-      "grass": 17,
+      "grass": 18,
       "fighting": 4,
       "psychic": 7,
       "electric": 6,
       "dark": 5,
-      "dragon": 2,
+      "dragon": 3,
       "steel": 3
     },
     "totalDefeatedCounts": {
@@ -2096,9 +2104,9 @@
       "cobblemon:butterfree": 13,
       "cobblemon:crabrawler": 10,
       "cobblemon:yanma": 1,
-      "cobblemon:araquanid": 5,
+      "cobblemon:araquanid": 6,
       "cobblemon:wingull": 1,
-      "cobblemon:ponyta": 1,
+      "cobblemon:ponyta": 2,
       "cobblemon:farfetchd": 2,
       "cobblemon:wimpod": 1,
       "cobblemon:caterpie": 1,
