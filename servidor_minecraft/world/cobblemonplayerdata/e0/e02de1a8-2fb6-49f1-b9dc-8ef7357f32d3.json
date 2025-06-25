@@ -2094,6 +2094,38 @@
             "discoveredTimestamp": 1750846646252,
             "caughtTimestamp": 1750846646252
           }
+        },
+        "paras": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750852494206,
+            "caughtTimestamp": 1750852494206
+          }
+        },
+        "impidimp": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750852547911,
+            "caughtTimestamp": 1750852547911
+          }
+        },
+        "illumise": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750852566808,
+            "caughtTimestamp": 1750852566808
+          }
+        },
+        "ursaring": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750852575680,
+            "caughtTimestamp": 1750852575680
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -2122,32 +2154,32 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 142,
+    "totalCaptureCount": 145,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 108,
-    "totalBattleVictoryCount": 300,
+    "totalEvolvedCount": 109,
+    "totalBattleVictoryCount": 303,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 300,
+    "totalPvWBattleVictoryCount": 303,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 22,
     "totalTypeCaptureCounts": {
       "rock": 7,
-      "bug": 15,
+      "bug": 17,
       "poison": 13,
       "water": 27,
       "ghost": 8,
       "fire": 3,
       "ice": 2,
-      "fairy": 13,
+      "fairy": 14,
       "normal": 38,
       "flying": 21,
       "ground": 7,
-      "grass": 20,
+      "grass": 21,
       "fighting": 4,
       "psychic": 7,
       "electric": 6,
-      "dark": 6,
+      "dark": 7,
       "dragon": 3,
       "steel": 4
     },

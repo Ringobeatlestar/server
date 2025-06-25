@@ -106,6 +106,7 @@
       "shrubland": "2025-06-20 14:59:25 +0000",
       "pine_taiga": "2025-06-16 18:34:47 +0000",
       "willow_forest": "2025-06-16 16:01:54 +0000",
+      "redstone_caves": "2025-06-25 11:57:20 +0000",
       "grassy_beach": "2025-06-16 18:19:52 +0000",
       "blackwood_taiga": "2025-06-15 09:46:01 +0000",
       "rocky_meadow": "2025-06-16 18:19:54 +0000",
@@ -2091,74 +2092,74 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-25 11:48:03 +0000"
+      "log_spam_fixer": "2025-06-25 11:58:02 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2025-06-25 11:48:35 +0000",
-      "log_spam_fixer": "2025-06-25 11:48:03 +0000"
+      "requirement": "2025-06-25 11:58:32 +0000",
+      "log_spam_fixer": "2025-06-25 11:58:02 +0000"
     },
     "done": true
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-25 11:48:03 +0000"
+      "log_spam_fixer": "2025-06-25 11:58:02 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-25 11:48:03 +0000"
+      "log_spam_fixer": "2025-06-25 11:58:02 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-25 11:48:03 +0000"
+      "log_spam_fixer": "2025-06-25 11:58:02 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-25 11:48:03 +0000"
+      "log_spam_fixer": "2025-06-25 11:58:02 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-25 11:48:03 +0000"
+      "log_spam_fixer": "2025-06-25 11:58:02 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-25 11:48:03 +0000"
+      "log_spam_fixer": "2025-06-25 11:58:02 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-25 11:48:03 +0000"
+      "log_spam_fixer": "2025-06-25 11:58:02 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-25 11:48:03 +0000"
+      "log_spam_fixer": "2025-06-25 11:58:02 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-25 11:48:03 +0000"
+      "log_spam_fixer": "2025-06-25 11:58:02 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-25 11:48:03 +0000"
+      "log_spam_fixer": "2025-06-25 11:58:02 +0000"
     },
     "done": false
   },
@@ -2168,11 +2169,23 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/ride_gum_worm": {
+    "criteria": {
+      "ride_gum_worm": "2025-06-25 11:57:17 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/radiant_essence": {
     "criteria": {
       "mussel": "2025-06-25 11:18:18 +0000"
     },
     "done": true
+  },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "redstone_caves": "2025-06-25 11:57:20 +0000"
+    },
+    "done": false
   },
   "alexscaves:alexscaves/tame_candicorn": {
     "criteria": {

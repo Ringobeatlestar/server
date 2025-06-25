@@ -2680,6 +2680,22 @@
         "discoveredTimestamp": 1750846701006,
         "caughtTimestamp": 1750846701006
       }
+    },
+    "paras": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750852494207,
+        "caughtTimestamp": 1750852494207
+      }
+    },
+    "illumise": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750852566809,
+        "caughtTimestamp": 1750852566809
+      }
     }
   }
 }
