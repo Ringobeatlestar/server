@@ -1975,6 +1975,22 @@
             "status": "SEEN",
             "discoveredTimestamp": 1750843379187
           }
+        },
+        "unfezant": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750843812747,
+            "caughtTimestamp": 1750843812747
+          }
+        },
+        "quagsire": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750844095406,
+            "caughtTimestamp": 1750844095406
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -2004,10 +2020,10 @@
   "advancementData": {
     "totalCaptureCount": 133,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 103,
-    "totalBattleVictoryCount": 279,
+    "totalEvolvedCount": 105,
+    "totalBattleVictoryCount": 285,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 279,
+    "totalPvWBattleVictoryCount": 285,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 21,
@@ -2034,16 +2050,16 @@
     "totalDefeatedCounts": {
       "cobblemon:flabebe": 1,
       "cobblemon:mudbray": 1,
-      "cobblemon:bouffalant": 7,
+      "cobblemon:bouffalant": 8,
       "cobblemon:bunnelby": 4,
       "cobblemon:diggersby": 5,
       "cobblemon:combee": 2,
-      "cobblemon:miltank": 2,
+      "cobblemon:miltank": 3,
       "cobblemon:lilligant": 4,
       "cobblemon:snorunt": 1,
       "cobblemon:krabby": 5,
       "cobblemon:petilil": 2,
-      "cobblemon:tauros": 17,
+      "cobblemon:tauros": 18,
       "cobblemon:cutiefly": 2,
       "cobblemon:kingler": 6,
       "cobblemon:butterfree": 13,
@@ -2097,7 +2113,10 @@
       "cobblemon:voltorb": 1,
       "cobblemon:ekans": 1,
       "cobblemon:dottler": 1,
-      "cobblemon:golem": 1
+      "cobblemon:golem": 1,
+      "cobblemon:fletchling": 1,
+      "cobblemon:buneary": 1,
+      "cobblemon:spinda": 1
     },
     "aspectsCollected": {
       "cobblemon:vivillon": [

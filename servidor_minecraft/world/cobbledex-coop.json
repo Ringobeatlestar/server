@@ -2563,6 +2563,22 @@
         "status": "SEEN",
         "discoveredTimestamp": 1750843379190
       }
+    },
+    "unfezant": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750843812749,
+        "caughtTimestamp": 1750843812749
+      }
+    },
+    "quagsire": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750844095407,
+        "caughtTimestamp": 1750844095407
+      }
     }
   }
 }
