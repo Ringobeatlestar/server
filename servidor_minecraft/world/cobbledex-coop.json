@@ -2712,6 +2712,30 @@
         "discoveredTimestamp": 1750852833354,
         "caughtTimestamp": 1750852833354
       }
+    },
+    "victreebel": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750885370748,
+        "caughtTimestamp": 1750885370748
+      }
+    },
+    "fearow": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750885389781,
+        "caughtTimestamp": 1750885389781
+      }
+    },
+    "donphan": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750885425387,
+        "caughtTimestamp": 1750885425387
+      }
     }
   }
 }
