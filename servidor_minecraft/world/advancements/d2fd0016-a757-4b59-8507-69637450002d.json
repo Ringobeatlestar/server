@@ -2000,79 +2000,103 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-25 10:22:32 +0000"
+      "log_spam_fixer": "2025-06-25 10:32:32 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-06-25 10:22:32 +0000"
+      "log_spam_fixer": "2025-06-25 10:32:32 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-25 10:22:32 +0000"
+      "log_spam_fixer": "2025-06-25 10:32:32 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-25 10:22:32 +0000"
+      "log_spam_fixer": "2025-06-25 10:32:32 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-25 10:22:32 +0000"
+      "log_spam_fixer": "2025-06-25 10:32:32 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-25 10:22:32 +0000"
+      "log_spam_fixer": "2025-06-25 10:32:32 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-25 10:22:32 +0000"
+      "log_spam_fixer": "2025-06-25 10:32:32 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-25 10:22:32 +0000"
+      "log_spam_fixer": "2025-06-25 10:32:32 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-25 10:22:32 +0000"
+      "log_spam_fixer": "2025-06-25 10:32:32 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-25 10:22:32 +0000"
+      "log_spam_fixer": "2025-06-25 10:32:32 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-25 10:22:32 +0000"
+      "log_spam_fixer": "2025-06-25 10:32:32 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-25 10:22:32 +0000"
+      "log_spam_fixer": "2025-06-25 10:32:32 +0000"
     },
     "done": false
+  },
+  "alexscaves:alexscaves/discover_candy_cavity": {
+    "criteria": {
+      "discover": "2025-06-25 10:27:20 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_caniac": {
+    "criteria": {
+      "killed": "2025-06-25 10:29:48 +0000"
+    },
+    "done": true
   },
   "vanillacookbook:recipes/cocoa_beans": {
     "criteria": {
       "has_cocoa_beans": "2025-06-25 10:03:34 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/eat_block_of_chocolate": {
+    "criteria": {
+      "eat_block_of_chocolate": "2025-06-25 10:27:32 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/eat_candy_cane": {
+    "criteria": {
+      "eat_candy_cane": "2025-06-25 10:30:47 +0000"
     },
     "done": true
   },

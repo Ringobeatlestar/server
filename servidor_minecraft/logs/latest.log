@@ -2319,3 +2319,15 @@ java.lang.IllegalArgumentException: bound must be positive
 [25Jun2025 10:26:50.158] [Worker-Main-29/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
 [25Jun2025 10:26:52.222] [Worker-Main-29/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
 [25Jun2025 10:27:19.385] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 12.4761323928833) to LOW (avg. 39.82562255859375)
+[25Jun2025 10:27:20.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has reached the goal [Pure Imagination]
+[25Jun2025 10:27:26.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has reached the goal [Pure Imagination]
+[25Jun2025 10:27:32.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Choc-o-Block]
+[25Jun2025 10:27:34.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has made the advancement [Choc-o-Block]
+[25Jun2025 10:27:41.736] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.373878479003906) to VERY_LOW (avg. 8.988085746765137)
+[25Jun2025 10:28:14.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has reached the goal [Sweet Sweet Speeding Up]
+[25Jun2025 10:29:48.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Caniac No More]
+[25Jun2025 10:30:33.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has made the advancement [Tis the Season]
+[25Jun2025 10:30:47.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Tis the Season]
+[25Jun2025 10:32:35.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has made the advancement [Unwrapped Candy]
+[25Jun2025 10:35:22.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Yellow Brick Road]
+[25Jun2025 10:35:25.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has made the advancement [Yellow Brick Road]
