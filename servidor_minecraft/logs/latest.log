@@ -1925,3 +1925,18 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [25Jun2025 13:42:09.353] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.761661529541016) to LOW (avg. 38.151893615722656)
 [25Jun2025 13:42:10.610] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from LOW (avg. 25.82249397) to NORMAL (avg. 37.64645738)
 [25Jun2025 13:42:24.344] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 38.151893615722656) to VERY_LOW (avg. 11.964881896972656)
+[25Jun2025 13:53:13.511] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 4.949 ms. 5713/5766 recipes are parallelized.
+[25Jun2025 13:55:43.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: That player does not exist
+[25Jun2025 13:55:52.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: That player does not exist
+[25Jun2025 13:55:59.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made AgentePerrote no longer a server operator
+[25Jun2025 13:59:19.270] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[25Jun2025 13:59:19.469] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[25Jun2025 13:59:19.611] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[25Jun2025 13:59:19.626] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[25Jun2025 13:59:23.071] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[25Jun2025 13:59:28.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Bouffalant
+[25Jun2025 13:59:28.981] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[25Jun2025 13:59:44.314] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[25Jun2025 13:59:44.366] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[25Jun2025 13:59:44.367] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[25Jun2025 13:59:44.367] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'

@@ -13920,3 +13920,313 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [25Jun2025 13:49:32.744] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
 [25Jun2025 13:49:32.745] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
 [25Jun2025 13:49:32.757] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[25Jun2025 13:50:02.794] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[25Jun2025 13:50:02.795] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[25Jun2025 13:50:02.796] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[25Jun2025 13:50:32.844] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[25Jun2025 13:50:32.845] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[25Jun2025 13:50:32.846] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[25Jun2025 13:51:01.001] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jun2025 13:51:01.032] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jun2025 13:51:02.894] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[25Jun2025 13:51:02.895] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[25Jun2025 13:51:02.896] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[25Jun2025 13:51:32.944] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[25Jun2025 13:51:32.945] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[25Jun2025 13:51:32.946] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[25Jun2025 13:52:02.994] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[25Jun2025 13:52:02.995] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[25Jun2025 13:52:02.996] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[25Jun2025 13:52:33.044] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[25Jun2025 13:52:33.044] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[25Jun2025 13:52:33.045] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[25Jun2025 13:53:03.094] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[25Jun2025 13:53:03.094] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[25Jun2025 13:53:03.095] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[25Jun2025 13:53:13.511] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 4.949 ms. 5713/5766 recipes are parallelized.
+[25Jun2025 13:53:33.144] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[25Jun2025 13:53:33.144] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[25Jun2025 13:53:33.144] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[25Jun2025 13:54:03.194] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[25Jun2025 13:54:03.194] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[25Jun2025 13:54:03.194] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[25Jun2025 13:54:33.244] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[25Jun2025 13:54:33.244] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[25Jun2025 13:54:33.244] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[25Jun2025 13:54:43.001] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1893.00, y=69.88, z=217.40]]
+[25Jun2025 13:54:43.248] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1893.00, y=69.88, z=217.40]]
+[25Jun2025 13:54:43.348] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1893.00, y=69.88, z=217.40]]
+[25Jun2025 13:54:44.548] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1893.00, y=69.88, z=217.40]]
+[25Jun2025 13:54:44.648] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1893.00, y=69.88, z=217.40]]
+[25Jun2025 13:54:45.847] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1893.00, y=69.88, z=217.40]]
+[25Jun2025 13:54:48.048] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1893.00, y=69.88, z=217.40]]
+[25Jun2025 13:54:48.948] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1893.00, y=69.88, z=217.40]]
+[25Jun2025 13:54:49.947] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1893.00, y=69.88, z=217.40]]
+[25Jun2025 13:54:50.996] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1893.00, y=69.88, z=217.40]]
+[25Jun2025 13:54:51.147] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1893.00, y=69.88, z=217.40]]
+[25Jun2025 13:54:51.447] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1893.00, y=69.88, z=217.40]]
+[25Jun2025 13:54:51.746] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1893.00, y=69.88, z=217.40]]
+[25Jun2025 13:54:53.047] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1893.00, y=69.88, z=217.40]]
+[25Jun2025 13:54:53.246] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1893.00, y=69.88, z=217.40]]
+[25Jun2025 13:54:54.646] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1893.00, y=69.88, z=217.40]]
+[25Jun2025 13:55:00.448] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1893.00, y=69.88, z=217.40]]
+[25Jun2025 13:55:01.847] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1893.00, y=69.88, z=217.40]]
+[25Jun2025 13:55:02.697] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1893.00, y=69.88, z=217.40]]
+[25Jun2025 13:55:02.947] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1893.00, y=69.88, z=217.40]]
+[25Jun2025 13:55:03.296] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1893.00, y=69.88, z=217.40]]
+[25Jun2025 13:55:03.296] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[25Jun2025 13:55:03.296] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[25Jun2025 13:55:03.296] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[25Jun2025 13:55:05.296] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1893.00, y=69.88, z=217.40]]
+[25Jun2025 13:55:05.346] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1893.00, y=69.88, z=217.40]]
+[25Jun2025 13:55:06.747] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1893.00, y=69.88, z=217.40]]
+[25Jun2025 13:55:06.947] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1893.00, y=69.88, z=217.40]]
+[25Jun2025 13:55:07.447] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1893.00, y=69.88, z=217.40]]
+[25Jun2025 13:55:08.047] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1893.00, y=69.88, z=217.40]]
+[25Jun2025 13:55:08.197] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1893.00, y=69.88, z=217.40]]
+[25Jun2025 13:55:08.447] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1893.00, y=69.88, z=217.40]]
+[25Jun2025 13:55:08.696] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1893.00, y=69.88, z=217.40]]
+[25Jun2025 13:55:08.997] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1893.00, y=69.88, z=217.40]]
+[25Jun2025 13:55:09.246] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1893.00, y=69.88, z=217.40]]
+[25Jun2025 13:55:11.996] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1893.00, y=69.88, z=217.40]]
+[25Jun2025 13:55:12.646] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1893.00, y=69.88, z=217.40]]
+[25Jun2025 13:55:13.097] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1893.00, y=69.88, z=217.40]]
+[25Jun2025 13:55:15.246] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1893.00, y=69.88, z=217.40]]
+[25Jun2025 13:55:15.996] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1893.00, y=69.88, z=217.40]]
+[25Jun2025 13:55:16.196] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1893.00, y=69.88, z=217.40]]
+[25Jun2025 13:55:16.346] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1893.20, y=69.88, z=217.24]]
+[25Jun2025 13:55:16.997] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1894.85, y=70.88, z=215.70]]
+[25Jun2025 13:55:18.846] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1898.61, y=69.02, z=209.94]]
+[25Jun2025 13:55:19.096] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1899.11, y=69.00, z=208.41]]
+[25Jun2025 13:55:19.446] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1900.67, y=68.94, z=207.39]]
+[25Jun2025 13:55:20.796] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1905.99, y=68.94, z=206.59]]
+[25Jun2025 13:55:21.096] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1905.99, y=68.94, z=206.59]]
+[25Jun2025 13:55:21.146] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1905.99, y=68.94, z=206.59]]
+[25Jun2025 13:55:21.196] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1905.99, y=68.94, z=206.59]]
+[25Jun2025 13:55:21.397] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1906.07, y=68.94, z=207.01]]
+[25Jun2025 13:55:22.246] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1906.53, y=68.94, z=207.63]]
+[25Jun2025 13:55:22.647] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1907.82, y=69.00, z=207.12]]
+[25Jun2025 13:55:23.196] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1907.88, y=69.00, z=207.08]]
+[25Jun2025 13:55:23.746] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1907.88, y=69.00, z=207.08]]
+[25Jun2025 13:55:26.346] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1908.25, y=69.00, z=208.04]]
+[25Jun2025 13:55:27.246] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1908.25, y=69.00, z=208.04]]
+[25Jun2025 13:55:29.096] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1908.25, y=69.00, z=208.04]]
+[25Jun2025 13:55:29.647] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1908.25, y=69.00, z=208.04]]
+[25Jun2025 13:55:30.446] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1908.25, y=69.00, z=208.04]]
+[25Jun2025 13:55:32.647] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1908.25, y=69.00, z=208.04]]
+[25Jun2025 13:55:32.696] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1908.25, y=69.00, z=208.04]]
+[25Jun2025 13:55:33.146] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1908.25, y=69.00, z=208.04]]
+[25Jun2025 13:55:33.344] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[25Jun2025 13:55:33.344] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[25Jun2025 13:55:33.344] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[25Jun2025 13:55:35.046] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1908.25, y=69.00, z=208.04]]
+[25Jun2025 13:55:35.946] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1908.25, y=69.00, z=208.04]]
+[25Jun2025 13:55:36.146] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1908.25, y=69.00, z=208.04]]
+[25Jun2025 13:55:36.946] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1908.25, y=69.00, z=208.04]]
+[25Jun2025 13:55:37.096] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1908.25, y=69.00, z=208.04]]
+[25Jun2025 13:55:37.296] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1908.25, y=69.00, z=208.04]]
+[25Jun2025 13:55:38.296] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1908.25, y=69.00, z=208.04]]
+[25Jun2025 13:55:39.296] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1908.25, y=69.00, z=208.04]]
+[25Jun2025 13:55:39.446] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1908.25, y=69.00, z=208.04]]
+[25Jun2025 13:55:39.796] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1908.25, y=69.00, z=208.04]]
+[25Jun2025 13:55:41.396] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1908.25, y=69.00, z=208.04]]
+[25Jun2025 13:55:42.396] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1908.25, y=69.00, z=208.04]]
+[25Jun2025 13:55:43.045] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1908.25, y=69.00, z=208.04]]
+[25Jun2025 13:55:43.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: That player does not exist
+[25Jun2025 13:55:43.600] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1908.25, y=69.00, z=208.04]]
+[25Jun2025 13:55:44.547] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1908.25, y=69.00, z=208.04]]
+[25Jun2025 13:55:45.446] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1908.25, y=69.00, z=208.04]]
+[25Jun2025 13:55:46.696] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1908.25, y=69.00, z=208.04]]
+[25Jun2025 13:55:49.546] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1908.25, y=69.00, z=208.04]]
+[25Jun2025 13:55:50.346] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1908.25, y=69.00, z=208.04]]
+[25Jun2025 13:55:51.646] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1908.25, y=69.00, z=208.04]]
+[25Jun2025 13:55:52.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: That player does not exist
+[25Jun2025 13:55:52.215] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1908.25, y=69.00, z=208.04]]
+[25Jun2025 13:55:54.996] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1908.25, y=69.00, z=208.04]]
+[25Jun2025 13:55:55.646] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1908.25, y=69.00, z=208.04]]
+[25Jun2025 13:55:56.546] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1908.25, y=69.00, z=208.04]]
+[25Jun2025 13:55:57.896] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1908.25, y=69.00, z=208.04]]
+[25Jun2025 13:55:58.046] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1908.25, y=69.00, z=208.04]]
+[25Jun2025 13:55:58.247] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1908.25, y=69.00, z=208.04]]
+[25Jun2025 13:55:59.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made AgentePerrote no longer a server operator
+[25Jun2025 13:56:00.696] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1908.25, y=69.00, z=208.04]]
+[25Jun2025 13:56:00.980] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jun2025 13:56:01.009] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jun2025 13:56:01.996] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1908.25, y=69.00, z=208.04]]
+[25Jun2025 13:56:02.946] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1908.21, y=69.00, z=207.97]]
+[25Jun2025 13:56:03.394] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[25Jun2025 13:56:03.394] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[25Jun2025 13:56:03.394] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[25Jun2025 13:56:05.796] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1909.04, y=69.00, z=207.34]]
+[25Jun2025 13:56:07.196] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1909.04, y=69.00, z=207.34]]
+[25Jun2025 13:56:08.195] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1909.04, y=69.00, z=207.34]]
+[25Jun2025 13:56:08.297] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1909.04, y=69.00, z=207.34]]
+[25Jun2025 13:56:08.946] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1909.04, y=69.00, z=207.34]]
+[25Jun2025 13:56:11.396] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1909.04, y=69.00, z=207.34]]
+[25Jun2025 13:56:12.596] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1909.04, y=69.00, z=207.34]]
+[25Jun2025 13:56:12.796] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1909.04, y=69.00, z=207.34]]
+[25Jun2025 13:56:13.145] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1909.04, y=69.00, z=207.34]]
+[25Jun2025 13:56:15.696] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1902.31, y=68.94, z=206.71]]
+[25Jun2025 13:56:16.446] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1905.33, y=68.94, z=207.84]]
+[25Jun2025 13:56:16.646] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1905.89, y=68.94, z=208.19]]
+[25Jun2025 13:56:17.146] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1908.05, y=68.94, z=208.40]]
+[25Jun2025 13:56:17.895] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1909.54, y=68.94, z=208.25]]
+[25Jun2025 13:56:19.495] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1909.54, y=68.94, z=208.25]]
+[25Jun2025 13:56:22.146] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1909.32, y=68.94, z=208.13]]
+[25Jun2025 13:56:25.145] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1909.32, y=68.94, z=208.13]]
+[25Jun2025 13:56:26.245] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1909.26, y=69.00, z=208.06]]
+[25Jun2025 13:56:27.046] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1909.26, y=69.00, z=208.06]]
+[25Jun2025 13:56:28.146] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1909.26, y=69.00, z=208.06]]
+[25Jun2025 13:56:29.396] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1909.26, y=69.00, z=208.06]]
+[25Jun2025 13:56:30.446] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1909.26, y=69.00, z=208.06]]
+[25Jun2025 13:56:30.695] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1909.26, y=69.00, z=208.06]]
+[25Jun2025 13:56:31.545] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1909.26, y=69.00, z=208.06]]
+[25Jun2025 13:56:33.444] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[25Jun2025 13:56:33.444] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[25Jun2025 13:56:33.444] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[25Jun2025 13:56:33.595] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1909.26, y=69.00, z=208.06]]
+[25Jun2025 13:56:33.796] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1909.26, y=69.00, z=208.06]]
+[25Jun2025 13:56:34.346] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1909.26, y=69.00, z=208.06]]
+[25Jun2025 13:56:35.946] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1909.26, y=69.00, z=208.06]]
+[25Jun2025 13:56:36.196] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1909.26, y=69.00, z=208.06]]
+[25Jun2025 13:56:37.445] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1909.32, y=68.94, z=207.99]]
+[25Jun2025 13:56:37.495] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1909.32, y=68.94, z=207.99]]
+[25Jun2025 13:56:37.745] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1909.32, y=68.94, z=207.99]]
+[25Jun2025 13:56:39.146] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1909.32, y=68.94, z=207.99]]
+[25Jun2025 13:56:39.646] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1908.99, y=69.00, z=207.72]]
+[25Jun2025 13:56:42.346] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1898.90, y=68.00, z=211.43]]
+[25Jun2025 13:56:43.597] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1892.14, y=69.00, z=214.07]]
+[25Jun2025 13:56:43.996] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1889.69, y=70.00, z=213.93]]
+[25Jun2025 13:56:44.146] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1888.83, y=70.25, z=213.87]]
+[25Jun2025 13:56:45.646] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1878.38, y=69.42, z=213.62]]
+[25Jun2025 13:56:46.546] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1872.11, y=70.18, z=214.34]]
+[25Jun2025 13:56:46.846] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1870.23, y=68.92, z=214.94]]
+[25Jun2025 13:56:51.745] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1868.12, y=55.00, z=231.98]]
+[25Jun2025 13:56:52.459] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1868.89, y=55.00, z=234.95]]
+[25Jun2025 13:56:52.545] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1869.04, y=55.00, z=235.46]]
+[25Jun2025 13:56:53.745] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1873.14, y=55.00, z=240.22]]
+[25Jun2025 13:57:00.645] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1895.55, y=55.00, z=242.64]]
+[25Jun2025 13:57:03.494] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[25Jun2025 13:57:03.494] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[25Jun2025 13:57:03.494] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[25Jun2025 13:57:03.895] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1877.30, y=55.00, z=242.63]]
+[25Jun2025 13:57:06.095] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1886.72, y=55.00, z=243.16]]
+[25Jun2025 13:57:06.795] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1890.24, y=55.00, z=244.71]]
+[25Jun2025 13:57:08.145] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1897.04, y=55.00, z=244.75]]
+[25Jun2025 13:57:09.495] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1903.94, y=55.00, z=245.83]]
+[25Jun2025 13:57:15.245] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1898.00, y=56.25, z=244.88]]
+[25Jun2025 13:57:33.544] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[25Jun2025 13:57:33.544] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[25Jun2025 13:57:33.544] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[25Jun2025 13:58:03.594] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[25Jun2025 13:58:03.594] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[25Jun2025 13:58:03.594] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[25Jun2025 13:58:29.995] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1877.40, y=55.00, z=242.61]]
+[25Jun2025 13:58:31.095] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1872.26, y=55.00, z=239.63]]
+[25Jun2025 13:58:33.445] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1868.43, y=55.00, z=235.14]]
+[25Jun2025 13:58:33.644] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[25Jun2025 13:58:33.644] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[25Jun2025 13:58:33.644] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[25Jun2025 13:58:35.695] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1868.50, y=61.00, z=220.68]]
+[25Jun2025 13:58:35.996] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1868.64, y=63.00, z=218.67]]
+[25Jun2025 13:58:36.596] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1869.12, y=67.00, z=214.67]]
+[25Jun2025 13:58:37.246] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1872.58, y=69.00, z=212.92]]
+[25Jun2025 13:58:37.546] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1874.56, y=69.00, z=213.27]]
+[25Jun2025 13:58:37.795] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1876.54, y=69.00, z=213.66]]
+[25Jun2025 13:58:39.396] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1886.48, y=69.00, z=213.83]]
+[25Jun2025 13:58:40.996] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1891.55, y=69.00, z=218.25]]
+[25Jun2025 13:58:41.469] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1894.22, y=69.00, z=219.45]]
+[25Jun2025 13:58:42.496] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1894.88, y=69.00, z=220.02]]
+[25Jun2025 13:58:43.596] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1894.88, y=69.00, z=220.02]]
+[25Jun2025 13:58:45.245] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1896.76, y=69.00, z=220.90]]
+[25Jun2025 13:58:45.595] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1896.76, y=69.00, z=220.90]]
+[25Jun2025 13:58:45.795] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1896.76, y=69.00, z=220.90]]
+[25Jun2025 13:58:46.146] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1896.76, y=69.00, z=220.90]]
+[25Jun2025 13:58:46.545] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1896.76, y=69.00, z=220.90]]
+[25Jun2025 13:58:46.645] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1896.76, y=69.00, z=220.90]]
+[25Jun2025 13:58:47.646] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1896.96, y=69.00, z=220.68]]
+[25Jun2025 13:58:49.345] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1897.26, y=69.00, z=220.31]]
+[25Jun2025 13:58:50.146] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1896.99, y=69.00, z=219.87]]
+[25Jun2025 13:58:50.646] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1896.16, y=69.80, z=218.63]]
+[25Jun2025 13:58:50.746] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1896.07, y=69.12, z=218.50]]
+[25Jun2025 13:58:51.046] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1895.91, y=68.00, z=218.30]]
+[25Jun2025 13:58:52.046] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1894.15, y=69.00, z=218.24]]
+[25Jun2025 13:58:52.146] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1894.15, y=69.00, z=218.24]]
+[25Jun2025 13:58:52.645] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1894.15, y=69.00, z=218.24]]
+[25Jun2025 13:58:53.996] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1892.85, y=70.18, z=218.00]]
+[25Jun2025 13:58:54.546] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1892.71, y=69.88, z=217.79]]
+[25Jun2025 13:58:54.845] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1892.71, y=69.88, z=217.79]]
+[25Jun2025 13:58:55.195] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1893.12, y=69.88, z=217.52]]
+[25Jun2025 13:58:58.046] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1895.52, y=69.88, z=216.24]]
+[25Jun2025 13:58:58.695] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1895.52, y=69.88, z=216.24]]
+[25Jun2025 13:58:59.745] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1895.52, y=69.88, z=216.24]]
+[25Jun2025 13:58:59.896] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1895.52, y=69.88, z=216.24]]
+[25Jun2025 13:59:00.795] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1895.52, y=69.88, z=216.24]]
+[25Jun2025 13:59:01.346] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1895.52, y=69.88, z=216.24]]
+[25Jun2025 13:59:01.395] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1895.52, y=69.88, z=216.24]]
+[25Jun2025 13:59:02.196] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1893.44, y=69.88, z=216.79]]
+[25Jun2025 13:59:03.146] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1893.42, y=69.88, z=216.80]]
+[25Jun2025 13:59:03.495] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1893.42, y=69.88, z=216.80]]
+[25Jun2025 13:59:03.694] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[25Jun2025 13:59:03.694] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[25Jun2025 13:59:03.694] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[25Jun2025 13:59:04.245] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1893.42, y=69.88, z=216.80]]
+[25Jun2025 13:59:05.095] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1893.42, y=69.88, z=216.80]]
+[25Jun2025 13:59:06.396] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1890.80, y=71.00, z=215.34]]
+[25Jun2025 13:59:06.795] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1890.43, y=70.00, z=215.15]]
+[25Jun2025 13:59:08.245] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1891.71, y=69.00, z=213.25]]
+[25Jun2025 13:59:09.045] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1887.97, y=69.00, z=211.09]]
+[25Jun2025 13:59:09.245] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1888.96, y=69.00, z=210.56]]
+[25Jun2025 13:59:11.451] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/streets/straight_02
+[25Jun2025 13:59:11.488] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:priest_house
+[25Jun2025 13:59:13.545] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1364.70, y=89.69, z=-371.85]]
+[25Jun2025 13:59:14.645] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1363.28, y=90.00, z=-374.59]]
+[25Jun2025 13:59:14.745] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1363.69, y=90.00, z=-374.34]]
+[25Jun2025 13:59:15.245] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1364.80, y=89.00, z=-372.77]]
+[25Jun2025 13:59:16.695] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1369.83, y=90.00, z=-365.83]]
+[25Jun2025 13:59:18.245] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1362.30, y=90.75, z=-360.96]]
+[25Jun2025 13:59:19.270] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[25Jun2025 13:59:19.469] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[25Jun2025 13:59:19.611] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[25Jun2025 13:59:19.626] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[25Jun2025 13:59:19.845] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1354.45, y=91.00, z=-359.72]]
+[25Jun2025 13:59:20.095] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1353.11, y=91.00, z=-359.57]]
+[25Jun2025 13:59:21.595] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1348.19, y=94.19, z=-358.49]]
+[25Jun2025 13:59:22.095] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1346.50, y=94.00, z=-358.61]]
+[25Jun2025 13:59:23.071] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[25Jun2025 13:59:23.645] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1342.88, y=94.00, z=-358.36]]
+[25Jun2025 13:59:26.495] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1350.55, y=95.18, z=-354.59]]
+[25Jun2025 13:59:28.245] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1355.70, y=91.00, z=-354.80]]
+[25Jun2025 13:59:28.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Bouffalant
+[25Jun2025 13:59:28.960] [Server thread/DEBUG] [tombstone/]: A new grave of the player AgentePerrote was created at position [x:-1356, y:90, z:-356, dim:minecraft:overworld]
+[25Jun2025 13:59:28.981] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[25Jun2025 13:59:33.744] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[25Jun2025 13:59:33.745] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[25Jun2025 13:59:33.746] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[25Jun2025 13:59:34.245] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1872.50, y=55.00, z=248.50]]
+[25Jun2025 13:59:34.595] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1871.48, y=55.00, z=247.30]]
+[25Jun2025 13:59:37.845] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1356.20, y=91.00, z=-358.98]]
+[25Jun2025 13:59:38.195] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1357.73, y=91.00, z=-358.43]]
+[25Jun2025 13:59:38.245] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1357.73, y=91.00, z=-358.19]]
+[25Jun2025 13:59:39.095] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1357.21, y=91.00, z=-356.19]]
+[25Jun2025 13:59:39.245] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1357.61, y=91.00, z=-356.43]]
+[25Jun2025 13:59:39.345] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1357.92, y=91.00, z=-356.61]]
+[25Jun2025 13:59:41.395] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1360.12, y=92.18, z=-355.30]]
+[25Jun2025 13:59:42.295] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1359.54, y=94.25, z=-354.01]]
+[25Jun2025 13:59:42.945] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1359.98, y=95.18, z=-352.33]]
+[25Jun2025 13:59:44.314] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[25Jun2025 13:59:44.366] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[25Jun2025 13:59:44.367] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[25Jun2025 13:59:44.367] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[25Jun2025 13:59:45.109] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:bunker/bunker_enterance_3
+[25Jun2025 13:59:47.595] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1365.75, y=94.00, z=-341.45]]
+[25Jun2025 13:59:48.395] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1365.19, y=94.00, z=-345.28]]
+[25Jun2025 13:59:51.445] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1363.31, y=101.00, z=-347.70]]
+[25Jun2025 13:59:52.345] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1363.27, y=101.00, z=-346.49]]
+[25Jun2025 13:59:54.695] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1363.21, y=101.00, z=-346.49]]
+[25Jun2025 13:59:55.595] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1363.21, y=101.00, z=-346.49]]
+[25Jun2025 13:59:57.745] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1363.55, y=101.47, z=-346.49]]
+[25Jun2025 14:00:02.995] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['AgentePerrote'/1142, l='ServerLevel[world]', x=-1363.59, y=108.64, z=-346.49]]
+[25Jun2025 14:00:03.794] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[25Jun2025 14:00:03.795] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[25Jun2025 14:00:03.795] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
