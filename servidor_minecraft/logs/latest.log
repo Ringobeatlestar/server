@@ -2043,3 +2043,20 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [25Jun2025 21:44:42.811] [Worker-Main-35/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
 [25Jun2025 21:44:56.160] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 36.27413558959961) to VERY_LOW (avg. 18.580245971679688)
 [25Jun2025 21:45:23.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Deep in the Dark Woodland]
+[25Jun2025 21:46:56.122] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 12.1630859375) to LOW (avg. 22.18970489501953)
+[25Jun2025 21:47:03.616] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.18970489501953) to VERY_LOW (avg. 12.237815856933594)
+[25Jun2025 21:49:33.616] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.55405044555664) to LOW (avg. 27.730789184570312)
+[25Jun2025 21:49:48.616] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 27.730789184570312) to VERY_LOW (avg. 13.792780876159668)
+[25Jun2025 21:50:06.177] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: f137a350-fd58-493f-ba26-0604d35775c6
+[25Jun2025 21:50:06.178] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: f137a350-fd58-493f-ba26-0604d35775c6
+[25Jun2025 21:50:06.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Vindicator
+[25Jun2025 21:50:06.223] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[25Jun2025 21:50:20.067] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity SeatEntity['Seat'/51090, l='ServerLevel[world]', x=-1890.50, y=55.00, z=248.50] as it would cause deadlock
+[25Jun2025 21:50:20.068] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity SeatEntity['Seat'/51092, l='ServerLevel[world]', x=-1897.50, y=55.00, z=248.50] as it would cause deadlock
+[25Jun2025 21:53:27.930] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PokemonEntity['JetPrivado'/52566, l='ServerLevel[world]', x=-3290.33, y=74.06, z=5273.30] died: JetPrivado was killed by Evoker using magic
+[25Jun2025 21:53:33.277] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PokemonEntity['CarlosPinzas'/53262, l='ServerLevel[world]', x=-3291.10, y=74.06, z=5272.34] died: CarlosPinzas was killed by Evoker using magic
+[25Jun2025 21:53:38.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was killed by Evoker using magic
+[25Jun2025 21:53:38.706] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[25Jun2025 21:54:28.230] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 7d41e9f2-bddc-400a-8181-46a8b61f54cb
+[25Jun2025 21:54:28.231] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 7d41e9f2-bddc-400a-8181-46a8b61f54cb
+[25Jun2025 21:55:11.324] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PokemonEntity['Bombardiro'/55797, l='ServerLevel[world]', x=-3258.63, y=66.06, z=5303.09] died: Bombardiro was slain by Zombie

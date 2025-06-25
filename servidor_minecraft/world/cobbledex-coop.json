@@ -2764,6 +2764,14 @@
         "discoveredTimestamp": 1750887108983,
         "caughtTimestamp": 1750887108983
       }
+    },
+    "lampent": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750888400182,
+        "caughtTimestamp": 1750888400182
+      }
     }
   }
 }

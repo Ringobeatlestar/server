@@ -369,6 +369,7 @@
       "minecraft:spider": "2025-06-15 13:36:48 +0000",
       "minecraft:piglin_brute": "2025-06-21 13:24:46 +0000",
       "minecraft:creeper": "2025-06-15 10:13:20 +0000",
+      "minecraft:evoker": "2025-06-25 21:52:04 +0000",
       "minecraft:phantom": "2025-06-15 13:51:17 +0000",
       "minecraft:zombified_piglin": "2025-06-16 10:21:42 +0000",
       "minecraft:witch": "2025-06-15 17:54:46 +0000",
@@ -491,7 +492,8 @@
     "criteria": {
       "swamp_village": "2025-06-23 11:55:18 +0000",
       "swamp_hut": "2025-06-23 12:06:59 +0000",
-      "illager_camp": "2025-06-15 10:00:10 +0000"
+      "illager_camp": "2025-06-15 10:00:10 +0000",
+      "mansion": "2025-06-25 21:45:23 +0000"
     },
     "done": false
   },
@@ -2178,79 +2180,86 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-25 21:41:44 +0000"
+      "log_spam_fixer": "2025-06-25 21:51:44 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-06-25 21:41:44 +0000"
+      "requirement": "2025-06-25 21:51:45 +0000",
+      "log_spam_fixer": "2025-06-25 21:51:44 +0000"
     },
-    "done": false
+    "done": true
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-25 21:41:44 +0000"
+      "log_spam_fixer": "2025-06-25 21:51:44 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-25 21:41:44 +0000"
+      "log_spam_fixer": "2025-06-25 21:51:44 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-25 21:41:44 +0000"
+      "log_spam_fixer": "2025-06-25 21:51:44 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-25 21:41:44 +0000"
+      "log_spam_fixer": "2025-06-25 21:51:44 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-25 21:41:44 +0000"
+      "log_spam_fixer": "2025-06-25 21:51:44 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-25 21:41:44 +0000"
+      "log_spam_fixer": "2025-06-25 21:51:44 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-25 21:41:44 +0000"
+      "log_spam_fixer": "2025-06-25 21:51:44 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-25 21:41:44 +0000"
+      "log_spam_fixer": "2025-06-25 21:51:44 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-25 21:41:44 +0000"
+      "log_spam_fixer": "2025-06-25 21:51:44 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-25 21:41:44 +0000"
+      "log_spam_fixer": "2025-06-25 21:51:44 +0000"
     },
     "done": false
   },
   "mca:friend": {
     "criteria": {
       "baby": "2025-06-25 21:17:50 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_illager_mansion": {
+    "criteria": {
+      "minecraft:woodland_mansion": "2025-06-25 21:45:23 +0000"
     },
     "done": true
   },
