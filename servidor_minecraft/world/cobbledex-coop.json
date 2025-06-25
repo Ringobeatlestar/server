@@ -2696,6 +2696,22 @@
         "discoveredTimestamp": 1750852566809,
         "caughtTimestamp": 1750852566809
       }
+    },
+    "bidoof": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750852793253,
+        "caughtTimestamp": 1750852793253
+      }
+    },
+    "volbeat": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750852833354,
+        "caughtTimestamp": 1750852833354
+      }
     }
   }
 }

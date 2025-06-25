@@ -2126,6 +2126,22 @@
             "discoveredTimestamp": 1750852575680,
             "caughtTimestamp": 1750852575680
           }
+        },
+        "bidoof": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750852793252,
+            "caughtTimestamp": 1750852793252
+          }
+        },
+        "volbeat": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750852833353,
+            "caughtTimestamp": 1750852833353
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -2154,25 +2170,25 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 145,
+    "totalCaptureCount": 147,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 109,
-    "totalBattleVictoryCount": 303,
+    "totalBattleVictoryCount": 305,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 303,
+    "totalPvWBattleVictoryCount": 305,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 22,
     "totalTypeCaptureCounts": {
       "rock": 7,
-      "bug": 17,
+      "bug": 18,
       "poison": 13,
       "water": 27,
       "ghost": 8,
       "fire": 3,
       "ice": 2,
       "fairy": 14,
-      "normal": 38,
+      "normal": 39,
       "flying": 21,
       "ground": 7,
       "grass": 21,
