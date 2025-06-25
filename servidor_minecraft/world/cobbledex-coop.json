@@ -2586,6 +2586,54 @@
         "status": "SEEN",
         "discoveredTimestamp": 1750844575951
       }
+    },
+    "bellsprout": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750845898162,
+        "caughtTimestamp": 1750845898162
+      }
+    },
+    "weepinbell": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750845903363,
+        "caughtTimestamp": 1750845903363
+      }
+    },
+    "purrloin": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750845938204,
+        "caughtTimestamp": 1750845938204
+      }
+    },
+    "emolga": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750845956404,
+        "caughtTimestamp": 1750845956404
+      }
+    },
+    "doduo": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750845984358,
+        "caughtTimestamp": 1750845984358
+      }
+    },
+    "spearow": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750846007763,
+        "caughtTimestamp": 1750846007763
+      }
     }
   }
 }

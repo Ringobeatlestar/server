@@ -1611,6 +1611,54 @@
             "discoveredTimestamp": 1750844553663,
             "caughtTimestamp": 1750844553663
           }
+        },
+        "bellsprout": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750845898161,
+            "caughtTimestamp": 1750845898161
+          }
+        },
+        "weepinbell": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750845903362,
+            "caughtTimestamp": 1750845903362
+          }
+        },
+        "purrloin": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750845938199,
+            "caughtTimestamp": 1750845938199
+          }
+        },
+        "emolga": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750845956403,
+            "caughtTimestamp": 1750845956403
+          }
+        },
+        "doduo": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750845984355,
+            "caughtTimestamp": 1750845984355
+          }
+        },
+        "spearow": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750846007763,
+            "caughtTimestamp": 1750846007763
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1628,38 +1676,39 @@
         "135",
         "150",
         "165",
-        "180"
+        "180",
+        "195"
       ],
       "name": "Cobbledex_RewardHistory"
     }
   },
   "advancementData": {
-    "totalCaptureCount": 133,
+    "totalCaptureCount": 138,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 52,
-    "totalBattleVictoryCount": 218,
+    "totalEvolvedCount": 53,
+    "totalBattleVictoryCount": 223,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 218,
+    "totalPvWBattleVictoryCount": 223,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 9,
     "totalTradedCount": 22,
     "totalTypeCaptureCounts": {
-      "grass": 17,
+      "grass": 18,
       "psychic": 5,
       "water": 9,
-      "normal": 29,
-      "flying": 26,
+      "normal": 31,
+      "flying": 29,
       "ground": 8,
       "fire": 14,
       "steel": 10,
-      "dark": 9,
+      "dark": 10,
       "ice": 2,
       "fighting": 9,
       "bug": 18,
-      "electric": 4,
+      "electric": 5,
       "fairy": 12,
       "rock": 8,
-      "poison": 11,
+      "poison": 12,
       "dragon": 5,
       "ghost": 9
     },
@@ -1711,7 +1760,8 @@
       "cobblemon:diglett": 1,
       "cobblemon:eiscue": 1,
       "cobblemon:meloetta": 1,
-      "cobblemon:rattata": 1
+      "cobblemon:rattata": 1,
+      "cobblemon:ekans": 1
     },
     "aspectsCollected": {
       "cobblemon:vivillon": [

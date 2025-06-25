@@ -1996,3 +1996,45 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [25Jun2025 09:56:49.861] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
 [25Jun2025 09:56:49.861] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
 [25Jun2025 09:56:52.555] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[25Jun2025 09:56:56.736] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.634483337402344) to LOW (avg. 26.44057273864746)
+[25Jun2025 09:57:11.736] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 26.44057273864746) to VERY_LOW (avg. 13.647899627685547)
+[25Jun2025 09:57:34.348] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.883935928344727) to LOW (avg. 24.06652069091797)
+[25Jun2025 09:57:49.271] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.06652069091797) to VERY_LOW (avg. 16.907197952270508)
+[25Jun2025 09:58:03.995] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/61425, l='ServerLevel[world]', x=-1287.50, y=35.00, z=991.50]
+[25Jun2025 09:58:04.518] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[25Jun2025 09:58:04.630] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[25Jun2025 09:58:04.631] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[25Jun2025 09:58:04.631] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[25Jun2025 09:58:04.632] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[25Jun2025 09:58:06.628] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[25Jun2025 09:58:06.629] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[25Jun2025 09:58:07.375] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[25Jun2025 09:58:34.244] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.67706298828125) to LOW (avg. 27.79947280883789)
+[25Jun2025 09:58:49.236] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 27.79947280883789) to VERY_LOW (avg. 15.902206420898438)
+[25Jun2025 09:59:26.736] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.835676193237305) to LOW (avg. 21.90801239013672)
+[25Jun2025 09:59:56.736] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.1495361328125) to VERY_LOW (avg. 16.052431106567383)
+[25Jun2025 10:00:11.736] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.052431106567383) to LOW (avg. 20.07617950439453)
+[25Jun2025 10:00:19.236] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.07617950439453) to VERY_LOW (avg. 17.369361877441406)
+[25Jun2025 10:01:49.279] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.270774841308594) to LOW (avg. 26.252370834350586)
+[25Jun2025 10:02:11.736] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.115699768066406) to VERY_LOW (avg. 12.805896759033203)
+[25Jun2025 10:04:41.736] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.948467254638672) to LOW (avg. 25.38063621520996)
+[25Jun2025 10:04:56.736] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 25.38063621520996) to VERY_LOW (avg. 13.345234870910645)
+[25Jun2025 10:04:57.263] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 0948b8f8-3347-401c-bf10-01ac50b69b3a
+[25Jun2025 10:04:57.263] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 0948b8f8-3347-401c-bf10-01ac50b69b3a
+[25Jun2025 10:05:11.736] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 13.345234870910645) to LOW (avg. 23.559818267822266)
+[25Jun2025 10:05:19.236] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 23.559818267822266) to NORMAL (avg. 42.09892654418945)
+[25Jun2025 10:05:26.736] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.09892654418945) to LOW (avg. 23.72426414489746)
+[25Jun2025 10:05:41.736] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.72426414489746) to VERY_LOW (avg. 15.89997673034668)
+[25Jun2025 10:06:11.736] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.501781463623047) to LOW (avg. 22.34324073791504)
+[25Jun2025 10:06:19.300] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.34324073791504) to VERY_LOW (avg. 18.6052303314209)
+[25Jun2025 10:06:24.504] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/76100, l='ServerLevel[world]', x=-4.66, y=36.44, z=2172.52, removed=DISCARDED]
+[25Jun2025 10:06:34.156] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/76100, l='ServerLevel[world]', x=-4.66, y=36.44, z=2172.52, removed=DISCARDED]
+[25Jun2025 10:06:34.473] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/76098, l='ServerLevel[world]', x=-4.26, y=35.22, z=2175.28, removed=DISCARDED]
+[25Jun2025 10:06:34.572] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/76115, l='ServerLevel[world]', x=-7.33, y=32.60, z=2184.44, removed=DISCARDED]
+[25Jun2025 10:06:36.124] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/76109, l='ServerLevel[world]', x=-1.61, y=35.33, z=2184.65, removed=DISCARDED]
+[25Jun2025 10:06:36.324] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/76112, l='ServerLevel[world]', x=-1.28, y=34.43, z=2185.73, removed=DISCARDED]
+[25Jun2025 10:06:36.324] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/76106, l='ServerLevel[world]', x=-1.67, y=36.29, z=2186.34, removed=DISCARDED]
+[25Jun2025 10:06:36.455] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/76108, l='ServerLevel[world]', x=-0.72, y=37.13, z=2185.59, removed=DISCARDED]
+[25Jun2025 10:06:36.602] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/76111, l='ServerLevel[world]', x=-0.63, y=36.62, z=2186.53, removed=DISCARDED]
+[25Jun2025 10:06:36.704] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/76253, l='ServerLevel[world]', x=0.34, y=37.24, z=2185.51, removed=DISCARDED]
+[25Jun2025 10:06:49.236] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.5983829498291) to LOW (avg. 20.25713348388672)
