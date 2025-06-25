@@ -495,6 +495,12 @@
         "status": "CAUGHT",
         "discoveredTimestamp": 1750254565828,
         "caughtTimestamp": 1750254565828
+      },
+      "hisui": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750886953283,
+        "caughtTimestamp": 1750886953283
       }
     },
     "machop": {
@@ -2457,6 +2463,12 @@
         "status": "CAUGHT",
         "discoveredTimestamp": 1750594639903,
         "caughtTimestamp": 1750594639903
+      },
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750886795582,
+        "caughtTimestamp": 1750886795582
       }
     },
     "azumarill": {
@@ -2735,6 +2747,22 @@
         "status": "CAUGHT",
         "discoveredTimestamp": 1750885425387,
         "caughtTimestamp": 1750885425387
+      }
+    },
+    "solrock": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750886900835,
+        "caughtTimestamp": 1750886900835
+      }
+    },
+    "magby": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750887108983,
+        "caughtTimestamp": 1750887108983
       }
     }
   }

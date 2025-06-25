@@ -1929,3 +1929,84 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [25Jun2025 21:02:29.683] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 3d414210-d028-4356-a5a2-1814a8c54431
 [25Jun2025 21:05:15.916] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 12.522445678710938) to LOW (avg. 28.22994613647461)
 [25Jun2025 21:05:30.916] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 28.22994613647461) to VERY_LOW (avg. 11.707243919372559)
+[25Jun2025 21:17:50.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Friendship Found]
+[25Jun2025 21:18:26.919] [spark-async-sampler-worker-thread/WARN] [spark/]: Timed out waiting for world statistics
+[25Jun2025 21:18:27.059] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7292ms or 145 ticks behind
+[25Jun2025 21:18:31.916] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:overworld changed from NORMAL (avg. 35.67331359000001) to VERY_LOW (avg. 13.30570988)
+[25Jun2025 21:18:53.166] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 12.664255142211914) to LOW (avg. 20.087387084960938)
+[25Jun2025 21:19:00.666] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.087387084960938) to VERY_LOW (avg. 13.413970947265625)
+[25Jun2025 21:19:30.333] [ForkJoinPool.commonPool-worker-4/INFO] [forge.net.mca.MCA/]: Valid commands: [follow-player, stay-here, wear-armor, try-go-home]
+[25Jun2025 21:19:30.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> unette
+[25Jun2025 21:19:54.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> unette quitate la ropa
+[25Jun2025 21:19:54.510] [ForkJoinPool.commonPool-worker-4/INFO] [forge.net.mca.MCA/]: Valid commands: [follow-player, stay-here, wear-armor, try-go-home]
+[25Jun2025 21:19:56.035] [ForkJoinPool.commonPool-worker-4/WARN] [forge.net.mca.MCA/]: Error parsing answer: I think not, you cheeky wanderer. I guard this village, not perform tricks for amusement. (java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $)
+[25Jun2025 21:20:01.916] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from VERY_LOW (avg. 13.89127476) to LOW (avg. 15.70498455)
+[25Jun2025 21:20:03.973] [pool-3-thread-1/INFO] [com.structureessentials.StructureEssentials/]: Structure search for minecraft:monument timed out, took: 50 seconds.
+[25Jun2025 21:21:29.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> -3200 5300
+[25Jun2025 21:21:43.537] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[25Jun2025 21:21:48.986] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[25Jun2025 21:21:48.987] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[25Jun2025 21:21:48.987] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[25Jun2025 21:21:49.481] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[25Jun2025 21:21:49.482] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[25Jun2025 21:21:49.482] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[25Jun2025 21:21:50.983] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[25Jun2025 21:21:52.589] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[25Jun2025 21:21:52.590] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[25Jun2025 21:21:53.079] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[25Jun2025 21:21:54.632] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[25Jun2025 21:21:56.828] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[25Jun2025 21:21:56.935] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[25Jun2025 21:21:56.936] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[25Jun2025 21:21:58.333] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[25Jun2025 21:21:58.403] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[25Jun2025 21:21:58.403] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[25Jun2025 21:22:00.236] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[25Jun2025 21:22:00.778] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[25Jun2025 21:22:04.036] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[25Jun2025 21:22:04.879] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[25Jun2025 21:22:04.880] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[25Jun2025 21:22:06.529] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[25Jun2025 21:22:06.530] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[25Jun2025 21:22:09.730] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[25Jun2025 21:22:09.731] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[25Jun2025 21:22:09.732] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[25Jun2025 21:22:10.193] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[25Jun2025 21:22:10.194] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[25Jun2025 21:22:10.194] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[25Jun2025 21:22:23.166] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 13.650696754455566) to LOW (avg. 30.442228317260742)
+[25Jun2025 21:22:45.666] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.245502471923828) to VERY_LOW (avg. 15.792211532592773)
+[25Jun2025 21:23:38.182] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.195304870605469) to LOW (avg. 31.301162719726562)
+[25Jun2025 21:23:45.666] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 31.301162719726562) to VERY_LOW (avg. 18.815576553344727)
+[25Jun2025 21:24:00.666] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.815576553344727) to LOW (avg. 21.701066970825195)
+[25Jun2025 21:24:38.166] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 25.916208267211914) to VERY_LOW (avg. 11.284549713134766)
+[25Jun2025 21:24:45.666] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 11.284549713134766) to LOW (avg. 29.73571014404297)
+[25Jun2025 21:24:53.166] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 29.73571014404297) to VERY_LOW (avg. 14.584951400756836)
+[25Jun2025 21:24:57.638] [Worker-Main-34/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[25Jun2025 21:24:57.647] [Worker-Main-34/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[25Jun2025 21:24:57.748] [Worker-Main-34/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[25Jun2025 21:25:34.723] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[25Jun2025 21:25:34.723] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[25Jun2025 21:25:34.756] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[25Jun2025 21:26:34.027] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 29c7f132-f54b-4baa-b42c-dc83c7b977b2
+[25Jun2025 21:26:34.028] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 29c7f132-f54b-4baa-b42c-dc83c7b977b2
+[25Jun2025 21:29:22.912] [Worker-Main-34/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[25Jun2025 21:29:22.921] [Worker-Main-34/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[25Jun2025 21:29:23.008] [Worker-Main-34/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[25Jun2025 21:31:47.530] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: fae85cb4-a5bb-4e02-8106-654db8beec2f
+[25Jun2025 21:31:47.530] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: fae85cb4-a5bb-4e02-8106-654db8beec2f
+[25Jun2025 21:32:08.166] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.291231155395508) to LOW (avg. 23.285289764404297)
+[25Jun2025 21:32:10.851] [Worker-Main-34/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[25Jun2025 21:32:10.852] [Worker-Main-34/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[25Jun2025 21:32:10.891] [Worker-Main-34/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[25Jun2025 21:32:38.166] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.90753936767578) to VERY_LOW (avg. 19.540895462036133)
+[25Jun2025 21:32:53.183] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.540895462036133) to LOW (avg. 33.15153121948242)
+[25Jun2025 21:33:08.218] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 20.735374450683594) to NORMAL (avg. 43.35692596435547)
+[25Jun2025 21:33:23.166] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 43.35692596435547) to VERY_LOW (avg. 19.62858009338379)
+[25Jun2025 21:33:53.938] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3472ms or 69 ticks behind
+[25Jun2025 21:33:56.616] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 13.445608139038086) to LOW (avg. 20.474563598632812)
+[25Jun2025 21:34:00.500] [Worker-Main-23/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[25Jun2025 21:34:00.502] [Worker-Main-23/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[25Jun2025 21:34:19.116] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.213838577270508) to VERY_LOW (avg. 11.908729553222656)
+[25Jun2025 21:34:26.616] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 11.908729553222656) to LOW (avg. 22.54334831237793)
+[25Jun2025 21:34:34.116] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.54334831237793) to VERY_LOW (avg. 12.470413208007812)
