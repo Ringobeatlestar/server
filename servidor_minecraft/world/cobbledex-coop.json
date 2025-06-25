@@ -2157,6 +2157,12 @@
         "status": "CAUGHT",
         "discoveredTimestamp": 1750590688351,
         "caughtTimestamp": 1750590688351
+      },
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750846121714,
+        "caughtTimestamp": 1750846121714
       }
     },
     "eevee": {
@@ -2633,6 +2639,38 @@
         "status": "CAUGHT",
         "discoveredTimestamp": 1750846007763,
         "caughtTimestamp": 1750846007763
+      }
+    },
+    "phanpy": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750846031006,
+        "caughtTimestamp": 1750846031006
+      }
+    },
+    "chatot": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750846127312,
+        "caughtTimestamp": 1750846127312
+      }
+    },
+    "aipom": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750846202060,
+        "caughtTimestamp": 1750846202060
+      }
+    },
+    "komala": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750846346957,
+        "caughtTimestamp": 1750846346957
       }
     }
   }

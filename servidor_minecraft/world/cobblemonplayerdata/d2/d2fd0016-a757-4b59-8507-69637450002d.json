@@ -1659,6 +1659,22 @@
             "discoveredTimestamp": 1750846007763,
             "caughtTimestamp": 1750846007763
           }
+        },
+        "phanpy": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750846031005,
+            "caughtTimestamp": 1750846031005
+          }
+        },
+        "squawkabilly": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750846121713,
+            "caughtTimestamp": 1750846121713
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1683,12 +1699,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 138,
+    "totalCaptureCount": 140,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 53,
-    "totalBattleVictoryCount": 223,
+    "totalBattleVictoryCount": 225,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 223,
+    "totalPvWBattleVictoryCount": 225,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 9,
     "totalTradedCount": 22,
@@ -1696,9 +1712,9 @@
       "grass": 18,
       "psychic": 5,
       "water": 9,
-      "normal": 31,
-      "flying": 29,
-      "ground": 8,
+      "normal": 32,
+      "flying": 30,
+      "ground": 9,
       "fire": 14,
       "steel": 10,
       "dark": 10,
