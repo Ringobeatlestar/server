@@ -1912,3 +1912,12 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [25Jun2025 08:48:12.992] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for ad_astra:mars changed from NORMAL (avg. 45.0) to VERY_LOW (avg. 0.05537162)
 [25Jun2025 08:49:48.440] [Server thread/INFO] [STDOUT/]: [earth.terrarium.botarium.common.energy.EnergyApi:finalizeItemRegistration:54]: Finalizing energy item registration
 [25Jun2025 08:49:48.440] [Server thread/INFO] [STDOUT/]: [earth.terrarium.botarium.common.fluid.FluidApi:finalizeItemRegistration:55]: Finalizing fluid item registration
+[25Jun2025 09:11:29.718] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player AgentePerrote is d2fd0016-a757-4b59-8507-69637450002d
+[25Jun2025 09:11:31.939] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[25Jun2025 09:11:32.082] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AgentePerrote[/127.153.255.77:38827] logged in with entity id 1146 at (-1867.6404136271944, 55.0, 236.31055986649753)
+[25Jun2025 09:11:32.376] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player AgentePerrote
+[25Jun2025 09:11:32.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote joined the game
+[25Jun2025 09:11:32.545] [Server thread/WARN] [solapplepie/]: Invalid attribute specified in config: generic.speed
+[25Jun2025 09:11:34.248] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 1.7352490425109863) to LOW (avg. 26.726346969604492)
+[25Jun2025 09:11:35.486] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from VERY_LOW (avg. 9.92209454) to LOW (avg. 17.00454019)
+[25Jun2025 09:11:56.736] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.575834274291992) to VERY_LOW (avg. 11.940190315246582)
