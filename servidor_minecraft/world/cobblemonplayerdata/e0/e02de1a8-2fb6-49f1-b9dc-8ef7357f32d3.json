@@ -1968,6 +1968,13 @@
             "discoveredTimestamp": 1750674166193,
             "caughtTimestamp": 1750674166193
           }
+        },
+        "megagengar": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1750843379187
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1998,9 +2005,9 @@
     "totalCaptureCount": 133,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 103,
-    "totalBattleVictoryCount": 278,
+    "totalBattleVictoryCount": 279,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 278,
+    "totalPvWBattleVictoryCount": 279,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 21,
@@ -2036,7 +2043,7 @@
       "cobblemon:snorunt": 1,
       "cobblemon:krabby": 5,
       "cobblemon:petilil": 2,
-      "cobblemon:tauros": 16,
+      "cobblemon:tauros": 17,
       "cobblemon:cutiefly": 2,
       "cobblemon:kingler": 6,
       "cobblemon:butterfree": 13,

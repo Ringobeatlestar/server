@@ -2556,6 +2556,13 @@
         "discoveredTimestamp": 1750688605244,
         "caughtTimestamp": 1750688605244
       }
+    },
+    "megagengar": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1750843379190
+      }
     }
   }
 }

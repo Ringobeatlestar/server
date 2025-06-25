@@ -1921,3 +1921,52 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [25Jun2025 09:11:34.248] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 1.7352490425109863) to LOW (avg. 26.726346969604492)
 [25Jun2025 09:11:35.486] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from VERY_LOW (avg. 9.92209454) to LOW (avg. 17.00454019)
 [25Jun2025 09:11:56.736] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.575834274291992) to VERY_LOW (avg. 11.940190315246582)
+[25Jun2025 09:18:32.807] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Ansoooooo is e02de1a8-2fb6-49f1-b9dc-8ef7357f32d3
+[25Jun2025 09:18:35.047] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e02de1a8-2fb6-49f1-b9dc-8ef7357f32d3.json: Don't know what goat_man:goat_man is
+[25Jun2025 09:18:35.048] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e02de1a8-2fb6-49f1-b9dc-8ef7357f32d3.json: Don't know what goat_man:goat_man is
+[25Jun2025 09:18:35.082] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ansoooooo[/127.53.158.23:54359] logged in with entity id 1853 at (-1882.0834137862141, 70.0, 222.93794575120552)
+[25Jun2025 09:18:35.215] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Ansoooooo
+[25Jun2025 09:18:35.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo joined the game
+[25Jun2025 09:19:02.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> avispolla
+[25Jun2025 09:19:02.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> avispolla
+[25Jun2025 09:19:03.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> avispolla
+[25Jun2025 09:19:04.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> avispolla
+[25Jun2025 09:19:04.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> avispolla
+[25Jun2025 09:19:05.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> avispolla
+[25Jun2025 09:19:05.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> avispolla
+[25Jun2025 09:19:06.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> avispolla
+[25Jun2025 09:19:06.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> avispolla
+[25Jun2025 09:19:07.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> avispolla
+[25Jun2025 09:19:07.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> avispolla
+[25Jun2025 09:19:07.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> avispolla
+[25Jun2025 09:19:08.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> avispolla
+[25Jun2025 09:19:13.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> avispolla
+[25Jun2025 09:19:13.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> avispolla
+[25Jun2025 09:19:14.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> avispolla
+[25Jun2025 09:19:14.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> avispolla
+[25Jun2025 09:19:15.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> avispolla
+[25Jun2025 09:19:15.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> avispolla
+[25Jun2025 09:19:16.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> avispolla
+[25Jun2025 09:19:16.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> avispolla
+[25Jun2025 09:19:17.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> avispolla
+[25Jun2025 09:19:17.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> avispolla
+[25Jun2025 09:19:18.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> avispolla
+[25Jun2025 09:19:18.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> avispolla
+[25Jun2025 09:19:19.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> avispolla
+[25Jun2025 09:19:19.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> avispolla
+[25Jun2025 09:19:19.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> avispolla
+[25Jun2025 09:19:19.897] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ansoooooo lost connection: Kicked for spamming
+[25Jun2025 09:19:19.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo left the game
+[25Jun2025 09:19:22.963] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Ansoooooo is e02de1a8-2fb6-49f1-b9dc-8ef7357f32d3
+[25Jun2025 09:19:25.268] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ansoooooo[/127.53.158.23:52115] logged in with entity id 1951 at (-1888.5521214717307, 69.0, 235.25034292748023)
+[25Jun2025 09:19:25.339] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Ansoooooo
+[25Jun2025 09:19:25.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo joined the game
+[25Jun2025 09:19:35.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> polla
+[25Jun2025 09:19:43.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> me caho
+[25Jun2025 09:19:45.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> cago
+[25Jun2025 09:19:46.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> encima
+[25Jun2025 09:19:56.736] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 10.47018814086914) to LOW (avg. 26.68368148803711)
+[25Jun2025 09:20:00.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> cavesapoya
+[25Jun2025 09:20:04.236] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 26.68368148803711) to VERY_LOW (avg. 18.989709854125977)
+[25Jun2025 09:20:47.261] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 5.574 ms. 5713/5766 recipes are parallelized.
+[25Jun2025 09:22:35.406] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:stonecutting in 744.7 μs. 1425/1425 recipes are parallelized.
