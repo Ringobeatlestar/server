@@ -2010,3 +2010,36 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [25Jun2025 21:34:19.116] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.213838577270508) to VERY_LOW (avg. 11.908729553222656)
 [25Jun2025 21:34:26.616] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 11.908729553222656) to LOW (avg. 22.54334831237793)
 [25Jun2025 21:34:34.116] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.54334831237793) to VERY_LOW (avg. 12.470413208007812)
+[25Jun2025 21:35:34.267] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.041842460632324) to VERY_HIGH (avg. 59.98857116699219)
+[25Jun2025 21:35:35.386] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from LOW (avg. 18.88798912) to NORMAL (avg. 36.41134467)
+[25Jun2025 21:35:41.991] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 59.98857116699219) to MEDIUM (avg. 46.41087341308594)
+[25Jun2025 21:35:58.371] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[25Jun2025 21:35:58.834] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 46.41087341308594) to VERY_HIGH (avg. 82.1790542602539)
+[25Jun2025 21:36:00.794] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from NORMAL (avg. 39.97960819) to VERY_HIGH (avg. 58.03798957)
+[25Jun2025 21:36:18.415] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5048ms or 100 ticks behind
+[25Jun2025 21:36:27.123] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 57.17720413208008) to NORMAL (avg. 42.54194259643555)
+[25Jun2025 21:36:36.745] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PokemonEntity['JetPrivado'/32179, l='ServerLevel[world]', x=-2568.98, y=101.18, z=2871.34] died: JetPrivado went off with a bang thanks to Archevoker
+[25Jun2025 21:36:37.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote went off with a bang thanks to Archevoker
+[25Jun2025 21:36:37.623] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[25Jun2025 21:36:41.116] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.54194259643555) to LOW (avg. 22.29380226135254)
+[25Jun2025 21:37:11.117] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 32.23006820678711) to VERY_LOW (avg. 18.880521774291992)
+[25Jun2025 21:38:03.616] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.88662338256836) to LOW (avg. 23.02159881591797)
+[25Jun2025 21:38:17.481] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/33981, l='ServerLevel[world]', x=-2459.48, y=-0.42, z=3020.50, removed=DISCARDED]
+[25Jun2025 21:38:26.117] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 27.99519157409668) to VERY_LOW (avg. 18.007123947143555)
+[25Jun2025 21:38:33.616] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.007123947143555) to LOW (avg. 31.878936767578125)
+[25Jun2025 21:39:09.787] [Worker-Main-19/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[25Jun2025 21:39:09.789] [Worker-Main-19/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[25Jun2025 21:39:09.822] [Worker-Main-19/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[25Jun2025 21:39:18.616] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 27.85407257080078) to VERY_LOW (avg. 18.622629165649414)
+[25Jun2025 21:39:56.116] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.478046417236328) to LOW (avg. 25.127466201782227)
+[25Jun2025 21:40:18.616] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.368717193603516) to VERY_LOW (avg. 8.8824462890625)
+[25Jun2025 21:40:33.623] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 8.8824462890625) to LOW (avg. 23.77054214477539)
+[25Jun2025 21:40:41.116] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.77054214477539) to VERY_LOW (avg. 15.797036170959473)
+[25Jun2025 21:40:48.616] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.797036170959473) to LOW (avg. 28.310625076293945)
+[25Jun2025 21:40:56.116] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 28.310625076293945) to VERY_LOW (avg. 17.5129451751709)
+[25Jun2025 21:44:33.621] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.035600662231445) to LOW (avg. 21.92365074157715)
+[25Jun2025 21:44:42.764] [Worker-Main-35/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[25Jun2025 21:44:42.810] [Worker-Main-35/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[25Jun2025 21:44:42.811] [Worker-Main-35/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[25Jun2025 21:44:56.160] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 36.27413558959961) to VERY_LOW (avg. 18.580245971679688)
+[25Jun2025 21:45:23.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Deep in the Dark Woodland]
