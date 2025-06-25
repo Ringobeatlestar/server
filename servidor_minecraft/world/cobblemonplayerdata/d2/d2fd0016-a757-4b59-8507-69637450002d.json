@@ -1675,6 +1675,14 @@
             "discoveredTimestamp": 1750846121713,
             "caughtTimestamp": 1750846121713
           }
+        },
+        "tinkaton": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750846701004,
+            "caughtTimestamp": 1750846701004
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1699,12 +1707,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 140,
+    "totalCaptureCount": 141,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 53,
-    "totalBattleVictoryCount": 225,
+    "totalBattleVictoryCount": 226,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 225,
+    "totalPvWBattleVictoryCount": 226,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 9,
     "totalTradedCount": 22,
@@ -1716,13 +1724,13 @@
       "flying": 30,
       "ground": 9,
       "fire": 14,
-      "steel": 10,
+      "steel": 11,
       "dark": 10,
       "ice": 2,
       "fighting": 9,
       "bug": 18,
       "electric": 5,
-      "fairy": 12,
+      "fairy": 13,
       "rock": 8,
       "poison": 12,
       "dragon": 5,

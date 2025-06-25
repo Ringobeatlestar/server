@@ -2289,3 +2289,33 @@ java.lang.IllegalArgumentException: bound must be positive
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
 [25Jun2025 10:15:26.736] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 25.336091995239258) to VERY_LOW (avg. 11.404306411743164)
 [25Jun2025 10:17:02.442] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PokemonEntity['Paco Pepe'/98943, l='ServerLevel[world]', x=907.59, y=71.11, z=2922.57] died: Paco Pepe was slain by Bison
+[25Jun2025 10:17:41.246] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PokemonEntity['La Ramona'/99749, l='ServerLevel[world]', x=856.23, y=74.54, z=2920.20] died: La Ramona was slain by Man From The Fog
+[25Jun2025 10:18:11.736] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 12.982215881347656) to LOW (avg. 23.758602142333984)
+[25Jun2025 10:18:12.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Man From The Fog
+[25Jun2025 10:18:12.463] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[25Jun2025 10:18:19.260] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.758602142333984) to VERY_LOW (avg. 14.832267761230469)
+[25Jun2025 10:18:58.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> llevame
+[25Jun2025 10:19:04.258] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 12.18962287902832) to LOW (avg. 31.91359519958496)
+[25Jun2025 10:19:05.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> entubisicleta
+[25Jun2025 10:19:11.736] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 31.91359519958496) to VERY_LOW (avg. 14.168834686279297)
+[25Jun2025 10:19:26.736] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.168834686279297) to LOW (avg. 25.78216552734375)
+[25Jun2025 10:20:04.239] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.009105682373047) to VERY_LOW (avg. 19.478017807006836)
+[25Jun2025 10:20:49.236] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.917884826660156) to LOW (avg. 26.429027557373047)
+[25Jun2025 10:21:11.736] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.1278018951416) to VERY_LOW (avg. 13.96081829071045)
+[25Jun2025 10:21:41.770] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.547250747680664) to LOW (avg. 20.858356475830078)
+[25Jun2025 10:21:49.240] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.858356475830078) to VERY_LOW (avg. 18.928647994995117)
+[25Jun2025 10:22:04.263] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.928647994995117) to LOW (avg. 25.739938735961914)
+[25Jun2025 10:22:26.736] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.611400604248047) to VERY_LOW (avg. 16.579010009765625)
+[25Jun2025 10:22:51.842] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/109692, l='ServerLevel[world]', x=0.00, y=0.70, z=0.00]
+[25Jun2025 10:22:57.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> mecagoenmismuertos
+[25Jun2025 10:23:41.736] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.152631759643555) to LOW (avg. 20.072038650512695)
+[25Jun2025 10:23:49.236] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.072038650512695) to VERY_LOW (avg. 18.687599182128906)
+[25Jun2025 10:24:07.049] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Sargent the Soaked'/111007, l='ServerLevel[world]', x=2549.50, y=63.00, z=5013.84] died: Sargent the Soaked was slain by Ansoooooo
+[25Jun2025 10:25:26.736] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.072168350219727) to LOW (avg. 20.19684600830078)
+[25Jun2025 10:25:41.736] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.19684600830078) to VERY_LOW (avg. 11.652533531188965)
+[25Jun2025 10:26:04.236] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.735614776611328) to LOW (avg. 24.988279342651367)
+[25Jun2025 10:26:41.736] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.251358032226562) to VERY_LOW (avg. 14.036727905273438)
+[25Jun2025 10:26:50.146] [Worker-Main-29/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[25Jun2025 10:26:50.158] [Worker-Main-29/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[25Jun2025 10:26:52.222] [Worker-Main-29/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[25Jun2025 10:27:19.385] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 12.4761323928833) to LOW (avg. 39.82562255859375)

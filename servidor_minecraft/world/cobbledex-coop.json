@@ -2672,6 +2672,14 @@
         "discoveredTimestamp": 1750846346957,
         "caughtTimestamp": 1750846346957
       }
+    },
+    "tinkaton": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750846701006,
+        "caughtTimestamp": 1750846701006
+      }
     }
   }
 }
