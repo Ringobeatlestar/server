@@ -1987,3 +1987,5 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [25Jun2025 09:33:15.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Krabby
 [25Jun2025 09:33:15.799] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
 [25Jun2025 09:35:42.779] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:primordial_caves at 3946 -56 2477 in 1s
+[25Jun2025 09:38:00.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has made the advancement [The Journey Begins]
+[25Jun2025 09:44:47.795] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PokemonEntity['La Ramona'/33292, l='ServerLevel[world]', x=-1881.55, y=69.00, z=207.71] died: La Ramona was slain by Man From The Fog

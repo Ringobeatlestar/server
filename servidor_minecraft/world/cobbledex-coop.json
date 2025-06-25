@@ -2579,6 +2579,13 @@
         "discoveredTimestamp": 1750844095407,
         "caughtTimestamp": 1750844095407
       }
+    },
+    "megamawile": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1750844575951
+      }
     }
   }
 }

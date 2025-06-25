@@ -1603,6 +1603,14 @@
             "discoveredTimestamp": 1750715594828,
             "caughtTimestamp": 1750715594828
           }
+        },
+        "annihilape": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750844553663,
+            "caughtTimestamp": 1750844553663
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1634,7 +1642,7 @@
     "totalPvWBattleVictoryCount": 218,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 9,
-    "totalTradedCount": 21,
+    "totalTradedCount": 22,
     "totalTypeCaptureCounts": {
       "grass": 17,
       "psychic": 5,

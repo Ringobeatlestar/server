@@ -1991,6 +1991,37 @@
             "discoveredTimestamp": 1750844095406,
             "caughtTimestamp": 1750844095406
           }
+        },
+        "mawile": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750844553660,
+            "caughtTimestamp": 1750844553660
+          }
+        },
+        "megamawile": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1750844575950
+          }
+        },
+        "obstagoon": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750844615217,
+            "caughtTimestamp": 1750844615217
+          }
+        },
+        "breloom": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750844628216,
+            "caughtTimestamp": 1750844628216
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -2020,13 +2051,13 @@
   "advancementData": {
     "totalCaptureCount": 133,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 105,
-    "totalBattleVictoryCount": 285,
+    "totalEvolvedCount": 108,
+    "totalBattleVictoryCount": 288,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 285,
+    "totalPvWBattleVictoryCount": 288,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
-    "totalTradedCount": 21,
+    "totalTradedCount": 22,
     "totalTypeCaptureCounts": {
       "rock": 7,
       "bug": 15,
@@ -2059,7 +2090,7 @@
       "cobblemon:snorunt": 1,
       "cobblemon:krabby": 5,
       "cobblemon:petilil": 2,
-      "cobblemon:tauros": 18,
+      "cobblemon:tauros": 19,
       "cobblemon:cutiefly": 2,
       "cobblemon:kingler": 6,
       "cobblemon:butterfree": 13,
@@ -2075,7 +2106,7 @@
       "cobblemon:jigglypuff": 1,
       "cobblemon:orbeetle": 1,
       "cobblemon:swellow": 1,
-      "cobblemon:hoppip": 1,
+      "cobblemon:hoppip": 2,
       "cobblemon:pelipper": 8,
       "cobblemon:rapidash": 1,
       "cobblemon:pineco": 1,
@@ -2100,7 +2131,7 @@
       "cobblemon:lechonk": 1,
       "cobblemon:dewpider": 1,
       "cobblemon:pachirisu": 1,
-      "cobblemon:roselia": 1,
+      "cobblemon:roselia": 2,
       "cobblemon:ledyba": 2,
       "cobblemon:cottonee": 2,
       "cobblemon:gossifleur": 1,
