@@ -1927,3 +1927,5 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [25Jun2025 21:00:38.416] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.21728515625) to VERY_LOW (avg. 11.98355770111084)
 [25Jun2025 21:02:29.682] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 3d414210-d028-4356-a5a2-1814a8c54431
 [25Jun2025 21:02:29.683] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 3d414210-d028-4356-a5a2-1814a8c54431
+[25Jun2025 21:05:15.916] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 12.522445678710938) to LOW (avg. 28.22994613647461)
+[25Jun2025 21:05:30.916] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 28.22994613647461) to VERY_LOW (avg. 11.707243919372559)
