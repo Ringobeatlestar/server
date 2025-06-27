@@ -1457,7 +1457,7 @@
     },
     "shellder": {
       "normal": {
-        "isShiny": false,
+        "isShiny": true,
         "status": "CAUGHT",
         "discoveredTimestamp": 1750497311521,
         "caughtTimestamp": 1750497311521
@@ -2841,6 +2841,14 @@
         "status": "CAUGHT",
         "discoveredTimestamp": 1751038647094,
         "caughtTimestamp": 1751038647094
+      }
+    },
+    "relicanth": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1751039384140,
+        "caughtTimestamp": 1751039384140
       }
     }
   }

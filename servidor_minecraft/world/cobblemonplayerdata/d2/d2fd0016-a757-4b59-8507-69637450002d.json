@@ -1848,6 +1848,22 @@
             "discoveredTimestamp": 1751038647090,
             "caughtTimestamp": 1751038647090
           }
+        },
+        "shellder": {
+          "normal": {
+            "isShiny": true,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1751039345352,
+            "caughtTimestamp": 1751039345352
+          }
+        },
+        "relicanth": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1751039384139,
+            "caughtTimestamp": 1751039384139
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1873,19 +1889,19 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 174,
+    "totalCaptureCount": 176,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 57,
-    "totalBattleVictoryCount": 266,
+    "totalBattleVictoryCount": 268,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 265,
+    "totalPvWBattleVictoryCount": 267,
     "totalPvNBattleVictoryCount": 0,
-    "totalShinyCaptureCount": 9,
+    "totalShinyCaptureCount": 10,
     "totalTradedCount": 22,
     "totalTypeCaptureCounts": {
       "grass": 18,
       "psychic": 8,
-      "water": 10,
+      "water": 12,
       "normal": 36,
       "flying": 30,
       "ground": 12,
@@ -1897,7 +1913,7 @@
       "bug": 20,
       "electric": 5,
       "fairy": 15,
-      "rock": 9,
+      "rock": 10,
       "poison": 13,
       "dragon": 5,
       "ghost": 26
