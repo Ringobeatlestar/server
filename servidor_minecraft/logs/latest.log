@@ -1953,3 +1953,21 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [27Jun2025 09:11:46.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Caramel Cube
 [27Jun2025 09:11:46.984] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
 [27Jun2025 09:14:33.259] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PokemonEntity['Paco Pepe'/19296, l='ServerLevel[world]', x=3467.71, y=87.00, z=6292.41] died: Paco Pepe was slain by Husk
+[27Jun2025 09:15:21.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Husk
+[27Jun2025 09:15:21.275] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[27Jun2025 09:15:50.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Murkrow
+[27Jun2025 09:15:50.830] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[27Jun2025 09:18:00.308] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PokemonEntity['La Ramona'/25337, l='ServerLevel[world]', x=3474.16, y=92.00, z=6311.15] died: La Ramona was slain by Husk
+[27Jun2025 09:18:07.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Husk
+[27Jun2025 09:18:07.581] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[27Jun2025 09:21:09.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Husk
+[27Jun2025 09:21:09.972] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[27Jun2025 09:21:10.284] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[27Jun2025 09:21:10.284] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[27Jun2025 09:21:10.285] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[27Jun2025 09:21:10.285] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[27Jun2025 09:21:10.285] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[27Jun2025 09:22:56.664] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ansoooooo moved too quickly! -0.30255414060093244,-10.408991223757695,-0.2507080091527314
+[27Jun2025 09:24:44.408] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[27Jun2025 09:24:44.419] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[27Jun2025 09:24:44.420] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate

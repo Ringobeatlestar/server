@@ -2150,6 +2150,14 @@
             "discoveredTimestamp": 1751015625793,
             "caughtTimestamp": 1751015625793
           }
+        },
+        "emolga": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1751016266072,
+            "caughtTimestamp": 1751016266072
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -2178,12 +2186,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 148,
+    "totalCaptureCount": 149,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 109,
-    "totalBattleVictoryCount": 306,
+    "totalBattleVictoryCount": 307,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 306,
+    "totalPvWBattleVictoryCount": 307,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 22,
@@ -2197,12 +2205,12 @@
       "ice": 2,
       "fairy": 14,
       "normal": 39,
-      "flying": 21,
+      "flying": 22,
       "ground": 7,
       "grass": 21,
       "fighting": 4,
       "psychic": 7,
-      "electric": 6,
+      "electric": 7,
       "dark": 7,
       "dragon": 3,
       "steel": 4
