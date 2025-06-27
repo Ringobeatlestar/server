@@ -2266,7 +2266,7 @@
     },
     "cloyster": {
       "normal": {
-        "isShiny": false,
+        "isShiny": true,
         "status": "CAUGHT",
         "discoveredTimestamp": 1750593267288,
         "caughtTimestamp": 1750593267288
