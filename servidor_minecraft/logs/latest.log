@@ -3531,3 +3531,7 @@ java.lang.IllegalArgumentException: bound must be positive
 [27Jun2025 11:43:45.545] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Ansoooooo
 [27Jun2025 11:43:45.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo joined the game
 [27Jun2025 11:45:33.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has reached the goal [New Age Librarian]
+[27Jun2025 11:48:01.927] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 12.803196907043457) to LOW (avg. 27.608240127563477)
+[27Jun2025 11:48:09.400] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 27.608240127563477) to VERY_LOW (avg. 16.70060157775879)
+[27Jun2025 11:49:06.409] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ansoooooo lost connection: Disconnected
+[27Jun2025 11:49:06.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo left the game
