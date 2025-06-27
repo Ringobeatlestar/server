@@ -2895,3 +2895,35 @@ java.lang.IllegalArgumentException: bound must be positive
 [27Jun2025 10:14:53.076] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/125358, l='ServerLevel[world]', x=1736.37, y=-13.46, z=6998.45, removed=DISCARDED]
 [27Jun2025 10:14:53.272] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/125355, l='ServerLevel[world]', x=1736.67, y=-13.38, z=7001.48, removed=DISCARDED]
 [27Jun2025 10:15:41.441] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ansoooooo moved too quickly! -0.7307058534900079,-11.433643280623414,0.129822548010452
+[27Jun2025 10:16:14.250] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.145767211914062) to VERY_LOW (avg. 16.049190521240234)
+[27Jun2025 10:16:29.250] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.049190521240234) to LOW (avg. 25.078628540039062)
+[27Jun2025 10:16:36.750] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 25.078628540039062) to VERY_LOW (avg. 17.339618682861328)
+[27Jun2025 10:16:51.750] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.339618682861328) to LOW (avg. 25.205326080322266)
+[27Jun2025 10:17:06.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> krabby 33 anso 1
+[27Jun2025 10:17:29.250] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 26.51984214782715) to VERY_LOW (avg. 19.645383834838867)
+[27Jun2025 10:17:44.250] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.645383834838867) to LOW (avg. 28.09552764892578)
+[27Jun2025 10:18:06.750] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.817312240600586) to VERY_LOW (avg. 18.69233512878418)
+[27Jun2025 10:18:21.750] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.69233512878418) to LOW (avg. 26.641250610351562)
+[27Jun2025 10:18:46.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ansoooooo moved too quickly! -2.0450903149335318,-3.5813359922251635,9.38915264469415
+[27Jun2025 10:18:50.875] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 3c2945c4-52a2-4b33-a473-d2c05f973c11
+[27Jun2025 10:18:50.875] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 3c2945c4-52a2-4b33-a473-d2c05f973c11
+[27Jun2025 10:19:06.113] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved wrongly! 1.7985775238239512
+[27Jun2025 10:19:06.114] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved wrongly! 1.293729274424095
+[27Jun2025 10:20:06.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Cave Spider
+[27Jun2025 10:20:06.855] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[27Jun2025 10:20:08.122] [Server thread/WARN] [solapplepie/]: attempting to load item into food list that is no longer edible: minecraft:cake (ignoring in case it becomes edible again later)
+[27Jun2025 10:22:59.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Vindicator
+[27Jun2025 10:22:59.252] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[27Jun2025 10:22:59.436] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[27Jun2025 10:22:59.436] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 6 is dual wielding: false
+[27Jun2025 10:22:59.436] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[27Jun2025 10:22:59.437] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[27Jun2025 10:22:59.437] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[27Jun2025 10:23:00.364] [Server thread/WARN] [solapplepie/]: attempting to load item into food list that is no longer edible: minecraft:cake (ignoring in case it becomes edible again later)
+[27Jun2025 10:23:01.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> je
+[27Jun2025 10:23:07.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Vindicator
+[27Jun2025 10:23:07.986] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[27Jun2025 10:23:09.092] [Server thread/WARN] [solapplepie/]: attempting to load item into food list that is no longer edible: minecraft:cake (ignoring in case it becomes edible again later)
+[27Jun2025 10:23:14.250] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 28.25135040283203) to VERY_LOW (avg. 14.713420867919922)
+[27Jun2025 10:26:03.318] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:26:06.347] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'

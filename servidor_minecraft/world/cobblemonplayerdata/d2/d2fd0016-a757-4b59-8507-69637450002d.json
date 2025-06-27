@@ -1849,12 +1849,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 169,
+    "totalCaptureCount": 171,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 56,
-    "totalBattleVictoryCount": 257,
+    "totalBattleVictoryCount": 258,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 257,
+    "totalPvWBattleVictoryCount": 258,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 9,
     "totalTradedCount": 22,
@@ -1865,7 +1865,7 @@
       "normal": 36,
       "flying": 30,
       "ground": 12,
-      "fire": 21,
+      "fire": 22,
       "steel": 17,
       "dark": 11,
       "ice": 2,
@@ -1876,7 +1876,7 @@
       "rock": 9,
       "poison": 13,
       "dragon": 5,
-      "ghost": 23
+      "ghost": 25
     },
     "totalDefeatedCounts": {
       "cobblemon:bidoof": 1,
