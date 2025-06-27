@@ -2158,6 +2158,14 @@
             "discoveredTimestamp": 1751016266072,
             "caughtTimestamp": 1751016266072
           }
+        },
+        "heatmor": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1751016404316,
+            "caughtTimestamp": 1751016404316
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -2186,12 +2194,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 149,
+    "totalCaptureCount": 150,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 109,
-    "totalBattleVictoryCount": 307,
+    "totalBattleVictoryCount": 309,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 307,
+    "totalPvWBattleVictoryCount": 309,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 22,
@@ -2201,7 +2209,7 @@
       "poison": 13,
       "water": 27,
       "ghost": 9,
-      "fire": 3,
+      "fire": 4,
       "ice": 2,
       "fairy": 14,
       "normal": 39,
@@ -2285,7 +2293,8 @@
       "cobblemon:fletchling": 1,
       "cobblemon:buneary": 1,
       "cobblemon:spinda": 1,
-      "cobblemon:aipom": 1
+      "cobblemon:aipom": 1,
+      "cobblemon:sneasel": 1
     },
     "aspectsCollected": {
       "cobblemon:vivillon": [

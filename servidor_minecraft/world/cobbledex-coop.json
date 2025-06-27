@@ -2788,6 +2788,14 @@
         "discoveredTimestamp": 1751015625797,
         "caughtTimestamp": 1751015625797
       }
+    },
+    "heatmor": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1751016404317,
+        "caughtTimestamp": 1751016404317
+      }
     }
   }
 }
