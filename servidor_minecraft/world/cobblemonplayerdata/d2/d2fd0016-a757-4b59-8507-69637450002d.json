@@ -1888,6 +1888,14 @@
             "discoveredTimestamp": 1751042601850,
             "caughtTimestamp": 1751042601850
           }
+        },
+        "rowlet": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1751043218187,
+            "caughtTimestamp": 1751043218187
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1914,21 +1922,21 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 176,
+    "totalCaptureCount": 177,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 60,
-    "totalBattleVictoryCount": 269,
+    "totalBattleVictoryCount": 274,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 268,
+    "totalPvWBattleVictoryCount": 273,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 10,
     "totalTradedCount": 22,
     "totalTypeCaptureCounts": {
-      "grass": 18,
+      "grass": 19,
       "psychic": 8,
       "water": 12,
       "normal": 36,
-      "flying": 30,
+      "flying": 31,
       "ground": 12,
       "fire": 23,
       "steel": 17,
@@ -1947,14 +1955,14 @@
       "cobblemon:bidoof": 1,
       "cobblemon:numel": 1,
       "cobblemon:pineco": 2,
-      "cobblemon:bunnelby": 7,
+      "cobblemon:bunnelby": 8,
       "cobblemon:patrat": 1,
       "cobblemon:sentret": 2,
       "cobblemon:wooloo": 7,
       "cobblemon:mareep": 11,
       "cobblemon:oinkologne": 2,
       "cobblemon:dubwool": 1,
-      "cobblemon:tauros": 5,
+      "cobblemon:tauros": 6,
       "cobblemon:furret": 1,
       "cobblemon:combee": 6,
       "cobblemon:bouffalant": 2,
@@ -1970,7 +1978,7 @@
       "cobblemon:deerling": 1,
       "cobblemon:elekid": 1,
       "cobblemon:swellow": 1,
-      "cobblemon:crabrawler": 6,
+      "cobblemon:crabrawler": 7,
       "cobblemon:lilligant": 1,
       "cobblemon:petilil": 2,
       "cobblemon:vivillon": 8,
@@ -1978,7 +1986,7 @@
       "cobblemon:butterfree": 2,
       "cobblemon:kingler": 1,
       "cobblemon:cutiefly": 1,
-      "cobblemon:krabby": 3,
+      "cobblemon:krabby": 4,
       "cobblemon:ribombee": 1,
       "cobblemon:wingull": 2,
       "cobblemon:ralts": 1,

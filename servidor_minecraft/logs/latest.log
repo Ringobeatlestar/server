@@ -2031,3 +2031,8 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [27Jun2025 15:40:49.588] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 5.633 ms. 5713/5766 recipes are parallelized.
 [27Jun2025 16:44:14.669] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:stonecutting in 678.7 μs. 1425/1425 recipes are parallelized.
 [27Jun2025 16:48:26.254] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id man:mftfhang
+[27Jun2025 16:50:07.332] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: f6c61a26-313d-4d49-801c-1afc0124dc5c
+[27Jun2025 16:50:07.332] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: f6c61a26-313d-4d49-801c-1afc0124dc5c
+[27Jun2025 16:51:29.183] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: e2a5c082-2811-45a4-b1e8-ff172f2575a3
+[27Jun2025 16:51:29.183] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: e2a5c082-2811-45a4-b1e8-ff172f2575a3
+[27Jun2025 16:51:48.340] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id man:mftfhang
