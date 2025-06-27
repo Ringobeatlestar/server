@@ -2927,3 +2927,178 @@ java.lang.IllegalArgumentException: bound must be positive
 [27Jun2025 10:23:14.250] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 28.25135040283203) to VERY_LOW (avg. 14.713420867919922)
 [27Jun2025 10:26:03.318] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
 [27Jun2025 10:26:06.347] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:26:21.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was shot by Skeleton
+[27Jun2025 10:26:21.219] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[27Jun2025 10:26:22.500] [Server thread/WARN] [solapplepie/]: attempting to load item into food list that is no longer edible: minecraft:cake (ignoring in case it becomes edible again later)
+[27Jun2025 10:26:29.250] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.75930404663086) to LOW (avg. 21.634929656982422)
+[27Jun2025 10:26:59.250] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.16974639892578) to VERY_LOW (avg. 13.333036422729492)
+[27Jun2025 10:28:06.919] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:28:08.552] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=142, z=-4}
+[27Jun2025 10:28:08.552] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=3, y=142, z=-4}
+[27Jun2025 10:28:08.586] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:28:08.693] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:28:08.694] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:28:16.171] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:28:17.874] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:28:20.274] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:28:20.479] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:28:21.930] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:28:22.274] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:28:23.836] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:28:29.250] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.703243255615234) to LOW (avg. 23.672224044799805)
+[27Jun2025 10:28:29.727] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:28:30.523] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:28:31.122] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:28:31.122] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:28:31.122] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:28:31.122] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:28:31.245] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:28:31.344] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:28:31.447] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:28:32.399] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:28:32.994] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:28:32.994] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:28:36.299] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:28:40.474] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:28:40.474] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:28:45.219] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:28:45.220] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:28:45.220] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:28:45.220] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:28:52.791] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:28:56.018] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/153459, l='ServerLevel[world]', x=-1112.36, y=-34.00, z=258.02, removed=DISCARDED]
+[27Jun2025 10:28:56.276] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:28:56.395] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:29:06.172] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:29:06.750] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.35342788696289) to VERY_LOW (avg. 18.41326904296875)
+[27Jun2025 10:29:11.572] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:29:11.838] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:29:13.223] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:29:14.273] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:29:14.673] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:29:14.674] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:29:14.674] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:29:14.791] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:29:14.792] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:29:14.792] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:29:15.922] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:29:16.021] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:29:17.366] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:29:20.271] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:29:20.944] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:29:21.429] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:29:21.750] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.41326904296875) to LOW (avg. 20.05381965637207)
+[27Jun2025 10:30:14.250] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 35.286258697509766) to VERY_LOW (avg. 19.830158233642578)
+[27Jun2025 10:30:29.250] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.830158233642578) to LOW (avg. 28.961078643798828)
+[27Jun2025 10:30:34.068] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:30:37.868] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:30:37.868] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:30:41.419] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:30:41.419] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:30:41.420] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:30:42.587] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:30:44.250] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 28.961078643798828) to VERY_LOW (avg. 17.5871524810791)
+[27Jun2025 10:30:45.021] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:30:45.021] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:30:59.578] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:31:05.467] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=139, z=0}
+[27Jun2025 10:31:07.990] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=139, z=0}
+[27Jun2025 10:31:43.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Vindicator
+[27Jun2025 10:31:43.928] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[27Jun2025 10:31:43.933] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[27Jun2025 10:31:43.933] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 3 is dual wielding: false
+[27Jun2025 10:31:43.933] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[27Jun2025 10:31:43.933] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[27Jun2025 10:31:43.933] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[27Jun2025 10:31:44.250] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 13.239373207092285) to LOW (avg. 26.571779251098633)
+[27Jun2025 10:31:45.297] [Server thread/WARN] [solapplepie/]: attempting to load item into food list that is no longer edible: minecraft:cake (ignoring in case it becomes edible again later)
+[27Jun2025 10:31:55.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Vindicator
+[27Jun2025 10:31:55.546] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[27Jun2025 10:31:56.838] [Server thread/WARN] [solapplepie/]: attempting to load item into food list that is no longer edible: minecraft:cake (ignoring in case it becomes edible again later)
+[27Jun2025 10:32:06.750] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.782119750976562) to VERY_LOW (avg. 16.805927276611328)
+[27Jun2025 10:32:51.750] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.1787052154541) to LOW (avg. 27.849136352539062)
+[27Jun2025 10:32:52.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Vindicator
+[27Jun2025 10:32:52.857] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[27Jun2025 10:32:52.981] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[27Jun2025 10:32:52.981] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 6 is dual wielding: false
+[27Jun2025 10:32:52.982] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[27Jun2025 10:32:52.982] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[27Jun2025 10:32:52.982] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[27Jun2025 10:32:54.182] [Server thread/WARN] [solapplepie/]: attempting to load item into food list that is no longer edible: minecraft:cake (ignoring in case it becomes edible again later)
+[27Jun2025 10:33:03.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Vindicator
+[27Jun2025 10:33:03.255] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[27Jun2025 10:33:04.525] [Server thread/WARN] [solapplepie/]: attempting to load item into food list that is no longer edible: minecraft:cake (ignoring in case it becomes edible again later)
+[27Jun2025 10:33:21.750] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.22577476501465) to VERY_LOW (avg. 17.710205078125)
+[27Jun2025 10:33:59.250] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.51962661743164) to LOW (avg. 26.959003448486328)
+[27Jun2025 10:34:03.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Vindicator
+[27Jun2025 10:34:03.192] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[27Jun2025 10:34:04.469] [Server thread/WARN] [solapplepie/]: attempting to load item into food list that is no longer edible: minecraft:cake (ignoring in case it becomes edible again later)
+[27Jun2025 10:34:21.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 28.823345184326172) to HIGH (avg. 54.18416976928711)
+[27Jun2025 10:34:23.000] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from LOW (avg. 32.98011127) to NORMAL (avg. 38.855249560000004)
+[27Jun2025 10:34:24.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Vindicator
+[27Jun2025 10:34:24.318] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[27Jun2025 10:34:25.626] [Server thread/WARN] [solapplepie/]: attempting to load item into food list that is no longer edible: minecraft:cake (ignoring in case it becomes edible again later)
+[27Jun2025 10:34:29.150] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/153459, l='ServerLevel[world]', x=-1112.36, y=-34.00, z=258.02, removed=DISCARDED]
+[27Jun2025 10:34:36.750] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 54.18416976928711) to LOW (avg. 26.893491744995117)
+[27Jun2025 10:34:38.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Vindicator
+[27Jun2025 10:34:38.099] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[27Jun2025 10:34:38.180] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[27Jun2025 10:34:38.180] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[27Jun2025 10:34:38.180] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[27Jun2025 10:34:38.180] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[27Jun2025 10:34:38.180] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[27Jun2025 10:34:39.349] [Server thread/WARN] [solapplepie/]: attempting to load item into food list that is no longer edible: minecraft:cake (ignoring in case it becomes edible again later)
+[27Jun2025 10:34:49.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Vindicator
+[27Jun2025 10:34:49.209] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[27Jun2025 10:34:50.445] [Server thread/WARN] [solapplepie/]: attempting to load item into food list that is no longer edible: minecraft:cake (ignoring in case it becomes edible again later)
+[27Jun2025 10:35:03.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Vindicator
+[27Jun2025 10:35:03.768] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[27Jun2025 10:35:03.787] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[27Jun2025 10:35:03.788] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 5 is dual wielding: false
+[27Jun2025 10:35:03.788] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[27Jun2025 10:35:03.788] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[27Jun2025 10:35:03.788] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[27Jun2025 10:35:05.152] [Server thread/WARN] [solapplepie/]: attempting to load item into food list that is no longer edible: minecraft:cake (ignoring in case it becomes edible again later)
+[27Jun2025 10:35:06.750] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.410343170166016) to VERY_LOW (avg. 19.1785945892334)
+[27Jun2025 10:35:21.750] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.1785945892334) to LOW (avg. 26.372447967529297)
+[27Jun2025 10:35:24.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Vindicator
+[27Jun2025 10:35:24.758] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[27Jun2025 10:35:24.792] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[27Jun2025 10:35:24.792] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 3 is dual wielding: false
+[27Jun2025 10:35:24.792] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[27Jun2025 10:35:24.792] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[27Jun2025 10:35:24.792] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[27Jun2025 10:35:26.247] [Server thread/WARN] [solapplepie/]: attempting to load item into food list that is no longer edible: minecraft:cake (ignoring in case it becomes edible again later)
+[27Jun2025 10:35:40.477] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:35:40.477] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:35:41.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was shot by Pillager
+[27Jun2025 10:35:41.946] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[27Jun2025 10:35:42.814] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[27Jun2025 10:35:42.815] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 15 is dual wielding: false
+[27Jun2025 10:35:42.815] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[27Jun2025 10:35:42.815] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[27Jun2025 10:35:42.815] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[27Jun2025 10:35:43.277] [Server thread/WARN] [solapplepie/]: attempting to load item into food list that is no longer edible: minecraft:cake (ignoring in case it becomes edible again later)
+[27Jun2025 10:35:43.987] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:35:43.987] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:35:45.922] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:36:04.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Vindicator
+[27Jun2025 10:36:04.737] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[27Jun2025 10:36:05.189] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[27Jun2025 10:36:05.189] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 24 is dual wielding: false
+[27Jun2025 10:36:05.189] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[27Jun2025 10:36:05.189] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[27Jun2025 10:36:05.189] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[27Jun2025 10:36:06.750] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 27.127737045288086) to VERY_LOW (avg. 10.440497398376465)
+[27Jun2025 10:36:14.669] [Server thread/WARN] [solapplepie/]: attempting to load item into food list that is no longer edible: minecraft:cake (ignoring in case it becomes edible again later)
+[27Jun2025 10:36:16.818] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/173312, l='ServerLevel[world]', x=-96.36, y=56.55, z=321.61, removed=DISCARDED]
+[27Jun2025 10:36:16.818] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/173313, l='ServerLevel[world]', x=-96.37, y=57.28, z=321.38, removed=DISCARDED]
+[27Jun2025 10:36:27.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Vindicator
+[27Jun2025 10:36:27.186] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[27Jun2025 10:36:27.307] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[27Jun2025 10:36:27.307] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 5 is dual wielding: false
+[27Jun2025 10:36:27.308] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[27Jun2025 10:36:27.308] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[27Jun2025 10:36:27.308] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[27Jun2025 10:36:28.842] [Server thread/WARN] [solapplepie/]: attempting to load item into food list that is no longer edible: minecraft:cake (ignoring in case it becomes edible again later)
+[27Jun2025 10:36:29.252] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.83806800842285) to LOW (avg. 30.75231170654297)
