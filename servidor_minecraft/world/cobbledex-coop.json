@@ -2765,7 +2765,7 @@
     },
     "magby": {
       "normal": {
-        "isShiny": false,
+        "isShiny": true,
         "status": "CAUGHT",
         "discoveredTimestamp": 1750887108983,
         "caughtTimestamp": 1750887108983

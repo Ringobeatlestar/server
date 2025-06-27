@@ -2174,6 +2174,22 @@
             "discoveredTimestamp": 1751023504924,
             "caughtTimestamp": 1751023504924
           }
+        },
+        "magby": {
+          "normal": {
+            "isShiny": true,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1751023831579,
+            "caughtTimestamp": 1751023831579
+          }
+        },
+        "darumaka": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1751023874786,
+            "caughtTimestamp": 1751023874786
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -2202,14 +2218,14 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 151,
+    "totalCaptureCount": 153,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 109,
-    "totalBattleVictoryCount": 311,
+    "totalBattleVictoryCount": 313,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 311,
+    "totalPvWBattleVictoryCount": 313,
     "totalPvNBattleVictoryCount": 0,
-    "totalShinyCaptureCount": 1,
+    "totalShinyCaptureCount": 2,
     "totalTradedCount": 22,
     "totalTypeCaptureCounts": {
       "rock": 7,
@@ -2217,7 +2233,7 @@
       "poison": 13,
       "water": 27,
       "ghost": 9,
-      "fire": 5,
+      "fire": 7,
       "ice": 2,
       "fairy": 14,
       "normal": 39,

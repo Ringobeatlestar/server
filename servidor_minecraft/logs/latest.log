@@ -3432,3 +3432,102 @@ java.lang.IllegalArgumentException: bound must be positive
 [27Jun2025 11:27:23.830] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
 [27Jun2025 11:27:23.830] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
 [27Jun2025 11:27:25.573] [Server thread/WARN] [solapplepie/]: attempting to load item into food list that is no longer edible: minecraft:cake (ignoring in case it becomes edible again later)
+[27Jun2025 11:27:44.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Ancient Knight
+[27Jun2025 11:27:44.266] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[27Jun2025 11:27:45.542] [Server thread/WARN] [solapplepie/]: attempting to load item into food list that is no longer edible: minecraft:cake (ignoring in case it becomes edible again later)
+[27Jun2025 11:27:54.400] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 25.139150619506836) to VERY_LOW (avg. 17.04806900024414)
+[27Jun2025 11:28:00.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> muertes macarronanso 143 perraso 0
+[27Jun2025 11:28:01.900] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.04806900024414) to LOW (avg. 25.723114013671875)
+[27Jun2025 11:28:42.936] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 11:29:21.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Ancient Knight
+[27Jun2025 11:29:21.942] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[27Jun2025 11:29:22.102] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[27Jun2025 11:29:22.103] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 4 is dual wielding: false
+[27Jun2025 11:29:22.103] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[27Jun2025 11:29:22.103] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[27Jun2025 11:29:22.103] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[27Jun2025 11:29:23.076] [Server thread/WARN] [solapplepie/]: attempting to load item into food list that is no longer edible: minecraft:cake (ignoring in case it becomes edible again later)
+[27Jun2025 11:29:31.900] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 25.449764251708984) to VERY_LOW (avg. 15.739927291870117)
+[27Jun2025 11:29:46.900] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.739927291870117) to LOW (avg. 27.945579528808594)
+[27Jun2025 11:30:40.327] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 11:30:41.893] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 11:32:05.232] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 11:32:05.233] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 11:32:05.527] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 11:33:59.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has made the advancement [Spooky Scary Skeleton]
+[27Jun2025 11:34:11.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Gastly
+[27Jun2025 11:34:11.282] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[27Jun2025 11:34:11.283] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[27Jun2025 11:34:11.283] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[27Jun2025 11:34:11.283] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[27Jun2025 11:34:11.283] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[27Jun2025 11:34:11.289] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[27Jun2025 11:34:24.400] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 27.421688079833984) to VERY_LOW (avg. 15.528437614440918)
+[27Jun2025 11:34:31.900] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.528437614440918) to LOW (avg. 28.761173248291016)
+[27Jun2025 11:36:07.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Camerupt
+[27Jun2025 11:36:07.797] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[27Jun2025 11:36:16.900] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 27.923694610595703) to VERY_LOW (avg. 17.372859954833984)
+[27Jun2025 11:36:31.900] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.372859954833984) to LOW (avg. 27.095409393310547)
+[27Jun2025 11:37:56.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Ancient Knight
+[27Jun2025 11:37:56.199] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[27Jun2025 11:37:56.615] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[27Jun2025 11:37:56.616] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[27Jun2025 11:37:56.616] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[27Jun2025 11:37:56.616] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[27Jun2025 11:37:56.616] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[27Jun2025 11:39:03.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Ancient Knight
+[27Jun2025 11:39:03.892] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[27Jun2025 11:39:16.900] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.13655662536621) to VERY_LOW (avg. 15.931917190551758)
+[27Jun2025 11:39:24.400] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.931917190551758) to LOW (avg. 26.160737991333008)
+[27Jun2025 11:39:51.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Ancient Knight
+[27Jun2025 11:39:51.489] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[27Jun2025 11:39:51.559] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[27Jun2025 11:39:51.559] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[27Jun2025 11:39:51.559] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[27Jun2025 11:39:51.559] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[27Jun2025 11:39:51.560] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[27Jun2025 11:39:54.425] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 28.6496639251709) to VERY_LOW (avg. 16.99066925048828)
+[27Jun2025 11:40:09.400] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.99066925048828) to LOW (avg. 28.359237670898438)
+[27Jun2025 11:42:16.449] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! -14.615424421466287,0.0,16.035634660156763
+[27Jun2025 11:42:16.450] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! -14.201656054213856,0.0,15.581650350929788
+[27Jun2025 11:42:16.450] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! -13.785438011806207,0.0,15.124970377853007
+[27Jun2025 11:42:16.450] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! -13.356559607985332,0.0,14.65442039705778
+[27Jun2025 11:42:16.450] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! -12.9381370851994,0.0,14.195289362086864
+[27Jun2025 11:42:16.450] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! -12.50925938286781,0.0,13.724737947734528
+[27Jun2025 11:42:16.450] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! -12.090592244394031,0.0,13.2653611273867
+[27Jun2025 11:42:16.450] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! -11.661715060883836,0.0,12.794808652775547
+[27Jun2025 11:42:16.451] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! -11.243538206647344,0.0,12.33604375156295
+[27Jun2025 11:42:16.451] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! -10.826218965433412,0.0,11.878136119378535
+[27Jun2025 11:42:16.451] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! -10.411104821418832,0.0,11.422678288558355
+[27Jun2025 11:42:16.976] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! -10.92553142549616,0.0,11.987101362323163
+[27Jun2025 11:42:16.976] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! -10.496655022354417,0.0,11.516547292958233
+[27Jun2025 11:42:16.976] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! -10.082888595644192,0.0,11.06255901805682
+[27Jun2025 11:42:16.977] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! -9.654012373014808,0.0,10.592004579798346
+[27Jun2025 11:42:16.977] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! -9.24686104519867,0.0,10.14524360279793
+[27Jun2025 11:42:16.977] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! -8.841547256706178,0.0,9.700565045435983
+[27Jun2025 11:42:16.977] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! -8.412671220670745,0.0,9.23001022585579
+[27Jun2025 11:42:16.977] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! -7.983795230290156,0.0,8.75945531297587
+[27Jun2025 11:42:16.977] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! -7.580319029711916,0.0,8.316736575953204
+[27Jun2025 11:42:18.076] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! -10.534439948210746,0.0,11.558039919861695
+[27Jun2025 11:42:18.077] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! -10.13672128764182,0.0,11.121691101076397
+[27Jun2025 11:42:18.077] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! -9.740962642981941,0.0,10.687424749779463
+[27Jun2025 11:42:18.077] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! -9.347164012003873,0.0,10.25536337052252
+[27Jun2025 11:42:18.077] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! -8.955325392792162,0.0,9.825384467219966
+[27Jun2025 11:42:18.077] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! -8.526449585285746,0.0,9.354829180619944
+[27Jun2025 11:42:18.077] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! -8.138408484895535,0.0,8.929015238854042
+[27Jun2025 11:42:18.077] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! -7.752204891989322,0.0,8.505283781793786
+[27Jun2025 11:42:38.172] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ansoooooo lost connection: Timed out
+[27Jun2025 11:42:38.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo left the game
+[27Jun2025 11:42:42.647] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Ansoooooo is e02de1a8-2fb6-49f1-b9dc-8ef7357f32d3
+[27Jun2025 11:42:44.982] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ansoooooo[/127.53.158.23:43217] logged in with entity id 287099 at (-229.04983439441065, 49.0, 11.699999988079071)
+[27Jun2025 11:42:45.041] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Ansoooooo
+[27Jun2025 11:42:45.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo joined the game
+[27Jun2025 11:42:45.046] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity PokemonEntity['Yanmega'/287100, l='ServerLevel[world]', x=-229.05, y=48.00, z=11.70] as it would cause deadlock
+[27Jun2025 11:43:16.900] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 28.92497444152832) to VERY_LOW (avg. 12.376458168029785)
+[27Jun2025 11:43:43.151] [User Authenticator #10/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Ansoooooo is e02de1a8-2fb6-49f1-b9dc-8ef7357f32d3
+[27Jun2025 11:43:45.166] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ansoooooo lost connection: Timed out
+[27Jun2025 11:43:45.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo left the game
+[27Jun2025 11:43:45.482] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ansoooooo[/127.53.158.23:38307] logged in with entity id 288666 at (-1849.5262566955435, 69.0, 166.3982461970582)
+[27Jun2025 11:43:45.545] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Ansoooooo
+[27Jun2025 11:43:45.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo joined the game
+[27Jun2025 11:45:33.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has reached the goal [New Age Librarian]

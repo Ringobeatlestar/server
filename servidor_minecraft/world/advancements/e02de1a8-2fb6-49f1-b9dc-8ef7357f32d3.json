@@ -200,6 +200,7 @@
       "minecraft:evoker": "2025-06-27 10:41:35 +0000",
       "minecraft:phantom": "2025-06-15 11:23:35 +0000",
       "minecraft:witch": "2025-06-23 11:07:17 +0000",
+      "minecraft:wither_skeleton": "2025-06-27 11:41:42 +0000",
       "minecraft:husk": "2025-06-27 09:14:29 +0000",
       "minecraft:cave_spider": "2025-06-23 10:44:08 +0000",
       "minecraft:piglin": "2025-06-27 11:12:10 +0000",
@@ -326,6 +327,7 @@
       "cooked_beef": "2025-06-16 09:13:53 +0000",
       "beef": "2025-06-16 10:23:07 +0000",
       "baked_potato": "2025-06-20 11:08:46 +0000",
+      "porkchop": "2025-06-27 11:31:00 +0000",
       "apple": "2025-06-15 09:49:46 +0000",
       "cooked_cod": "2025-06-16 10:45:14 +0000",
       "pumpkin_pie": "2025-06-20 08:56:33 +0000",
@@ -1801,93 +1803,15 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-27 11:26:19 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-27 11:26:19 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-27 11:26:19 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-27 11:26:19 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-27 11:26:19 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-27 11:26:19 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-27 11:26:19 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-27 11:26:19 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-27 11:26:19 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-27 11:26:19 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-27 11:26:19 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-27 11:26:19 +0000"
-    },
-    "done": false
-  },
-  "minecraft:nether/obtain_crying_obsidian": {
-    "criteria": {
-      "crying_obsidian": "2025-06-27 11:13:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:nether/distract_piglin": {
     "criteria": {
       "distract_piglin_directly": "2025-06-27 11:07:34 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/use_true_sight": {
+  "minecraft:nether/find_bastion": {
     "criteria": {
-      "has_magic_scroll": "2025-06-27 11:24:09 +0000"
+      "bastion": "2025-06-27 11:09:01 +0000"
     },
     "done": true
   },
@@ -1903,9 +1827,9 @@
     },
     "done": true
   },
-  "minecraft:nether/find_bastion": {
+  "tombstone:adventure/discreet_search": {
     "criteria": {
-      "bastion": "2025-06-27 11:09:01 +0000"
+      "coded_trigger": "2025-06-27 11:11:51 +0000"
     },
     "done": true
   },
@@ -1915,9 +1839,105 @@
     },
     "done": true
   },
-  "tombstone:adventure/discreet_search": {
+  "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
-      "coded_trigger": "2025-06-27 11:11:51 +0000"
+      "crying_obsidian": "2025-06-27 11:13:32 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_true_sight": {
+    "criteria": {
+      "has_magic_scroll": "2025-06-27 11:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-06-27 11:33:59 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:nether/find_piglins": {
+    "criteria": {
+      "nova_structures:piglin_camp": "2025-06-27 11:41:15 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-27 11:46:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-27 11:46:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-27 11:46:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-27 11:46:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-27 11:46:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-27 11:46:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-27 11:46:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-27 11:46:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-27 11:46:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-27 11:46:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-27 11:46:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-27 11:46:18 +0000"
+    },
+    "done": false
+  },
+  "irons_spellbooks:irons_spellbooks/make_scroll_forge": {
+    "criteria": {
+      "scroll_forge": "2025-06-27 11:45:33 +0000"
     },
     "done": true
   },
