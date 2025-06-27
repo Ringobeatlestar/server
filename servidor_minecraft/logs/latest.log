@@ -2097,3 +2097,4 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [27Jun2025 17:29:44.430] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 174.1 μs. 293/293 recipes are parallelized.
 [27Jun2025 17:36:30.941] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
 [27Jun2025 17:36:31.683] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 17:49:06.146] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
