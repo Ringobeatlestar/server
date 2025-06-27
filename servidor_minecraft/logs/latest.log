@@ -2069,3 +2069,31 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [27Jun2025 17:09:26.184] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
 [27Jun2025 17:09:26.184] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
 [27Jun2025 17:09:26.184] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 17:09:48.677] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AgentePerrote lost connection: Disconnected
+[27Jun2025 17:09:48.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote left the game
+[27Jun2025 17:15:11.558] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player AgentePerrote is d2fd0016-a757-4b59-8507-69637450002d
+[27Jun2025 17:15:13.807] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AgentePerrote[/127.182.232.120:57851] logged in with entity id 93679 at (-929.7321034502053, 160.0, -2990.365366448546)
+[27Jun2025 17:15:13.887] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player AgentePerrote
+[27Jun2025 17:15:13.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote joined the game
+[27Jun2025 17:15:59.348] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 17:16:20.843] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id man:mftfhang
+[27Jun2025 17:17:43.252] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id man:mftfhang
+[27Jun2025 17:17:50.721] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:the_nether changed from VERY_LOW (avg. 13.12104167) to LOW (avg. 22.56768586)
+[27Jun2025 17:18:10.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Gastly
+[27Jun2025 17:18:10.603] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[27Jun2025 17:18:46.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> a
+[27Jun2025 17:19:16.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote fell from a high place
+[27Jun2025 17:19:16.307] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[27Jun2025 17:19:19.471] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 10.450857162475586) to LOW (avg. 24.09656524658203)
+[27Jun2025 17:19:26.971] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.09656524658203) to VERY_LOW (avg. 11.075335502624512)
+[27Jun2025 17:19:30.619] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 17:19:30.837] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 17:19:44.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was doomed to fall by Straddler
+[27Jun2025 17:19:44.464] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[27Jun2025 17:19:56.971] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 11.38068675994873) to LOW (avg. 22.307926177978516)
+[27Jun2025 17:20:04.471] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.307926177978516) to VERY_LOW (avg. 13.168034553527832)
+[27Jun2025 17:20:13.818] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 13.168034553527832) to VERY_HIGH (avg. 220.15121459960938)
+[27Jun2025 17:20:19.471] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 220.15121459960938) to VERY_LOW (avg. 13.39509105682373)
+[27Jun2025 17:29:44.430] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 174.1 μs. 293/293 recipes are parallelized.
+[27Jun2025 17:36:30.941] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 17:36:31.683] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
