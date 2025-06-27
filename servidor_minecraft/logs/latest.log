@@ -2251,3 +2251,28 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [27Jun2025 09:39:57.737] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
 [27Jun2025 09:41:06.750] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 9.933183670043945) to LOW (avg. 39.66264724731445)
 [27Jun2025 09:41:14.250] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 39.66264724731445) to VERY_LOW (avg. 19.68674087524414)
+[27Jun2025 09:50:29.330] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player AgentePerrote is d2fd0016-a757-4b59-8507-69637450002d
+[27Jun2025 09:50:31.633] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AgentePerrote[/127.182.232.120:54249] logged in with entity id 85807 at (-1887.4529860267603, 69.0, 203.2921846452696)
+[27Jun2025 09:50:31.703] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player AgentePerrote
+[27Jun2025 09:50:31.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote joined the game
+[27Jun2025 09:51:29.250] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 9.765978813171387) to LOW (avg. 21.843610763549805)
+[27Jun2025 09:51:36.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> quien eres
+[27Jun2025 09:51:36.750] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.843610763549805) to VERY_LOW (avg. 16.980121612548828)
+[27Jun2025 09:51:50.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> tu puta qe contrataste
+[27Jun2025 09:51:51.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> quien eres
+[27Jun2025 09:51:55.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> sexting?=
+[27Jun2025 09:52:00.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> si pera
+[27Jun2025 09:52:05.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> mansana
+[27Jun2025 09:52:13.217] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/9413, l='ServerLevel[world]', x=3551.01, y=70.00, z=6028.04, removed=DISCARDED]
+[27Jun2025 09:52:19.070] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/6911, l='ServerLevel[world]', x=3568.14, y=-43.00, z=6031.13, removed=DISCARDED]
+[27Jun2025 09:52:23.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Man From The Fog
+[27Jun2025 09:52:23.360] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[27Jun2025 09:52:28.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> D:
+[27Jun2025 09:52:29.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> as muerti
+[27Jun2025 09:52:39.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> es la priumera bes qe me mat
+[27Jun2025 09:53:55.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> a
+[27Jun2025 09:54:07.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> qe
+[27Jun2025 09:54:35.814] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PokemonEntity['Paco Pepe'/93955, l='ServerLevel[world]', x=3142.25, y=126.04, z=5875.68] died: Paco Pepe was slain by Ancient Knight
+[27Jun2025 09:54:57.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> bienvenidos a ibailand
+[27Jun2025 09:55:02.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> la serie en la qeu juego
+[27Jun2025 09:55:05.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> inomeablan
