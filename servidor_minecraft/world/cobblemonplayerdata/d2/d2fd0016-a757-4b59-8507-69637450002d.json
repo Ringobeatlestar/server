@@ -1785,6 +1785,22 @@
             "discoveredTimestamp": 1750888470532,
             "caughtTimestamp": 1750888470532
           }
+        },
+        "eevee": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750888581432,
+            "caughtTimestamp": 1750888581432
+          }
+        },
+        "yamask": {
+          "galar": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750888606134,
+            "caughtTimestamp": 1750888606134
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1810,12 +1826,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 154,
+    "totalCaptureCount": 156,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 56,
-    "totalBattleVictoryCount": 242,
+    "totalBattleVictoryCount": 244,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 242,
+    "totalPvWBattleVictoryCount": 244,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 9,
     "totalTradedCount": 22,
@@ -1823,9 +1839,9 @@
       "grass": 18,
       "psychic": 7,
       "water": 10,
-      "normal": 33,
+      "normal": 34,
       "flying": 30,
-      "ground": 11,
+      "ground": 12,
       "fire": 20,
       "steel": 11,
       "dark": 10,
@@ -1837,7 +1853,7 @@
       "rock": 9,
       "poison": 13,
       "dragon": 5,
-      "ghost": 13
+      "ghost": 14
     },
     "totalDefeatedCounts": {
       "cobblemon:bidoof": 1,

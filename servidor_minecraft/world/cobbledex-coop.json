@@ -2772,6 +2772,14 @@
         "discoveredTimestamp": 1750888400182,
         "caughtTimestamp": 1750888400182
       }
+    },
+    "yamask": {
+      "galar": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750888606135,
+        "caughtTimestamp": 1750888606135
+      }
     }
   }
 }
