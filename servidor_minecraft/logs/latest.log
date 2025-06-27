@@ -3102,3 +3102,159 @@ java.lang.IllegalArgumentException: bound must be positive
 [27Jun2025 10:36:27.308] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
 [27Jun2025 10:36:28.842] [Server thread/WARN] [solapplepie/]: attempting to load item into food list that is no longer edible: minecraft:cake (ignoring in case it becomes edible again later)
 [27Jun2025 10:36:29.252] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.83806800842285) to LOW (avg. 30.75231170654297)
+[27Jun2025 10:36:51.750] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.761690139770508) to VERY_LOW (avg. 14.5567045211792)
+[27Jun2025 10:37:04.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Vindicator
+[27Jun2025 10:37:04.904] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[27Jun2025 10:37:05.112] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[27Jun2025 10:37:05.113] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 9 is dual wielding: false
+[27Jun2025 10:37:05.114] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[27Jun2025 10:37:05.114] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[27Jun2025 10:37:05.114] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[27Jun2025 10:37:06.322] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[27Jun2025 10:37:06.322] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 10 is dual wielding: false
+[27Jun2025 10:37:06.323] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[27Jun2025 10:37:06.323] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[27Jun2025 10:37:06.323] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[27Jun2025 10:37:06.424] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[27Jun2025 10:37:06.425] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 11 is dual wielding: false
+[27Jun2025 10:37:06.425] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[27Jun2025 10:37:06.426] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[27Jun2025 10:37:06.426] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[27Jun2025 10:37:06.477] [Server thread/WARN] [solapplepie/]: attempting to load item into food list that is no longer edible: minecraft:cake (ignoring in case it becomes edible again later)
+[27Jun2025 10:37:06.750] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.5567045211792) to LOW (avg. 21.2802791595459)
+[27Jun2025 10:37:12.811] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1865, y=54, z=240} BlockPos{x=4, y=141, z=0}
+[27Jun2025 10:37:13.560] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1865, y=54, z=240} BlockPos{x=3, y=141, z=-1}
+[27Jun2025 10:37:13.612] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1865, y=54, z=240} BlockPos{x=3, y=141, z=-1}
+[27Jun2025 10:37:14.059] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1865, y=54, z=240} BlockPos{x=6, y=142, z=-1}
+[27Jun2025 10:37:15.260] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1865, y=54, z=240} BlockPos{x=6, y=142, z=-2}
+[27Jun2025 10:37:15.360] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1865, y=54, z=240} BlockPos{x=6, y=142, z=-2}
+[27Jun2025 10:37:15.459] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1865, y=54, z=240} BlockPos{x=6, y=142, z=-3}
+[27Jun2025 10:37:15.930] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1865, y=54, z=240} BlockPos{x=6, y=142, z=-2}
+[27Jun2025 10:37:17.373] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1865, y=54, z=240} BlockPos{x=7, y=142, z=-2}
+[27Jun2025 10:37:17.385] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1865, y=54, z=240} BlockPos{x=7, y=142, z=-2}
+[27Jun2025 10:37:18.926] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1865, y=54, z=240} BlockPos{x=6, y=142, z=-3}
+[27Jun2025 10:37:19.078] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1865, y=54, z=240} BlockPos{x=6, y=142, z=-3}
+[27Jun2025 10:37:19.226] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1865, y=54, z=240} BlockPos{x=6, y=142, z=-3}
+[27Jun2025 10:37:20.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> a
+[27Jun2025 10:37:21.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Vindicator
+[27Jun2025 10:37:21.191] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[27Jun2025 10:37:21.343] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[27Jun2025 10:37:21.343] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 5 is dual wielding: false
+[27Jun2025 10:37:21.343] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[27Jun2025 10:37:21.343] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[27Jun2025 10:37:21.343] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[27Jun2025 10:37:22.299] [Server thread/WARN] [solapplepie/]: attempting to load item into food list that is no longer edible: minecraft:cake (ignoring in case it becomes edible again later)
+[27Jun2025 10:37:23.811] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1865, y=54, z=240} BlockPos{x=9, y=143, z=-3}
+[27Jun2025 10:37:36.750] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 27.212621688842773) to VERY_LOW (avg. 10.989720344543457)
+[27Jun2025 10:37:43.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Vindicator
+[27Jun2025 10:37:43.490] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[27Jun2025 10:37:44.587] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[27Jun2025 10:37:44.588] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 7 is dual wielding: false
+[27Jun2025 10:37:44.588] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[27Jun2025 10:37:44.588] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[27Jun2025 10:37:44.588] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[27Jun2025 10:37:44.622] [Server thread/WARN] [solapplepie/]: attempting to load item into food list that is no longer edible: minecraft:cake (ignoring in case it becomes edible again later)
+[27Jun2025 10:37:45.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Murkrow
+[27Jun2025 10:37:45.990] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[27Jun2025 10:37:56.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Vindicator
+[27Jun2025 10:37:56.213] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[27Jun2025 10:37:57.390] [Server thread/WARN] [solapplepie/]: attempting to load item into food list that is no longer edible: minecraft:cake (ignoring in case it becomes edible again later)
+[27Jun2025 10:37:59.259] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.69049644470215) to LOW (avg. 26.11093521118164)
+[27Jun2025 10:39:55.183] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:39:55.184] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:39:55.282] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[27Jun2025 10:40:16.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote fell from a high place
+[27Jun2025 10:40:16.905] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[27Jun2025 10:41:46.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has reached the goal [Postmortal]
+[27Jun2025 10:41:46.929] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[27Jun2025 10:41:51.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Vindicator
+[27Jun2025 10:41:51.633] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[27Jun2025 10:41:51.633] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 3 is dual wielding: false
+[27Jun2025 10:41:51.633] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[27Jun2025 10:41:51.633] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[27Jun2025 10:41:51.633] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[27Jun2025 10:41:51.652] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[27Jun2025 10:41:53.117] [Server thread/WARN] [solapplepie/]: attempting to load item into food list that is no longer edible: minecraft:cake (ignoring in case it becomes edible again later)
+[27Jun2025 10:42:02.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Vindicator
+[27Jun2025 10:42:02.189] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[27Jun2025 10:42:02.333] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[27Jun2025 10:42:02.333] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 6 is dual wielding: false
+[27Jun2025 10:42:02.333] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[27Jun2025 10:42:02.333] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[27Jun2025 10:42:02.334] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[27Jun2025 10:42:03.566] [Server thread/WARN] [solapplepie/]: attempting to load item into food list that is no longer edible: minecraft:cake (ignoring in case it becomes edible again later)
+[27Jun2025 10:42:15.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Vindicator
+[27Jun2025 10:42:15.641] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[27Jun2025 10:42:15.642] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 5 is dual wielding: false
+[27Jun2025 10:42:15.642] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[27Jun2025 10:42:15.642] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[27Jun2025 10:42:15.642] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[27Jun2025 10:42:15.642] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[27Jun2025 10:42:16.979] [Server thread/WARN] [solapplepie/]: attempting to load item into food list that is no longer edible: minecraft:cake (ignoring in case it becomes edible again later)
+[27Jun2025 10:42:26.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Vindicator
+[27Jun2025 10:42:26.489] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[27Jun2025 10:42:26.496] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[27Jun2025 10:42:26.496] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 7 is dual wielding: false
+[27Jun2025 10:42:26.496] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[27Jun2025 10:42:26.496] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[27Jun2025 10:42:26.496] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[27Jun2025 10:42:27.626] [Server thread/WARN] [solapplepie/]: attempting to load item into food list that is no longer edible: minecraft:cake (ignoring in case it becomes edible again later)
+[27Jun2025 10:42:29.250] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.338909149169922) to VERY_LOW (avg. 19.712303161621094)
+[27Jun2025 10:42:35.920] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AgentePerrote lost connection: Disconnected
+[27Jun2025 10:42:35.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote left the game
+[27Jun2025 10:42:45.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Vindicator
+[27Jun2025 10:42:45.038] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[27Jun2025 10:42:45.680] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[27Jun2025 10:42:45.681] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[27Jun2025 10:42:45.681] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[27Jun2025 10:42:45.681] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[27Jun2025 10:42:45.681] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[27Jun2025 10:42:46.502] [Server thread/WARN] [solapplepie/]: attempting to load item into food list that is no longer edible: minecraft:cake (ignoring in case it becomes edible again later)
+[27Jun2025 10:43:35.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Vex
+[27Jun2025 10:43:35.491] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[27Jun2025 10:43:36.678] [Server thread/WARN] [solapplepie/]: attempting to load item into food list that is no longer edible: minecraft:cake (ignoring in case it becomes edible again later)
+[27Jun2025 10:44:32.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has completed the challenge [Village Defender]
+[27Jun2025 10:44:50.185] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player AgentePerrote is d2fd0016-a757-4b59-8507-69637450002d
+[27Jun2025 10:44:52.494] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AgentePerrote[/127.182.232.120:36745] logged in with entity id 190990 at (-1895.1036850306054, 69.875, 217.48045964211718)
+[27Jun2025 10:44:52.560] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player AgentePerrote
+[27Jun2025 10:44:52.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote joined the game
+[27Jun2025 10:44:59.250] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.09361743927002) to LOW (avg. 20.059091567993164)
+[27Jun2025 10:44:59.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Vindicator
+[27Jun2025 10:44:59.791] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[27Jun2025 10:44:59.995] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[27Jun2025 10:44:59.995] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 5 is dual wielding: false
+[27Jun2025 10:44:59.995] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[27Jun2025 10:44:59.995] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[27Jun2025 10:44:59.995] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[27Jun2025 10:45:00.923] [Server thread/WARN] [solapplepie/]: attempting to load item into food list that is no longer edible: minecraft:cake (ignoring in case it becomes edible again later)
+[27Jun2025 10:45:15.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Vindicator
+[27Jun2025 10:45:15.038] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[27Jun2025 10:45:15.253] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[27Jun2025 10:45:15.254] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 6 is dual wielding: false
+[27Jun2025 10:45:15.254] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[27Jun2025 10:45:15.254] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[27Jun2025 10:45:15.254] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[27Jun2025 10:45:16.215] [Server thread/WARN] [solapplepie/]: attempting to load item into food list that is no longer edible: minecraft:cake (ignoring in case it becomes edible again later)
+[27Jun2025 10:45:21.750] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.679798126220703) to VERY_LOW (avg. 18.385244369506836)
+[27Jun2025 10:45:29.250] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.385244369506836) to LOW (avg. 21.892038345336914)
+[27Jun2025 10:45:39.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> Ansoooooo
+[27Jun2025 10:45:45.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> vindicator 67 anso 2
+[27Jun2025 10:45:55.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Vindicator
+[27Jun2025 10:45:55.938] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[27Jun2025 10:45:57.137] [Server thread/WARN] [solapplepie/]: attempting to load item into food list that is no longer edible: minecraft:cake (ignoring in case it becomes edible again later)
+[27Jun2025 10:46:05.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Vindicator
+[27Jun2025 10:46:05.594] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[27Jun2025 10:46:06.109] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[27Jun2025 10:46:06.109] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[27Jun2025 10:46:06.110] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[27Jun2025 10:46:06.110] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[27Jun2025 10:46:06.110] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[27Jun2025 10:46:06.798] [Server thread/WARN] [solapplepie/]: attempting to load item into food list that is no longer edible: minecraft:cake (ignoring in case it becomes edible again later)
+[27Jun2025 10:46:14.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Vindicator
+[27Jun2025 10:46:14.840] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[27Jun2025 10:46:15.978] [Server thread/WARN] [solapplepie/]: attempting to load item into food list that is no longer edible: minecraft:cake (ignoring in case it becomes edible again later)
+[27Jun2025 10:47:06.750] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 29.581146240234375) to VERY_LOW (avg. 12.972500801086426)
+[27Jun2025 10:47:50.192] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2691ms or 53 ticks behind
+[27Jun2025 10:47:50.213] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AgentePerrote moved too quickly! 4.504712438203342,-9.16953078886533,-0.5444377023964648
+[27Jun2025 10:47:55.650] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:overworld changed from NORMAL (avg. 38.855249560000004) to VERY_LOW (avg. 11.223420560000001)
+[27Jun2025 10:52:54.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Where's my Victory Music?]

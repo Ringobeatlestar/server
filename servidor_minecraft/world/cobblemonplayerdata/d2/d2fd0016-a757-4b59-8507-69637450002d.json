@@ -1852,9 +1852,9 @@
     "totalCaptureCount": 171,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 56,
-    "totalBattleVictoryCount": 258,
-    "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 258,
+    "totalBattleVictoryCount": 262,
+    "totalPvPBattleVictoryCount": 1,
+    "totalPvWBattleVictoryCount": 261,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 9,
     "totalTradedCount": 22,
@@ -1897,7 +1897,7 @@
       "cobblemon:lickitung": 1,
       "cobblemon:ponyta": 2,
       "cobblemon:flaaffy": 2,
-      "cobblemon:stonjourner": 2,
+      "cobblemon:stonjourner": 3,
       "cobblemon:diggersby": 2,
       "cobblemon:cottonee": 2,
       "cobblemon:buneary": 1,
@@ -1905,7 +1905,7 @@
       "cobblemon:deerling": 1,
       "cobblemon:elekid": 1,
       "cobblemon:swellow": 1,
-      "cobblemon:crabrawler": 5,
+      "cobblemon:crabrawler": 6,
       "cobblemon:lilligant": 1,
       "cobblemon:petilil": 2,
       "cobblemon:vivillon": 7,
@@ -1928,7 +1928,8 @@
       "cobblemon:meloetta": 1,
       "cobblemon:rattata": 1,
       "cobblemon:ekans": 1,
-      "cobblemon:doublade": 1
+      "cobblemon:doublade": 1,
+      "cobblemon:fomantis": 1
     },
     "aspectsCollected": {
       "cobblemon:vivillon": [
