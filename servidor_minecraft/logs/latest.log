@@ -2029,3 +2029,5 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [27Jun2025 15:38:56.971] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 11.860088348388672) to LOW (avg. 21.7573299407959)
 [27Jun2025 15:39:04.471] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.7573299407959) to VERY_LOW (avg. 13.91706657409668)
 [27Jun2025 15:40:49.588] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 5.633 ms. 5713/5766 recipes are parallelized.
+[27Jun2025 16:44:14.669] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:stonecutting in 678.7 μs. 1425/1425 recipes are parallelized.
+[27Jun2025 16:48:26.254] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id man:mftfhang

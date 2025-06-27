@@ -1872,6 +1872,22 @@
             "discoveredTimestamp": 1751041849443,
             "caughtTimestamp": 1751041849443
           }
+        },
+        "kadabra": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1751042554138,
+            "caughtTimestamp": 1751042554138
+          }
+        },
+        "alakazam": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1751042601850,
+            "caughtTimestamp": 1751042601850
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1891,7 +1907,8 @@
         "165",
         "180",
         "195",
-        "210"
+        "210",
+        "225"
       ],
       "name": "Cobbledex_RewardHistory"
     }
@@ -1899,10 +1916,10 @@
   "advancementData": {
     "totalCaptureCount": 176,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 58,
-    "totalBattleVictoryCount": 268,
+    "totalEvolvedCount": 60,
+    "totalBattleVictoryCount": 269,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 267,
+    "totalPvWBattleVictoryCount": 268,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 10,
     "totalTradedCount": 22,
@@ -1961,7 +1978,7 @@
       "cobblemon:butterfree": 2,
       "cobblemon:kingler": 1,
       "cobblemon:cutiefly": 1,
-      "cobblemon:krabby": 2,
+      "cobblemon:krabby": 3,
       "cobblemon:ribombee": 1,
       "cobblemon:wingull": 2,
       "cobblemon:ralts": 1,

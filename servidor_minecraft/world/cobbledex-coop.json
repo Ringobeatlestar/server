@@ -2850,6 +2850,22 @@
         "discoveredTimestamp": 1751039384140,
         "caughtTimestamp": 1751039384140
       }
+    },
+    "kadabra": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1751042554141,
+        "caughtTimestamp": 1751042554141
+      }
+    },
+    "alakazam": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1751042601852,
+        "caughtTimestamp": 1751042601852
+      }
     }
   }
 }
