@@ -2026,3 +2026,6 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [27Jun2025 15:33:52.123] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
 [27Jun2025 15:34:13.221] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from LOW (avg. 34.492603939999995) to NORMAL (avg. 37.94205903)
 [27Jun2025 15:34:26.971] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 33.745277404785156) to VERY_LOW (avg. 11.67972183227539)
+[27Jun2025 15:38:56.971] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 11.860088348388672) to LOW (avg. 21.7573299407959)
+[27Jun2025 15:39:04.471] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.7573299407959) to VERY_LOW (avg. 13.91706657409668)
+[27Jun2025 15:40:49.588] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 5.633 ms. 5713/5766 recipes are parallelized.
