@@ -2818,6 +2818,14 @@
         "discoveredTimestamp": 1751018955740,
         "caughtTimestamp": 1751018955740
       }
+    },
+    "milcery": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1751034678836,
+        "caughtTimestamp": 1751034678836
+      }
     }
   }
 }

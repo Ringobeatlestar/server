@@ -1824,6 +1824,14 @@
             "discoveredTimestamp": 1751018955738,
             "caughtTimestamp": 1751018955738
           }
+        },
+        "milcery": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1751034678832,
+            "caughtTimestamp": 1751034678832
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1849,12 +1857,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 171,
+    "totalCaptureCount": 172,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 56,
-    "totalBattleVictoryCount": 263,
+    "totalBattleVictoryCount": 264,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 262,
+    "totalPvWBattleVictoryCount": 263,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 9,
     "totalTradedCount": 22,
@@ -1872,7 +1880,7 @@
       "fighting": 10,
       "bug": 20,
       "electric": 5,
-      "fairy": 14,
+      "fairy": 15,
       "rock": 9,
       "poison": 13,
       "dragon": 5,
