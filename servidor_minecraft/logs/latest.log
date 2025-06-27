@@ -3311,3 +3311,65 @@ java.lang.IllegalArgumentException: bound must be positive
 [27Jun2025 11:06:54.400] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 13.653470993041992) to NORMAL (avg. 44.33845520019531)
 [27Jun2025 11:06:55.650] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:the_nether changed from VERY_LOW (avg. 0.37533146999999994) to LOW (avg. 25.73015698)
 [27Jun2025 11:07:01.900] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 44.33845520019531) to LOW (avg. 33.48168182373047)
+[27Jun2025 11:07:34.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has made the advancement [Oh Shiny]
+[27Jun2025 11:09:01.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has made the advancement [Those Were the Days]
+[27Jun2025 11:09:58.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has made the advancement [War Pigs]
+[27Jun2025 11:10:14.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has reached the goal [Great minds think alike]
+[27Jun2025 11:10:40.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Piglin Brute
+[27Jun2025 11:10:40.247] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[27Jun2025 11:10:40.347] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[27Jun2025 11:10:40.348] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[27Jun2025 11:10:40.348] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[27Jun2025 11:10:40.348] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[27Jun2025 11:10:40.348] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 2 | client: 2
+[27Jun2025 11:10:41.455] [Server thread/WARN] [solapplepie/]: attempting to load item into food list that is no longer edible: minecraft:cake (ignoring in case it becomes edible again later)
+[27Jun2025 11:10:54.400] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 27.826030731201172) to VERY_LOW (avg. 16.064416885375977)
+[27Jun2025 11:11:03.280] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.064416885375977) to VERY_HIGH (avg. 142.2252655029297)
+[27Jun2025 11:11:07.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Piglin Brute
+[27Jun2025 11:11:07.053] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[27Jun2025 11:11:07.382] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[27Jun2025 11:11:07.382] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[27Jun2025 11:11:07.382] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[27Jun2025 11:11:07.382] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[27Jun2025 11:11:07.382] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[27Jun2025 11:11:07.440] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[27Jun2025 11:11:07.440] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[27Jun2025 11:11:07.440] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[27Jun2025 11:11:07.441] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[27Jun2025 11:11:07.441] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[27Jun2025 11:11:07.493] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[27Jun2025 11:11:07.493] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[27Jun2025 11:11:07.493] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[27Jun2025 11:11:07.493] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[27Jun2025 11:11:07.494] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[27Jun2025 11:11:08.067] [Server thread/WARN] [solapplepie/]: attempting to load item into food list that is no longer edible: minecraft:cake (ignoring in case it becomes edible again later)
+[27Jun2025 11:11:10.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> jhaja
+[27Jun2025 11:11:16.900] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 142.2252655029297) to VERY_LOW (avg. 17.45610237121582)
+[27Jun2025 11:11:29.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Piglin Brute
+[27Jun2025 11:11:29.743] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[27Jun2025 11:11:31.475] [Server thread/WARN] [solapplepie/]: attempting to load item into food list that is no longer edible: minecraft:cake (ignoring in case it becomes edible again later)
+[27Jun2025 11:11:31.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> jajaj
+[27Jun2025 11:11:51.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has reached the goal [Discreet Search]
+[27Jun2025 11:11:54.400] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.280141830444336) to LOW (avg. 30.66429901123047)
+[27Jun2025 11:12:12.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Piglin Brute
+[27Jun2025 11:12:12.204] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[27Jun2025 11:12:13.535] [Server thread/WARN] [solapplepie/]: attempting to load item into food list that is no longer edible: minecraft:cake (ignoring in case it becomes edible again later)
+[27Jun2025 11:12:16.900] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 30.241771697998047) to VERY_LOW (avg. 14.031644821166992)
+[27Jun2025 11:12:31.900] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.031644821166992) to LOW (avg. 32.31584930419922)
+[27Jun2025 11:12:46.598] [Worker-Main-10/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/242764, l='ServerLevel[world]', x=-24.00, y=31.00, z=108.00] as it would cause deadlock
+[27Jun2025 11:12:46.598] [Worker-Main-10/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/242766, l='ServerLevel[world]', x=-24.00, y=31.00, z=110.00] as it would cause deadlock
+[27Jun2025 11:13:29.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has made the advancement [Hidden in the Depths]
+[27Jun2025 11:13:32.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has made the advancement [Who is Cutting Onions?]
+[27Jun2025 11:16:18.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Piglin Brute
+[27Jun2025 11:16:18.248] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[27Jun2025 11:16:19.345] [Server thread/WARN] [solapplepie/]: attempting to load item into food list that is no longer edible: minecraft:cake (ignoring in case it becomes edible again later)
+[27Jun2025 11:16:24.400] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 30.85212516784668) to VERY_LOW (avg. 15.967018127441406)
+[27Jun2025 11:16:39.400] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.967018127441406) to LOW (avg. 36.4320068359375)
+[27Jun2025 11:16:47.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was burnt to a crisp whilst fighting Piglin Brute
+[27Jun2025 11:16:47.142] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[27Jun2025 11:16:48.232] [Server thread/WARN] [solapplepie/]: attempting to load item into food list that is no longer edible: minecraft:cake (ignoring in case it becomes edible again later)
+[27Jun2025 11:17:01.900] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 32.58885192871094) to VERY_LOW (avg. 15.495708465576172)
+[27Jun2025 11:17:16.900] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.495708465576172) to LOW (avg. 27.484968185424805)
+[27Jun2025 11:17:23.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Piglin
+[27Jun2025 11:17:23.400] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[27Jun2025 11:17:24.482] [Server thread/WARN] [solapplepie/]: attempting to load item into food list that is no longer edible: minecraft:cake (ignoring in case it becomes edible again later)
