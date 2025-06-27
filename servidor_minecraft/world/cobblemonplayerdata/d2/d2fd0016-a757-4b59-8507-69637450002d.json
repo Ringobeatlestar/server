@@ -83,8 +83,9 @@
         "tandemaus": {
           "normal": {
             "isShiny": false,
-            "status": "SEEN",
-            "discoveredTimestamp": 1749988516657
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749988516657,
+            "caughtTimestamp": 1751018357270
           }
         },
         "zigzagoon": {
@@ -750,6 +751,12 @@
             "status": "CAUGHT",
             "discoveredTimestamp": 1750431463818,
             "caughtTimestamp": 1750431463818
+          },
+          "roaming": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1751018605673,
+            "caughtTimestamp": 1751018605673
           }
         },
         "growlithe": {
@@ -1801,6 +1808,22 @@
             "discoveredTimestamp": 1750888606134,
             "caughtTimestamp": 1750888606134
           }
+        },
+        "maschiff": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1751018469967,
+            "caughtTimestamp": 1751018469967
+          }
+        },
+        "abra": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1751018955738,
+            "caughtTimestamp": 1751018955738
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1826,25 +1849,25 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 156,
+    "totalCaptureCount": 169,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 56,
-    "totalBattleVictoryCount": 244,
+    "totalBattleVictoryCount": 257,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 244,
+    "totalPvWBattleVictoryCount": 257,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 9,
     "totalTradedCount": 22,
     "totalTypeCaptureCounts": {
       "grass": 18,
-      "psychic": 7,
+      "psychic": 8,
       "water": 10,
-      "normal": 34,
+      "normal": 36,
       "flying": 30,
       "ground": 12,
-      "fire": 20,
-      "steel": 11,
-      "dark": 10,
+      "fire": 21,
+      "steel": 17,
+      "dark": 11,
       "ice": 2,
       "fighting": 10,
       "bug": 20,
@@ -1853,7 +1876,7 @@
       "rock": 9,
       "poison": 13,
       "dragon": 5,
-      "ghost": 14
+      "ghost": 23
     },
     "totalDefeatedCounts": {
       "cobblemon:bidoof": 1,
@@ -1904,7 +1927,8 @@
       "cobblemon:eiscue": 1,
       "cobblemon:meloetta": 1,
       "cobblemon:rattata": 1,
-      "cobblemon:ekans": 1
+      "cobblemon:ekans": 1,
+      "cobblemon:doublade": 1
     },
     "aspectsCollected": {
       "cobblemon:vivillon": [

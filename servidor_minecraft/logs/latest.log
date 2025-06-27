@@ -2276,3 +2276,622 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [27Jun2025 09:54:57.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> bienvenidos a ibailand
 [27Jun2025 09:55:02.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> la serie en la qeu juego
 [27Jun2025 09:55:05.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> inomeablan
+[27Jun2025 09:55:44.250] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.50060272216797) to LOW (avg. 21.481121063232422)
+[27Jun2025 09:55:51.750] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.481121063232422) to VERY_LOW (avg. 19.468650817871094)
+[27Jun2025 09:56:29.250] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.204212188720703) to LOW (avg. 22.733928680419922)
+[27Jun2025 09:56:59.250] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.74826431274414) to VERY_LOW (avg. 19.17646026611328)
+[27Jun2025 09:57:06.750] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.17646026611328) to LOW (avg. 24.585895538330078)
+[27Jun2025 09:57:14.575] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PokemonEntity['La Ramona'/96133, l='ServerLevel[world]', x=3062.87, y=112.00, z=5895.50] died: La Ramona was caught by Archevoker's fangs
+[27Jun2025 09:57:17.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was caught by Archevoker's fangs
+[27Jun2025 09:57:17.455] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[27Jun2025 09:57:17.544] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[27Jun2025 09:57:17.544] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[27Jun2025 09:57:17.544] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[27Jun2025 09:57:17.544] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[27Jun2025 09:57:17.545] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[27Jun2025 09:57:18.552] [Server thread/WARN] [solapplepie/]: attempting to load item into food list that is no longer edible: minecraft:cake (ignoring in case it becomes edible again later)
+[27Jun2025 09:57:29.250] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 28.241565704345703) to VERY_LOW (avg. 17.735002517700195)
+[27Jun2025 09:58:29.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Vindicator
+[27Jun2025 09:58:29.186] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[27Jun2025 09:58:30.274] [Server thread/WARN] [solapplepie/]: attempting to load item into food list that is no longer edible: minecraft:cake (ignoring in case it becomes edible again later)
+[27Jun2025 09:58:43.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Vindicator
+[27Jun2025 09:58:43.394] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[27Jun2025 09:58:44.467] [Server thread/WARN] [solapplepie/]: attempting to load item into food list that is no longer edible: minecraft:cake (ignoring in case it becomes edible again later)
+[27Jun2025 09:58:57.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Vindicator
+[27Jun2025 09:58:57.438] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[27Jun2025 09:58:59.416] [Server thread/WARN] [solapplepie/]: attempting to load item into food list that is no longer edible: minecraft:cake (ignoring in case it becomes edible again later)
+[27Jun2025 09:59:05.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Vindicator
+[27Jun2025 09:59:05.823] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[27Jun2025 09:59:05.823] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[27Jun2025 09:59:05.824] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[27Jun2025 09:59:05.824] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[27Jun2025 09:59:05.824] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 1
+[27Jun2025 09:59:05.893] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[27Jun2025 09:59:06.750] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.202526092529297) to LOW (avg. 23.024263381958008)
+[27Jun2025 09:59:06.847] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[27Jun2025 09:59:06.847] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[27Jun2025 09:59:06.847] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[27Jun2025 09:59:06.847] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[27Jun2025 09:59:06.847] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 1
+[27Jun2025 09:59:09.715] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[27Jun2025 09:59:09.715] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[27Jun2025 09:59:09.716] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[27Jun2025 09:59:09.716] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[27Jun2025 09:59:09.716] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 1
+[27Jun2025 09:59:15.864] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: ae78be74-c7cd-47af-a7a2-4ec693011823
+[27Jun2025 09:59:15.865] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: ae78be74-c7cd-47af-a7a2-4ec693011823
+[27Jun2025 09:59:21.710] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ansoooooo lost connection: Timed out
+[27Jun2025 09:59:21.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo left the game
+[27Jun2025 09:59:21.750] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.024263381958008) to VERY_LOW (avg. 18.155864715576172)
+[27Jun2025 09:59:24.103] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Ansoooooo is e02de1a8-2fb6-49f1-b9dc-8ef7357f32d3
+[27Jun2025 09:59:26.375] [Server thread/WARN] [solapplepie/]: attempting to load item into food list that is no longer edible: minecraft:cake (ignoring in case it becomes edible again later)
+[27Jun2025 09:59:26.388] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ansoooooo[/127.53.158.23:59495] logged in with entity id 102598 at (3064.293212422124, 95.0, 5898.036901180415)
+[27Jun2025 09:59:26.451] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Ansoooooo
+[27Jun2025 09:59:26.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo joined the game
+[27Jun2025 09:59:31.309] [Server thread/WARN] [MythsAndLegends/]: processPlayerData called on client side! This should not happen.
+[27Jun2025 09:59:32.040] [Server thread/WARN] [solapplepie/]: attempting to load item into food list that is no longer edible: minecraft:cake (ignoring in case it becomes edible again later)
+[27Jun2025 09:59:36.750] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.155864715576172) to LOW (avg. 25.42462921142578)
+[27Jun2025 09:59:38.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Vindicator
+[27Jun2025 09:59:38.188] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[27Jun2025 09:59:38.417] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[27Jun2025 09:59:38.417] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 3 is dual wielding: false
+[27Jun2025 09:59:38.418] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[27Jun2025 09:59:38.418] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[27Jun2025 09:59:38.418] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 1
+[27Jun2025 09:59:39.567] [Server thread/WARN] [solapplepie/]: attempting to load item into food list that is no longer edible: minecraft:cake (ignoring in case it becomes edible again later)
+[27Jun2025 10:00:06.750] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.40005111694336) to VERY_LOW (avg. 17.986740112304688)
+[27Jun2025 10:01:29.250] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.12473487854004) to LOW (avg. 22.544811248779297)
+[27Jun2025 10:01:44.250] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.544811248779297) to VERY_LOW (avg. 16.834177017211914)
+[27Jun2025 10:02:14.250] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.704477310180664) to LOW (avg. 20.562467575073242)
+[27Jun2025 10:02:43.370] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 2.8448028197949498,0.0,-13.352042791513668
+[27Jun2025 10:02:43.370] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 2.810606160286625,0.0,-12.752338514982512
+[27Jun2025 10:02:43.371] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 2.763357925729906,0.0,-12.151057121629492
+[27Jun2025 10:02:43.371] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 2.6853156016977664,0.0,-11.53971020006702
+[27Jun2025 10:02:43.371] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 2.6098874016925038,0.0,-10.93585675664508
+[27Jun2025 10:02:43.371] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 2.52402934230804,0.0,-10.331100179766509
+[27Jun2025 10:02:43.371] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 2.426969346904116,0.0,-9.726776096302274
+[27Jun2025 10:02:51.792] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 22.39886474609375) to NORMAL (avg. 42.712005615234375)
+[27Jun2025 10:02:59.250] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.712005615234375) to LOW (avg. 23.375783920288086)
+[27Jun2025 10:03:02.889] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[27Jun2025 10:03:02.897] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[27Jun2025 10:03:02.897] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[27Jun2025 10:03:51.750] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 27.874073028564453) to VERY_LOW (avg. 19.509429931640625)
+[27Jun2025 10:03:58.178] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/109647, l='ServerLevel[world]', x=2855.62, y=126.17, z=6193.72, removed=DISCARDED]
+[27Jun2025 10:03:58.178] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/109653, l='ServerLevel[world]', x=2854.47, y=128.47, z=6193.36, removed=DISCARDED]
+[27Jun2025 10:03:58.178] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/109650, l='ServerLevel[world]', x=2857.27, y=124.16, z=6193.47, removed=DISCARDED]
+[27Jun2025 10:03:58.235] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/109649, l='ServerLevel[world]', x=2858.48, y=125.50, z=6194.61, removed=DISCARDED]
+[27Jun2025 10:03:58.981] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/109963, l='ServerLevel[world]', x=2866.56, y=121.20, z=6198.44, removed=DISCARDED]
+[27Jun2025 10:04:06.750] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.509429931640625) to LOW (avg. 20.08937644958496)
+[27Jun2025 10:04:21.750] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.08937644958496) to VERY_LOW (avg. 18.207277297973633)
+[27Jun2025 10:04:29.250] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.207277297973633) to LOW (avg. 22.993648529052734)
+[27Jun2025 10:04:34.052] [Worker-Main-20/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[27Jun2025 10:04:34.062] [Worker-Main-20/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[27Jun2025 10:04:34.124] [Worker-Main-20/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[27Jun2025 10:04:37.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was doomed to fall by Skeleton
+[27Jun2025 10:04:37.685] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[27Jun2025 10:04:41.545] [Server thread/WARN] [solapplepie/]: attempting to load item into food list that is no longer edible: minecraft:cake (ignoring in case it becomes edible again later)
+[27Jun2025 10:04:41.566] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bombardiro (vehicle of AgentePerrote) moved too quickly! -2.750524729515746,-9.5,-2.2892747672322002
+[27Jun2025 10:04:41.567] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bombardiro (vehicle of AgentePerrote) moved too quickly! -2.8922194153005876,-9.5,-2.403536644893393
+[27Jun2025 10:04:41.567] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bombardiro (vehicle of AgentePerrote) moved too quickly! -3.0140768450760334,-9.5,-2.5018018596820184
+[27Jun2025 10:04:41.567] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bombardiro (vehicle of AgentePerrote) moved too quickly! -3.1188742346830622,-9.5,-2.586309944399545
+[27Jun2025 10:04:41.567] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bombardiro (vehicle of AgentePerrote) moved too quickly! -3.20899998974528,-9.5,-2.6589868972569093
+[27Jun2025 10:04:41.567] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bombardiro (vehicle of AgentePerrote) moved too quickly! -3.2865081390982596,-9.5,-2.721489076715443
+[27Jun2025 10:04:41.567] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bombardiro (vehicle of AgentePerrote) moved too quickly! -3.3531651475418585,-9.5,-2.775240951048545
+[27Jun2025 10:04:41.567] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bombardiro (vehicle of AgentePerrote) moved too quickly! -3.4104901748037264,-9.5,-2.8214675629760677
+[27Jun2025 10:04:41.568] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bombardiro (vehicle of AgentePerrote) moved too quickly! -3.459789698248187,-9.5,-2.861222449233537
+[27Jun2025 10:04:41.568] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bombardiro (vehicle of AgentePerrote) moved too quickly! -3.5021872884108234,-9.5,-2.8954116514141788
+[27Jun2025 10:04:41.568] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bombardiro (vehicle of AgentePerrote) moved too quickly! -3.5386492159504996,-9.5,-2.924814365290331
+[27Jun2025 10:04:41.568] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bombardiro (vehicle of AgentePerrote) moved too quickly! -3.570006473634294,-9.5,-2.9501006992240946
+[27Jun2025 10:04:41.568] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bombardiro (vehicle of AgentePerrote) moved too quickly! -3.5969737152431662,-9.5,-2.971846946406913
+[27Jun2025 10:04:41.568] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bombardiro (vehicle of AgentePerrote) moved too quickly! -3.6201655430268147,-9.5,-2.9905487189835185
+[27Jun2025 10:04:41.568] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bombardiro (vehicle of AgentePerrote) moved too quickly! -3.640110514920707,-9.5,-3.0066322433995083
+[27Jun2025 10:04:41.568] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bombardiro (vehicle of AgentePerrote) moved too quickly! -3.6572631907488358,-9.5,-3.0204640743977507
+[27Jun2025 10:04:41.569] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bombardiro (vehicle of AgentePerrote) moved too quickly! -3.672014491961818,-9.5,-3.0323594490564574
+[27Jun2025 10:04:41.569] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bombardiro (vehicle of AgentePerrote) moved too quickly! -3.6847006110051552,-9.5,-3.042589471262545
+[27Jun2025 10:04:41.569] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bombardiro (vehicle of AgentePerrote) moved too quickly! -3.695610673381907,-9.5,-3.0513872903602532
+[27Jun2025 10:04:41.569] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bombardiro (vehicle of AgentePerrote) moved too quickly! -3.7049933270259316,-9.5,-3.056207191845715
+[27Jun2025 10:04:41.569] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bombardiro (vehicle of AgentePerrote) moved too quickly! -3.7101336312002786,-9.5,-3.0603523071231393
+[27Jun2025 10:05:44.250] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.4626407623291) to VERY_LOW (avg. 15.960317611694336)
+[27Jun2025 10:05:59.250] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.960317611694336) to LOW (avg. 20.851356506347656)
+[27Jun2025 10:06:03.805] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/109653, l='ServerLevel[world]', x=2854.47, y=128.47, z=6193.36, removed=DISCARDED]
+[27Jun2025 10:06:03.940] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/109647, l='ServerLevel[world]', x=2855.62, y=126.17, z=6193.72, removed=DISCARDED]
+[27Jun2025 10:06:04.082] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/109650, l='ServerLevel[world]', x=2857.27, y=124.16, z=6193.47, removed=DISCARDED]
+[27Jun2025 10:06:04.169] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/109649, l='ServerLevel[world]', x=2858.48, y=125.50, z=6194.61, removed=DISCARDED]
+[27Jun2025 10:06:04.993] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/109963, l='ServerLevel[world]', x=2866.56, y=121.20, z=6198.44, removed=DISCARDED]
+[27Jun2025 10:06:06.768] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.851356506347656) to VERY_LOW (avg. 18.405397415161133)
+[27Jun2025 10:06:07.728] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[27Jun2025 10:06:07.737] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[27Jun2025 10:06:07.737] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[27Jun2025 10:06:11.688] [Worker-Main-81/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[27Jun2025 10:06:11.695] [Worker-Main-81/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[27Jun2025 10:06:11.754] [Worker-Main-81/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[27Jun2025 10:06:13.390] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/111935, l='ServerLevel[world]', x=2854.73, y=92.62, z=6264.60, removed=DISCARDED]
+[27Jun2025 10:06:14.250] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.405397415161133) to LOW (avg. 24.25804901123047)
+[27Jun2025 10:06:32.168] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/111935, l='ServerLevel[world]', x=2854.73, y=92.62, z=6264.60, removed=DISCARDED]
+[27Jun2025 10:06:32.615] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/111937, l='ServerLevel[world]', x=2852.36, y=98.62, z=6268.37, removed=DISCARDED]
+[27Jun2025 10:06:32.916] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/111938, l='ServerLevel[world]', x=2853.27, y=98.32, z=6269.31, removed=DISCARDED]
+[27Jun2025 10:06:34.905] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[27Jun2025 10:06:34.907] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[27Jun2025 10:06:34.920] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[27Jun2025 10:06:34.920] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[27Jun2025 10:06:44.250] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.35224151611328) to VERY_LOW (avg. 16.198318481445312)
+[27Jun2025 10:06:44.267] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/112202, l='ServerLevel[world]', x=2902.27, y=109.00, z=6199.13, removed=DISCARDED]
+[27Jun2025 10:06:44.621] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/111935, l='ServerLevel[world]', x=2854.73, y=92.62, z=6264.60, removed=DISCARDED]
+[27Jun2025 10:06:45.398] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/111937, l='ServerLevel[world]', x=2852.36, y=98.62, z=6268.37, removed=DISCARDED]
+[27Jun2025 10:06:52.098] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/111935, l='ServerLevel[world]', x=2854.73, y=92.62, z=6264.60, removed=DISCARDED]
+[27Jun2025 10:07:23.967] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[27Jun2025 10:07:23.978] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[27Jun2025 10:07:24.042] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[27Jun2025 10:07:26.650] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! -7.454608841243044,-6.762000000000256,1.5779411704070299
+[27Jun2025 10:07:26.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! -7.774030275415498,-7.056000000000267,1.6455625438375137
+[27Jun2025 10:07:26.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! -8.093451696016018,-7.3500000000002785,1.7131840069951068
+[27Jun2025 10:07:26.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! -8.412873104943628,-7.64400000000029,1.7808055473169588
+[27Jun2025 10:07:26.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! -8.732294503833145,-7.938000000000301,1.8484271540010013
+[27Jun2025 10:07:26.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! -9.051715894089284,-8.232000000000312,1.9160488177558364
+[27Jun2025 10:07:26.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! -9.371137276921672,-8.526000000000309,1.9836705305924625
+[27Jun2025 10:07:26.652] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! -9.690558653368953,-8.820000000000306,2.051292285639647
+[27Jun2025 10:07:26.652] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! -10.009980024325614,-9.114000000000303,2.118914076987494
+[27Jun2025 10:07:26.652] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! -10.32940139055927,-9.4080000000003,2.186535899552837
+[27Jun2025 10:07:26.652] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! -10.648822752731576,-9.702000000000297,2.2541577489655538
+[27Jun2025 10:07:26.652] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! -10.968244111411423,-9.996000000000294,2.3217796214685222
+[27Jun2025 10:07:29.311] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.3076171875) to NORMAL (avg. 45.12291717529297)
+[27Jun2025 10:07:36.855] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.12291717529297) to MEDIUM (avg. 48.75727081298828)
+[27Jun2025 10:07:37.084] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/111998, l='ServerLevel[world]', x=2649.35, y=-33.54, z=6268.45, removed=DISCARDED]
+[27Jun2025 10:07:37.339] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/111997, l='ServerLevel[world]', x=2650.50, y=-33.85, z=6269.69, removed=DISCARDED]
+[27Jun2025 10:07:40.427] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/111998, l='ServerLevel[world]', x=2649.35, y=-33.54, z=6268.45, removed=DISCARDED]
+[27Jun2025 10:07:40.946] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/111997, l='ServerLevel[world]', x=2650.50, y=-33.85, z=6269.69, removed=DISCARDED]
+[27Jun2025 10:07:51.750] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 48.75727081298828) to VERY_LOW (avg. 18.170902252197266)
+[27Jun2025 10:08:00.900] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/111997, l='ServerLevel[world]', x=2650.50, y=-33.85, z=6269.69, removed=DISCARDED]
+[27Jun2025 10:08:37.732] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/111998, l='ServerLevel[world]', x=2649.35, y=-33.54, z=6268.45, removed=DISCARDED]
+[27Jun2025 10:08:37.894] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/111997, l='ServerLevel[world]', x=2650.50, y=-33.85, z=6269.69, removed=DISCARDED]
+[27Jun2025 10:08:44.250] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.564796447753906) to LOW (avg. 21.190677642822266)
+[27Jun2025 10:09:13.659] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[27Jun2025 10:09:13.699] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[27Jun2025 10:09:13.744] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[27Jun2025 10:09:46.366] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Kex the Mean'/118079, l='ServerLevel[world]', x=2289.51, y=-21.21, z=6574.50] died: Kex the Mean starved to death
+[27Jun2025 10:09:59.250] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.83759307861328) to VERY_LOW (avg. 19.55083465576172)
+[27Jun2025 10:10:06.750] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.55083465576172) to LOW (avg. 27.512981414794922)
+[27Jun2025 10:10:08.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> honedge shiny has spawned at 0 0
+[27Jun2025 10:10:21.750] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 27.512981414794922) to VERY_LOW (avg. 18.527435302734375)
+[27Jun2025 10:10:51.750] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.467975616455078) to LOW (avg. 29.83188819885254)
+[27Jun2025 10:10:59.250] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 29.83188819885254) to VERY_LOW (avg. 16.89919662475586)
+[27Jun2025 10:11:21.750] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.277910232543945) to LOW (avg. 26.424423217773438)
+[27Jun2025 10:11:53.349] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@689fca53, suppressing error
+java.lang.IllegalArgumentException: bound must be positive
+	at java.util.Random.nextInt(Random.java:322) ~[?:?]
+	at ovh.corail.tombstone.loot.EnchantedEquipmentFunction.m_7372_(EnchantedEquipmentFunction.java:70) ~[tombstone-1.20.1-8.9.8.jar%23348!/:8.9.8]
+	at net.minecraft.world.level.storage.loot.functions.LootItemConditionalFunction.apply(LootItemConditionalFunction.java:31) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.functions.LootItemConditionalFunction.apply(LootItemConditionalFunction.java:20) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.functions.LootItemFunction.m_80728_(LootItemFunction.java:14) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem.m_6948_(LootItem.java:33) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$1.m_6941_(LootPoolSingletonContainer.java:59) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool.m_79058_(LootPool.java:79) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool.m_79053_(LootPool.java:94) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable.m_79131_(LootTable.java:85) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable.m_230922_(LootTable.java:117) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable.m_287195_(LootTable.java:112) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at ovh.corail.tombstone.block.BlockAbandonedGrave.m_6227_(BlockAbandonedGrave.java:68) ~[tombstone-1.20.1-8.9.8.jar%23348!/:8.9.8]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.m_60664_(BlockBehaviour.java:778) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1055) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[27Jun2025 10:11:55.466] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@26675cb2, suppressing error
+java.lang.IllegalArgumentException: bound must be positive
+	at java.util.Random.nextInt(Random.java:322) ~[?:?]
+	at ovh.corail.tombstone.loot.EnchantedEquipmentFunction.m_7372_(EnchantedEquipmentFunction.java:70) ~[tombstone-1.20.1-8.9.8.jar%23348!/:8.9.8]
+	at net.minecraft.world.level.storage.loot.functions.LootItemConditionalFunction.apply(LootItemConditionalFunction.java:31) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.functions.LootItemConditionalFunction.apply(LootItemConditionalFunction.java:20) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.functions.LootItemFunction.m_80728_(LootItemFunction.java:14) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem.m_6948_(LootItem.java:33) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$1.m_6941_(LootPoolSingletonContainer.java:59) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool.m_79058_(LootPool.java:79) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool.m_79053_(LootPool.java:94) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable.m_79131_(LootTable.java:85) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable.m_230922_(LootTable.java:117) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable.m_287195_(LootTable.java:112) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at ovh.corail.tombstone.block.BlockAbandonedGrave.m_6227_(BlockAbandonedGrave.java:68) ~[tombstone-1.20.1-8.9.8.jar%23348!/:8.9.8]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.m_60664_(BlockBehaviour.java:778) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1055) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[27Jun2025 10:11:55.981] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@1b74f9f, suppressing error
+java.lang.IllegalArgumentException: bound must be positive
+	at java.util.Random.nextInt(Random.java:322) ~[?:?]
+	at ovh.corail.tombstone.loot.EnchantedEquipmentFunction.m_7372_(EnchantedEquipmentFunction.java:70) ~[tombstone-1.20.1-8.9.8.jar%23348!/:8.9.8]
+	at net.minecraft.world.level.storage.loot.functions.LootItemConditionalFunction.apply(LootItemConditionalFunction.java:31) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.functions.LootItemConditionalFunction.apply(LootItemConditionalFunction.java:20) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.functions.LootItemFunction.m_80728_(LootItemFunction.java:14) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem.m_6948_(LootItem.java:33) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$1.m_6941_(LootPoolSingletonContainer.java:59) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool.m_79058_(LootPool.java:79) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool.m_79053_(LootPool.java:94) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable.m_79131_(LootTable.java:85) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable.m_230922_(LootTable.java:117) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable.m_287195_(LootTable.java:112) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at ovh.corail.tombstone.block.BlockAbandonedGrave.m_6227_(BlockAbandonedGrave.java:68) ~[tombstone-1.20.1-8.9.8.jar%23348!/:8.9.8]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.m_60664_(BlockBehaviour.java:778) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1055) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.mixinextras$bridge$m_18701_$248(MinecraftServer.java) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.wrapOperation$zdh000$managedBlock(MinecraftServer.java:1856) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[27Jun2025 10:11:57.050] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@30013029, suppressing error
+java.lang.IllegalArgumentException: bound must be positive
+	at java.util.Random.nextInt(Random.java:322) ~[?:?]
+	at ovh.corail.tombstone.loot.EnchantedEquipmentFunction.m_7372_(EnchantedEquipmentFunction.java:70) ~[tombstone-1.20.1-8.9.8.jar%23348!/:8.9.8]
+	at net.minecraft.world.level.storage.loot.functions.LootItemConditionalFunction.apply(LootItemConditionalFunction.java:31) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.functions.LootItemConditionalFunction.apply(LootItemConditionalFunction.java:20) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.functions.LootItemFunction.m_80728_(LootItemFunction.java:14) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem.m_6948_(LootItem.java:33) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$1.m_6941_(LootPoolSingletonContainer.java:59) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool.m_79058_(LootPool.java:79) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool.m_79053_(LootPool.java:94) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable.m_79131_(LootTable.java:85) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable.m_230922_(LootTable.java:117) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable.m_287195_(LootTable.java:112) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at ovh.corail.tombstone.block.BlockAbandonedGrave.m_6227_(BlockAbandonedGrave.java:68) ~[tombstone-1.20.1-8.9.8.jar%23348!/:8.9.8]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.m_60664_(BlockBehaviour.java:778) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1055) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.mixinextras$bridge$m_18701_$248(MinecraftServer.java) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.wrapOperation$zdh000$managedBlock(MinecraftServer.java:1856) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[27Jun2025 10:11:57.052] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@1afa2017, suppressing error
+java.lang.IllegalArgumentException: bound must be positive
+	at java.util.Random.nextInt(Random.java:322) ~[?:?]
+	at ovh.corail.tombstone.loot.EnchantedEquipmentFunction.m_7372_(EnchantedEquipmentFunction.java:70) ~[tombstone-1.20.1-8.9.8.jar%23348!/:8.9.8]
+	at net.minecraft.world.level.storage.loot.functions.LootItemConditionalFunction.apply(LootItemConditionalFunction.java:31) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.functions.LootItemConditionalFunction.apply(LootItemConditionalFunction.java:20) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.functions.LootItemFunction.m_80728_(LootItemFunction.java:14) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem.m_6948_(LootItem.java:33) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$1.m_6941_(LootPoolSingletonContainer.java:59) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool.m_79058_(LootPool.java:79) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool.m_79053_(LootPool.java:94) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable.m_79131_(LootTable.java:85) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable.m_230922_(LootTable.java:117) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable.m_287195_(LootTable.java:112) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at ovh.corail.tombstone.block.BlockAbandonedGrave.m_6227_(BlockAbandonedGrave.java:68) ~[tombstone-1.20.1-8.9.8.jar%23348!/:8.9.8]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.m_60664_(BlockBehaviour.java:778) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1055) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.mixinextras$bridge$m_18701_$248(MinecraftServer.java) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.wrapOperation$zdh000$managedBlock(MinecraftServer.java:1856) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[27Jun2025 10:11:57.217] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@237f4a39, suppressing error
+java.lang.IllegalArgumentException: bound must be positive
+	at java.util.Random.nextInt(Random.java:322) ~[?:?]
+	at ovh.corail.tombstone.loot.EnchantedEquipmentFunction.m_7372_(EnchantedEquipmentFunction.java:70) ~[tombstone-1.20.1-8.9.8.jar%23348!/:8.9.8]
+	at net.minecraft.world.level.storage.loot.functions.LootItemConditionalFunction.apply(LootItemConditionalFunction.java:31) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.functions.LootItemConditionalFunction.apply(LootItemConditionalFunction.java:20) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.functions.LootItemFunction.m_80728_(LootItemFunction.java:14) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem.m_6948_(LootItem.java:33) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$1.m_6941_(LootPoolSingletonContainer.java:59) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool.m_79058_(LootPool.java:79) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool.m_79053_(LootPool.java:94) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable.m_79131_(LootTable.java:85) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable.m_230922_(LootTable.java:117) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable.m_287195_(LootTable.java:112) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at ovh.corail.tombstone.block.BlockAbandonedGrave.m_6227_(BlockAbandonedGrave.java:68) ~[tombstone-1.20.1-8.9.8.jar%23348!/:8.9.8]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.m_60664_(BlockBehaviour.java:778) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1055) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[27Jun2025 10:11:57.341] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@19a3f4ce, suppressing error
+java.lang.IllegalArgumentException: bound must be positive
+	at java.util.Random.nextInt(Random.java:322) ~[?:?]
+	at ovh.corail.tombstone.loot.EnchantedEquipmentFunction.m_7372_(EnchantedEquipmentFunction.java:70) ~[tombstone-1.20.1-8.9.8.jar%23348!/:8.9.8]
+	at net.minecraft.world.level.storage.loot.functions.LootItemConditionalFunction.apply(LootItemConditionalFunction.java:31) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.functions.LootItemConditionalFunction.apply(LootItemConditionalFunction.java:20) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.functions.LootItemFunction.m_80728_(LootItemFunction.java:14) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem.m_6948_(LootItem.java:33) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$1.m_6941_(LootPoolSingletonContainer.java:59) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool.m_79058_(LootPool.java:79) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool.m_79053_(LootPool.java:94) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable.m_79131_(LootTable.java:85) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable.m_230922_(LootTable.java:117) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable.m_287195_(LootTable.java:112) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at ovh.corail.tombstone.block.BlockAbandonedGrave.m_6227_(BlockAbandonedGrave.java:68) ~[tombstone-1.20.1-8.9.8.jar%23348!/:8.9.8]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.m_60664_(BlockBehaviour.java:778) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1055) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.mixinextras$bridge$m_18701_$248(MinecraftServer.java) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.wrapOperation$zdh000$managedBlock(MinecraftServer.java:1856) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[27Jun2025 10:11:57.671] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@340add1f, suppressing error
+java.lang.IllegalArgumentException: bound must be positive
+	at java.util.Random.nextInt(Random.java:322) ~[?:?]
+	at ovh.corail.tombstone.loot.EnchantedEquipmentFunction.m_7372_(EnchantedEquipmentFunction.java:70) ~[tombstone-1.20.1-8.9.8.jar%23348!/:8.9.8]
+	at net.minecraft.world.level.storage.loot.functions.LootItemConditionalFunction.apply(LootItemConditionalFunction.java:31) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.functions.LootItemConditionalFunction.apply(LootItemConditionalFunction.java:20) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.functions.LootItemFunction.m_80728_(LootItemFunction.java:14) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem.m_6948_(LootItem.java:33) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$1.m_6941_(LootPoolSingletonContainer.java:59) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool.m_79058_(LootPool.java:79) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool.m_79053_(LootPool.java:94) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable.m_79131_(LootTable.java:85) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable.m_230922_(LootTable.java:117) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable.m_287195_(LootTable.java:112) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at ovh.corail.tombstone.block.BlockAbandonedGrave.m_6227_(BlockAbandonedGrave.java:68) ~[tombstone-1.20.1-8.9.8.jar%23348!/:8.9.8]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.m_60664_(BlockBehaviour.java:778) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1055) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.mixinextras$bridge$m_18701_$248(MinecraftServer.java) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.wrapOperation$zdh000$managedBlock(MinecraftServer.java:1856) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[27Jun2025 10:11:57.765] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@3e43ee74, suppressing error
+java.lang.IllegalArgumentException: bound must be positive
+	at java.util.Random.nextInt(Random.java:322) ~[?:?]
+	at ovh.corail.tombstone.loot.EnchantedEquipmentFunction.m_7372_(EnchantedEquipmentFunction.java:70) ~[tombstone-1.20.1-8.9.8.jar%23348!/:8.9.8]
+	at net.minecraft.world.level.storage.loot.functions.LootItemConditionalFunction.apply(LootItemConditionalFunction.java:31) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.functions.LootItemConditionalFunction.apply(LootItemConditionalFunction.java:20) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.functions.LootItemFunction.m_80728_(LootItemFunction.java:14) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem.m_6948_(LootItem.java:33) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$1.m_6941_(LootPoolSingletonContainer.java:59) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool.m_79058_(LootPool.java:79) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool.m_79053_(LootPool.java:94) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable.m_79131_(LootTable.java:85) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable.m_230922_(LootTable.java:117) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable.m_287195_(LootTable.java:112) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at ovh.corail.tombstone.block.BlockAbandonedGrave.m_6227_(BlockAbandonedGrave.java:68) ~[tombstone-1.20.1-8.9.8.jar%23348!/:8.9.8]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.m_60664_(BlockBehaviour.java:778) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1055) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.mixinextras$bridge$m_18701_$248(MinecraftServer.java) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.wrapOperation$zdh000$managedBlock(MinecraftServer.java:1856) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[27Jun2025 10:11:57.968] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@2b8c5af6, suppressing error
+java.lang.IllegalArgumentException: bound must be positive
+	at java.util.Random.nextInt(Random.java:322) ~[?:?]
+	at ovh.corail.tombstone.loot.EnchantedEquipmentFunction.m_7372_(EnchantedEquipmentFunction.java:70) ~[tombstone-1.20.1-8.9.8.jar%23348!/:8.9.8]
+	at net.minecraft.world.level.storage.loot.functions.LootItemConditionalFunction.apply(LootItemConditionalFunction.java:31) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.functions.LootItemConditionalFunction.apply(LootItemConditionalFunction.java:20) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.functions.LootItemFunction.m_80728_(LootItemFunction.java:14) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem.m_6948_(LootItem.java:33) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$1.m_6941_(LootPoolSingletonContainer.java:59) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool.m_79058_(LootPool.java:79) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool.m_79053_(LootPool.java:94) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable.m_79131_(LootTable.java:85) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable.m_230922_(LootTable.java:117) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable.m_287195_(LootTable.java:112) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at ovh.corail.tombstone.block.BlockAbandonedGrave.m_6227_(BlockAbandonedGrave.java:68) ~[tombstone-1.20.1-8.9.8.jar%23348!/:8.9.8]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.m_60664_(BlockBehaviour.java:778) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1055) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[27Jun2025 10:11:58.336] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@21f217b5, suppressing error
+java.lang.IllegalArgumentException: bound must be positive
+	at java.util.Random.nextInt(Random.java:322) ~[?:?]
+	at ovh.corail.tombstone.loot.EnchantedEquipmentFunction.m_7372_(EnchantedEquipmentFunction.java:70) ~[tombstone-1.20.1-8.9.8.jar%23348!/:8.9.8]
+	at net.minecraft.world.level.storage.loot.functions.LootItemConditionalFunction.apply(LootItemConditionalFunction.java:31) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.functions.LootItemConditionalFunction.apply(LootItemConditionalFunction.java:20) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.functions.LootItemFunction.m_80728_(LootItemFunction.java:14) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem.m_6948_(LootItem.java:33) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$1.m_6941_(LootPoolSingletonContainer.java:59) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool.m_79058_(LootPool.java:79) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool.m_79053_(LootPool.java:94) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable.m_79131_(LootTable.java:85) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable.m_230922_(LootTable.java:117) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable.m_287195_(LootTable.java:112) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at ovh.corail.tombstone.block.BlockAbandonedGrave.m_6227_(BlockAbandonedGrave.java:68) ~[tombstone-1.20.1-8.9.8.jar%23348!/:8.9.8]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.m_60664_(BlockBehaviour.java:778) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1055) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.mixinextras$bridge$m_18701_$248(MinecraftServer.java) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.wrapOperation$zdh000$managedBlock(MinecraftServer.java:1856) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[27Jun2025 10:11:58.372] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@2eff241, suppressing error
+java.lang.IllegalArgumentException: bound must be positive
+	at java.util.Random.nextInt(Random.java:322) ~[?:?]
+	at ovh.corail.tombstone.loot.EnchantedEquipmentFunction.m_7372_(EnchantedEquipmentFunction.java:70) ~[tombstone-1.20.1-8.9.8.jar%23348!/:8.9.8]
+	at net.minecraft.world.level.storage.loot.functions.LootItemConditionalFunction.apply(LootItemConditionalFunction.java:31) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.functions.LootItemConditionalFunction.apply(LootItemConditionalFunction.java:20) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.functions.LootItemFunction.m_80728_(LootItemFunction.java:14) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem.m_6948_(LootItem.java:33) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$1.m_6941_(LootPoolSingletonContainer.java:59) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool.m_79058_(LootPool.java:79) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool.m_79053_(LootPool.java:94) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable.m_79131_(LootTable.java:85) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable.m_230922_(LootTable.java:117) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable.m_287195_(LootTable.java:112) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at ovh.corail.tombstone.block.BlockAbandonedGrave.m_6227_(BlockAbandonedGrave.java:68) ~[tombstone-1.20.1-8.9.8.jar%23348!/:8.9.8]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.m_60664_(BlockBehaviour.java:778) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1055) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[27Jun2025 10:11:59.250] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 34.32352828979492) to VERY_LOW (avg. 16.251771926879883)
+[27Jun2025 10:13:44.252] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.060977935791016) to LOW (avg. 25.82516860961914)
+[27Jun2025 10:13:50.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Krabby
+[27Jun2025 10:13:50.635] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[27Jun2025 10:13:52.225] [Server thread/WARN] [solapplepie/]: attempting to load item into food list that is no longer edible: minecraft:cake (ignoring in case it becomes edible again later)
+[27Jun2025 10:13:59.250] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 25.82516860961914) to VERY_LOW (avg. 18.48116683959961)
+[27Jun2025 10:14:06.750] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.48116683959961) to LOW (avg. 27.190750122070312)
+[27Jun2025 10:14:21.750] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 27.190750122070312) to VERY_LOW (avg. 15.274606704711914)
+[27Jun2025 10:14:34.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Krabby
+[27Jun2025 10:14:34.036] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[27Jun2025 10:14:35.762] [Server thread/WARN] [solapplepie/]: attempting to load item into food list that is no longer edible: minecraft:cake (ignoring in case it becomes edible again later)
+[27Jun2025 10:14:51.750] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.705987930297852) to LOW (avg. 30.806453704833984)
+[27Jun2025 10:14:53.021] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/125347, l='ServerLevel[world]', x=1742.57, y=-20.77, z=7005.74, removed=DISCARDED]
+[27Jun2025 10:14:53.022] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/125351, l='ServerLevel[world]', x=1740.69, y=-13.43, z=7003.44, removed=DISCARDED]
+[27Jun2025 10:14:53.076] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/125358, l='ServerLevel[world]', x=1736.37, y=-13.46, z=6998.45, removed=DISCARDED]
+[27Jun2025 10:14:53.272] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/125355, l='ServerLevel[world]', x=1736.67, y=-13.38, z=7001.48, removed=DISCARDED]
+[27Jun2025 10:15:41.441] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ansoooooo moved too quickly! -0.7307058534900079,-11.433643280623414,0.129822548010452

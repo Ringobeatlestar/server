@@ -1221,6 +1221,12 @@
         "status": "CAUGHT",
         "discoveredTimestamp": 1750431463821,
         "caughtTimestamp": 1750431463821
+      },
+      "roaming": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1751018605674,
+        "caughtTimestamp": 1751018605674
       }
     },
     "growlithe": {
@@ -2795,6 +2801,22 @@
         "status": "CAUGHT",
         "discoveredTimestamp": 1751016404317,
         "caughtTimestamp": 1751016404317
+      }
+    },
+    "maschiff": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1751018469968,
+        "caughtTimestamp": 1751018469968
+      }
+    },
+    "abra": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1751018955740,
+        "caughtTimestamp": 1751018955740
       }
     }
   }
