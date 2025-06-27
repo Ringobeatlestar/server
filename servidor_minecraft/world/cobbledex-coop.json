@@ -2826,6 +2826,14 @@
         "discoveredTimestamp": 1751034678836,
         "caughtTimestamp": 1751034678836
       }
+    },
+    "torchic": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1751035537261,
+        "caughtTimestamp": 1751035537261
+      }
     }
   }
 }

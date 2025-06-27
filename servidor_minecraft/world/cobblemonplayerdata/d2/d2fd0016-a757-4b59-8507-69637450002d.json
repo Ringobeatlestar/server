@@ -1832,6 +1832,14 @@
             "discoveredTimestamp": 1751034678832,
             "caughtTimestamp": 1751034678832
           }
+        },
+        "torchic": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1751035537259,
+            "caughtTimestamp": 1751035537259
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1857,12 +1865,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 172,
+    "totalCaptureCount": 174,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 56,
-    "totalBattleVictoryCount": 264,
+    "totalBattleVictoryCount": 266,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 263,
+    "totalPvWBattleVictoryCount": 265,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 9,
     "totalTradedCount": 22,
@@ -1873,18 +1881,18 @@
       "normal": 36,
       "flying": 30,
       "ground": 12,
-      "fire": 22,
+      "fire": 23,
       "steel": 17,
       "dark": 11,
       "ice": 2,
-      "fighting": 10,
+      "fighting": 11,
       "bug": 20,
       "electric": 5,
       "fairy": 15,
       "rock": 9,
       "poison": 13,
       "dragon": 5,
-      "ghost": 25
+      "ghost": 26
     },
     "totalDefeatedCounts": {
       "cobblemon:bidoof": 1,
