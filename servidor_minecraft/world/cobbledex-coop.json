@@ -2834,6 +2834,14 @@
         "discoveredTimestamp": 1751035537261,
         "caughtTimestamp": 1751035537261
       }
+    },
+    "combusken": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1751038647094,
+        "caughtTimestamp": 1751038647094
+      }
     }
   }
 }

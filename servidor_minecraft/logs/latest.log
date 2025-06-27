@@ -2007,3 +2007,22 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [27Jun2025 15:20:28.225] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for the_deep_void:deep_void changed from NORMAL (avg. 45.0) to VERY_LOW (avg. 0.04958153)
 [27Jun2025 15:20:28.226] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for ad_astra:glacio_orbit changed from NORMAL (avg. 45.0) to VERY_LOW (avg. 0.06319897000000001)
 [27Jun2025 15:20:41.971] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.629924774169922) to VERY_LOW (avg. 6.461758136749268)
+[27Jun2025 15:33:30.459] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player AgentePerrote is d2fd0016-a757-4b59-8507-69637450002d
+[27Jun2025 15:33:32.724] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[27Jun2025 15:33:32.765] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/d2fd0016-a757-4b59-8507-69637450002d.json: Don't know what man:cassette_1safetyinstructions is
+[27Jun2025 15:33:32.768] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/d2fd0016-a757-4b59-8507-69637450002d.json: Don't know what man:cassette_1safetyinstructions is
+[27Jun2025 15:33:32.770] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/d2fd0016-a757-4b59-8507-69637450002d.json: Don't know what man:managgresive is
+[27Jun2025 15:33:32.798] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'man:feelingwatched' in progress file ./world/advancements/d2fd0016-a757-4b59-8507-69637450002d.json - it doesn't exist anymore?
+[27Jun2025 15:33:32.851] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AgentePerrote[/127.182.232.120:54301] logged in with entity id 1147 at (-1851.7916397120025, 69.0, 218.78724678471312)
+[27Jun2025 15:33:33.157] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player AgentePerrote
+[27Jun2025 15:33:33.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote joined the game
+[27Jun2025 15:33:33.294] [Server thread/WARN] [solapplepie/]: Invalid attribute specified in config: generic.speed
+[27Jun2025 15:33:34.768] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id man:manfromthefog
+[27Jun2025 15:33:35.217] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 1.455653429031372) to NORMAL (avg. 45.17567825317383)
+[27Jun2025 15:33:36.210] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from VERY_LOW (avg. 11.21107048) to LOW (avg. 19.51687984)
+[27Jun2025 15:33:36.689] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id man:mftfhang
+[27Jun2025 15:33:41.998] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 45.17567825317383) to LOW (avg. 35.483821868896484)
+[27Jun2025 15:33:52.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was shot by Skeleton
+[27Jun2025 15:33:52.123] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[27Jun2025 15:34:13.221] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from LOW (avg. 34.492603939999995) to NORMAL (avg. 37.94205903)
+[27Jun2025 15:34:26.971] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 33.745277404785156) to VERY_LOW (avg. 11.67972183227539)
