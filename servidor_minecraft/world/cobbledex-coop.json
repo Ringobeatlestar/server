@@ -2780,6 +2780,14 @@
         "discoveredTimestamp": 1750888606135,
         "caughtTimestamp": 1750888606135
       }
+    },
+    "sinistea": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1751015625797,
+        "caughtTimestamp": 1751015625797
+      }
     }
   }
 }

@@ -1930,3 +1930,26 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [27Jun2025 09:03:35.464] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ansoooooo moved too quickly! 1.3438413336743906,-26.770000000000138,-5.824187622990394
 [27Jun2025 09:03:43.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Caniac
 [27Jun2025 09:03:43.433] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[27Jun2025 09:04:40.361] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ansoooooo moved too quickly! 1.926582163193416,-13.758992257382815,-2.9905644189348095
+[27Jun2025 09:04:41.077] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/6911, l='ServerLevel[world]', x=3568.14, y=-43.00, z=6031.13, removed=DISCARDED]
+[27Jun2025 09:06:14.250] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 11.467958450317383) to LOW (avg. 23.34490203857422)
+[27Jun2025 09:06:21.750] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.34490203857422) to VERY_LOW (avg. 11.507747650146484)
+[27Jun2025 09:07:13.965] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/6911, l='ServerLevel[world]', x=3568.14, y=-43.00, z=6031.13, removed=DISCARDED]
+[27Jun2025 09:07:13.966] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/9413, l='ServerLevel[world]', x=3551.01, y=70.00, z=6028.04, removed=DISCARDED]
+[27Jun2025 09:07:39.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Caniac
+[27Jun2025 09:07:39.380] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[27Jun2025 09:07:50.553] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ansoooooo lost connection: Timed out
+[27Jun2025 09:07:50.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo left the game
+[27Jun2025 09:07:57.057] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@728b369b[id=<null>,name=Ansoooooo,properties={},legacy=false] (/127.53.158.23:44295) lost connection: Disconnected
+[27Jun2025 09:08:00.700] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Ansoooooo is e02de1a8-2fb6-49f1-b9dc-8ef7357f32d3
+[27Jun2025 09:08:03.031] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ansoooooo[/127.53.158.23:58211] logged in with entity id 9889 at (3513.4436420398547, -29.0, 6101.699999988079)
+[27Jun2025 09:08:03.124] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Ansoooooo
+[27Jun2025 09:08:03.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo joined the game
+[27Jun2025 09:08:07.952] [Server thread/WARN] [MythsAndLegends/]: processPlayerData called on client side! This should not happen.
+[27Jun2025 09:08:14.260] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 2.1641106605529785) to LOW (avg. 20.400314331054688)
+[27Jun2025 09:08:21.750] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.400314331054688) to VERY_LOW (avg. 15.881628036499023)
+[27Jun2025 09:08:26.038] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/9413, l='ServerLevel[world]', x=3551.01, y=70.00, z=6028.04, removed=DISCARDED]
+[27Jun2025 09:08:26.051] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/6911, l='ServerLevel[world]', x=3568.14, y=-43.00, z=6031.13, removed=DISCARDED]
+[27Jun2025 09:11:46.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Caramel Cube
+[27Jun2025 09:11:46.984] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[27Jun2025 09:14:33.259] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PokemonEntity['Paco Pepe'/19296, l='ServerLevel[world]', x=3467.71, y=87.00, z=6292.41] died: Paco Pepe was slain by Husk
