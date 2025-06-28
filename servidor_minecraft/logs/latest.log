@@ -2033,3 +2033,15 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [28Jun2025 14:33:04.768] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
 [28Jun2025 14:33:15.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Vex
 [28Jun2025 14:33:15.482] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[28Jun2025 14:57:24.533] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2659ms or 53 ticks behind
+[28Jun2025 14:57:40.358] [spark-async-sampler-worker-thread/WARN] [spark/]: Timed out waiting for world statistics
+[28Jun2025 14:57:59.203] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AgentePerrote lost connection: Disconnected
+[28Jun2025 14:57:59.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote left the game
+[28Jun2025 14:57:59.292] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from NORMAL (avg. 36.785191579999996) to VERY_HIGH (avg. 383.0825231)
+[28Jun2025 14:57:59.687] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20162ms or 403 ticks behind
+[28Jun2025 14:58:32.983] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6e6f95b8[id=<null>,name=AgentePerrote,properties={},legacy=false] (/127.182.232.120:43405) lost connection: Disconnected
+[28Jun2025 14:59:12.627] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6fb6230[id=<null>,name=AgentePerrote,properties={},legacy=false] (/127.182.232.120:59627) lost connection: Disconnected
+[28Jun2025 14:59:35.700] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player AgentePerrote is d2fd0016-a757-4b59-8507-69637450002d
+[28Jun2025 14:59:37.961] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AgentePerrote[/127.182.232.120:35051] logged in with entity id 56781 at (-1892.7370611189122, 67.0, 178.97862996286977)
+[28Jun2025 14:59:38.079] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player AgentePerrote
+[28Jun2025 14:59:38.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote joined the game
