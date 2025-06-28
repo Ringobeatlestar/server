@@ -2954,6 +2954,14 @@
         "discoveredTimestamp": 1751122092045,
         "caughtTimestamp": 1751122092045
       }
+    },
+    "mimikyu": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1751123720492,
+        "caughtTimestamp": 1751123720492
+      }
     }
   }
 }

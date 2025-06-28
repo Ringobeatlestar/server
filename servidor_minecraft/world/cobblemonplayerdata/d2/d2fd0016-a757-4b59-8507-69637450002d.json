@@ -1992,6 +1992,14 @@
             "discoveredTimestamp": 1751122092044,
             "caughtTimestamp": 1751122092044
           }
+        },
+        "mimikyu": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1751123720488,
+            "caughtTimestamp": 1751123720488
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -2012,24 +2020,25 @@
         "180",
         "195",
         "210",
-        "225"
+        "225",
+        "240"
       ],
       "name": "Cobbledex_RewardHistory"
     }
   },
   "advancementData": {
-    "totalCaptureCount": 188,
+    "totalCaptureCount": 190,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 65,
-    "totalBattleVictoryCount": 287,
+    "totalBattleVictoryCount": 289,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 286,
+    "totalPvWBattleVictoryCount": 288,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 10,
     "totalTradedCount": 22,
     "totalTypeCaptureCounts": {
       "grass": 19,
-      "psychic": 10,
+      "psychic": 11,
       "water": 12,
       "normal": 37,
       "flying": 31,
@@ -2041,11 +2050,11 @@
       "fighting": 12,
       "bug": 22,
       "electric": 7,
-      "fairy": 16,
+      "fairy": 18,
       "rock": 11,
       "poison": 13,
       "dragon": 6,
-      "ghost": 29
+      "ghost": 30
     },
     "totalDefeatedCounts": {
       "cobblemon:bidoof": 1,
