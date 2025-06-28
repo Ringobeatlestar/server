@@ -2053,3 +2053,10 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [28Jun2025 15:40:21.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [A Piercing Gaze]
 [28Jun2025 15:41:21.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Lights Up!]
 [28Jun2025 15:45:04.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [A Moment in Time]
+[28Jun2025 15:47:10.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Krabby
+[28Jun2025 15:47:10.124] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[28Jun2025 15:53:40.295] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[28Jun2025 15:54:22.737] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 659b3e3e-b953-44fe-abcf-f052a11fdbcd
+[28Jun2025 15:54:22.737] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 659b3e3e-b953-44fe-abcf-f052a11fdbcd
+[28Jun2025 15:54:22.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was shot by Skeleton
+[28Jun2025 15:54:22.756] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
