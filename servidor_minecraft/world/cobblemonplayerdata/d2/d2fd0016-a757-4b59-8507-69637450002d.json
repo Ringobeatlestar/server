@@ -540,7 +540,7 @@
         },
         "wingull": {
           "normal": {
-            "isShiny": false,
+            "isShiny": true,
             "status": "CAUGHT",
             "discoveredTimestamp": 1750412428401,
             "caughtTimestamp": 1750412452244
@@ -2008,6 +2008,22 @@
             "discoveredTimestamp": 1751126795667,
             "caughtTimestamp": 1751126795667
           }
+        },
+        "azurill": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1751129440716,
+            "caughtTimestamp": 1751129440716
+          }
+        },
+        "swanna": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1751132338797,
+            "caughtTimestamp": 1751132338797
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -2035,21 +2051,21 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 190,
+    "totalCaptureCount": 193,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 67,
-    "totalBattleVictoryCount": 297,
+    "totalBattleVictoryCount": 300,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 296,
+    "totalPvWBattleVictoryCount": 299,
     "totalPvNBattleVictoryCount": 0,
-    "totalShinyCaptureCount": 10,
+    "totalShinyCaptureCount": 11,
     "totalTradedCount": 22,
     "totalTypeCaptureCounts": {
       "grass": 19,
       "psychic": 11,
-      "water": 12,
-      "normal": 37,
-      "flying": 31,
+      "water": 14,
+      "normal": 38,
+      "flying": 33,
       "ground": 13,
       "fire": 25,
       "steel": 17,
@@ -2058,7 +2074,7 @@
       "fighting": 12,
       "bug": 22,
       "electric": 7,
-      "fairy": 18,
+      "fairy": 19,
       "rock": 11,
       "poison": 13,
       "dragon": 6,
@@ -2119,7 +2135,8 @@
       "cobblemon:golem": 1,
       "cobblemon:falinks": 1,
       "cobblemon:cacnea": 4,
-      "cobblemon:maractus": 2
+      "cobblemon:maractus": 2,
+      "cobblemon:phione": 1
     },
     "aspectsCollected": {
       "cobblemon:vivillon": [

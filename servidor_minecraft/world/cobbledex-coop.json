@@ -747,7 +747,7 @@
     },
     "wingull": {
       "normal": {
-        "isShiny": false,
+        "isShiny": true,
         "status": "CAUGHT",
         "discoveredTimestamp": 1750412428402,
         "caughtTimestamp": 1750412452245
@@ -2961,6 +2961,14 @@
         "status": "CAUGHT",
         "discoveredTimestamp": 1751123720492,
         "caughtTimestamp": 1751123720492
+      }
+    },
+    "swanna": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1751132338798,
+        "caughtTimestamp": 1751132338798
       }
     }
   }
