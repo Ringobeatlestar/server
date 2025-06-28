@@ -2019,3 +2019,10 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [28Jun2025 14:13:44.172] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.102676391601562) to HIGH (avg. 50.34351348876953)
 [28Jun2025 14:13:45.374] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from VERY_LOW (avg. 13.998003050000001) to NORMAL (avg. 36.785191579999996)
 [28Jun2025 14:13:51.624] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.34351348876953) to VERY_LOW (avg. 18.51506805419922)
+[28Jun2025 14:14:40.039] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 3.453 ms. 5713/5766 recipes are parallelized.
+[28Jun2025 14:15:29.131] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 11.775606155395508) to LOW (avg. 23.35382843017578)
+[28Jun2025 14:15:44.124] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.35382843017578) to VERY_LOW (avg. 8.606856346130371)
+[28Jun2025 14:16:51.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Krabby
+[28Jun2025 14:16:51.907] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[28Jun2025 14:22:59.124] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 11.726287841796875) to LOW (avg. 25.663850784301758)
+[28Jun2025 14:23:14.124] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 25.663850784301758) to VERY_LOW (avg. 12.955751419067383)

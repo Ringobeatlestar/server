@@ -14365,3 +14365,102 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [28Jun2025 14:13:53.674] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
 [28Jun2025 14:13:53.675] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
 [28Jun2025 14:13:53.676] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[28Jun2025 14:14:23.724] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[28Jun2025 14:14:23.724] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[28Jun2025 14:14:23.725] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[28Jun2025 14:14:40.039] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 3.453 ms. 5713/5766 recipes are parallelized.
+[28Jun2025 14:14:53.774] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[28Jun2025 14:14:53.774] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[28Jun2025 14:14:53.775] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[28Jun2025 14:15:20.910] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jun2025 14:15:20.938] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jun2025 14:15:23.824] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[28Jun2025 14:15:23.824] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[28Jun2025 14:15:23.825] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[28Jun2025 14:15:29.131] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 11.775606155395508) to LOW (avg. 23.35382843017578)
+[28Jun2025 14:15:44.124] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.35382843017578) to VERY_LOW (avg. 8.606856346130371)
+[28Jun2025 14:15:53.874] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[28Jun2025 14:15:53.874] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[28Jun2025 14:15:53.876] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[28Jun2025 14:16:23.924] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[28Jun2025 14:16:23.924] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[28Jun2025 14:16:23.925] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[28Jun2025 14:16:51.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Krabby
+[28Jun2025 14:16:51.900] [Server thread/DEBUG] [tombstone/]: A new grave of the player AgentePerrote was created at position [x:-1868, y:69, z:198, dim:minecraft:overworld]
+[28Jun2025 14:16:51.907] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[28Jun2025 14:16:53.974] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[28Jun2025 14:16:53.974] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[28Jun2025 14:16:53.975] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[28Jun2025 14:17:24.024] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[28Jun2025 14:17:24.024] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[28Jun2025 14:17:24.025] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[28Jun2025 14:17:54.074] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[28Jun2025 14:17:54.075] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[28Jun2025 14:17:54.076] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[28Jun2025 14:18:05.180] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (-3596 | 43 | 5316).
+[28Jun2025 14:18:05.180] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[28Jun2025 14:18:05.181] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 4(0) Nodes and 4(0) Rooms
+[28Jun2025 14:18:05.181] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[28Jun2025 14:18:05.181] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 5(0) Nodes and 6(0) Rooms
+[28Jun2025 14:18:05.181] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[28Jun2025 14:18:05.181] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 10(1) Nodes and 5(0) Rooms
+[28Jun2025 14:18:05.181] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[28Jun2025 14:18:05.181] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 9(3) Nodes and 5(0) Rooms
+[28Jun2025 14:18:05.181] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[28Jun2025 14:18:05.182] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 8(0) Nodes and 6(0) Rooms
+[28Jun2025 14:18:24.124] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[28Jun2025 14:18:24.125] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[28Jun2025 14:18:24.126] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[28Jun2025 14:18:54.174] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[28Jun2025 14:18:54.174] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[28Jun2025 14:18:54.175] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[28Jun2025 14:19:24.224] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[28Jun2025 14:19:24.225] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[28Jun2025 14:19:24.225] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[28Jun2025 14:19:54.274] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[28Jun2025 14:19:54.275] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[28Jun2025 14:19:54.275] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[28Jun2025 14:20:20.906] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jun2025 14:20:20.930] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jun2025 14:20:24.324] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[28Jun2025 14:20:24.324] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[28Jun2025 14:20:24.325] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[28Jun2025 14:20:54.374] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[28Jun2025 14:20:54.374] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[28Jun2025 14:20:54.375] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[28Jun2025 14:21:24.424] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[28Jun2025 14:21:24.424] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[28Jun2025 14:21:24.425] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[28Jun2025 14:21:54.474] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[28Jun2025 14:21:54.474] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[28Jun2025 14:21:54.475] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[28Jun2025 14:22:03.679] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:bunker/bunker_enterance_2
+[28Jun2025 14:22:24.524] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[28Jun2025 14:22:24.524] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[28Jun2025 14:22:24.524] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[28Jun2025 14:22:54.574] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[28Jun2025 14:22:54.574] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[28Jun2025 14:22:54.574] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[28Jun2025 14:22:57.173] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_spruce
+[28Jun2025 14:22:57.189] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_savana
+[28Jun2025 14:22:57.204] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_jungle
+[28Jun2025 14:22:57.218] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_oak
+[28Jun2025 14:22:58.689] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (-3004 | 51 | 5332).
+[28Jun2025 14:22:58.689] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[28Jun2025 14:22:58.689] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 5(0) Nodes and 5(0) Rooms
+[28Jun2025 14:22:58.689] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[28Jun2025 14:22:58.689] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 7(0) Nodes and 5(0) Rooms
+[28Jun2025 14:22:58.689] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[28Jun2025 14:22:58.690] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 11(0) Nodes and 4(0) Rooms
+[28Jun2025 14:22:58.690] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[28Jun2025 14:22:58.690] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 2(8) Nodes and 4(0) Rooms
+[28Jun2025 14:22:58.690] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[28Jun2025 14:22:58.690] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 3(9) Nodes and 4(0) Rooms
+[28Jun2025 14:22:59.124] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 11.726287841796875) to LOW (avg. 25.663850784301758)
+[28Jun2025 14:23:14.124] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 25.663850784301758) to VERY_LOW (avg. 12.955751419067383)
+[28Jun2025 14:23:24.624] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[28Jun2025 14:23:24.624] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[28Jun2025 14:23:24.626] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[28Jun2025 14:23:54.674] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[28Jun2025 14:23:54.674] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[28Jun2025 14:23:54.674] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
