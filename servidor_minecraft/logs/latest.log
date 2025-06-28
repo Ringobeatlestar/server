@@ -2060,3 +2060,6 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [28Jun2025 15:54:22.737] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 659b3e3e-b953-44fe-abcf-f052a11fdbcd
 [28Jun2025 15:54:22.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was shot by Skeleton
 [28Jun2025 15:54:22.756] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[28Jun2025 16:20:27.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AgentePerrote: Set own game mode to Creative Mode]
+[28Jun2025 16:20:37.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AgentePerrote: Set own game mode to Survival Mode]
+[28Jun2025 16:21:55.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AgentePerrote: Set own game mode to Creative Mode]
