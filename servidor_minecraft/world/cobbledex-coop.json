@@ -2874,6 +2874,22 @@
         "discoveredTimestamp": 1751043218188,
         "caughtTimestamp": 1751043218188
       }
+    },
+    "ceruledge": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1751118683166,
+        "caughtTimestamp": 1751118683166
+      }
+    },
+    "falinks": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1751119193744,
+        "caughtTimestamp": 1751119193744
+      }
     }
   }
 }
