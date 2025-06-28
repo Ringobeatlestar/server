@@ -2030,9 +2030,9 @@
     "totalCaptureCount": 190,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 65,
-    "totalBattleVictoryCount": 290,
+    "totalBattleVictoryCount": 297,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 289,
+    "totalPvWBattleVictoryCount": 296,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 10,
     "totalTradedCount": 22,
@@ -2105,12 +2105,13 @@
       "cobblemon:eiscue": 1,
       "cobblemon:meloetta": 1,
       "cobblemon:rattata": 1,
-      "cobblemon:ekans": 1,
+      "cobblemon:ekans": 3,
       "cobblemon:doublade": 1,
       "cobblemon:fomantis": 1,
       "cobblemon:golem": 1,
       "cobblemon:falinks": 1,
-      "cobblemon:cacnea": 1
+      "cobblemon:cacnea": 4,
+      "cobblemon:maractus": 2
     },
     "aspectsCollected": {
       "cobblemon:vivillon": [
