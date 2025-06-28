@@ -1976,6 +1976,22 @@
             "discoveredTimestamp": 1751121516724,
             "caughtTimestamp": 1751121606139
           }
+        },
+        "minun": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1751122040337,
+            "caughtTimestamp": 1751122040337
+          }
+        },
+        "steelix": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1751122092044,
+            "caughtTimestamp": 1751122092044
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -2002,12 +2018,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 187,
+    "totalCaptureCount": 188,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 64,
-    "totalBattleVictoryCount": 286,
+    "totalEvolvedCount": 65,
+    "totalBattleVictoryCount": 287,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 285,
+    "totalPvWBattleVictoryCount": 286,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 10,
     "totalTradedCount": 22,
@@ -2024,7 +2040,7 @@
       "ice": 2,
       "fighting": 12,
       "bug": 22,
-      "electric": 6,
+      "electric": 7,
       "fairy": 16,
       "rock": 11,
       "poison": 13,

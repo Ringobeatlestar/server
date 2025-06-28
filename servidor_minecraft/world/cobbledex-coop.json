@@ -2938,6 +2938,22 @@
         "discoveredTimestamp": 1751121516725,
         "caughtTimestamp": 1751121606140
       }
+    },
+    "minun": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1751122040338,
+        "caughtTimestamp": 1751122040338
+      }
+    },
+    "steelix": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1751122092045,
+        "caughtTimestamp": 1751122092045
+      }
     }
   }
 }
