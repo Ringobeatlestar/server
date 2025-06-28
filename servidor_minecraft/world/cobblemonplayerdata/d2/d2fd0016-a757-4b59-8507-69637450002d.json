@@ -1912,6 +1912,22 @@
             "discoveredTimestamp": 1751119193742,
             "caughtTimestamp": 1751119193742
           }
+        },
+        "onix": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1751119528291,
+            "caughtTimestamp": 1751119528291
+          }
+        },
+        "shedinja": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1751119692445,
+            "caughtTimestamp": 1751119692445
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1938,12 +1954,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 180,
+    "totalCaptureCount": 182,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 60,
-    "totalBattleVictoryCount": 279,
+    "totalBattleVictoryCount": 281,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 278,
+    "totalPvWBattleVictoryCount": 280,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 10,
     "totalTradedCount": 22,
@@ -1953,19 +1969,19 @@
       "water": 12,
       "normal": 36,
       "flying": 31,
-      "ground": 12,
+      "ground": 13,
       "fire": 25,
       "steel": 17,
       "dark": 11,
       "ice": 2,
       "fighting": 12,
-      "bug": 21,
+      "bug": 22,
       "electric": 5,
       "fairy": 15,
-      "rock": 10,
+      "rock": 11,
       "poison": 13,
       "dragon": 5,
-      "ghost": 27
+      "ghost": 28
     },
     "totalDefeatedCounts": {
       "cobblemon:bidoof": 1,

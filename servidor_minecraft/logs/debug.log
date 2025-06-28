@@ -14226,3 +14226,142 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [28Jun2025 14:03:27.555] [Server thread/DEBUG] [tombstone/]: A new grave of the player AgentePerrote was created at position [x:-5944, y:49, z:348, dim:minecraft:the_nether]
 [28Jun2025 14:03:27.558] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
 [28Jun2025 14:03:31.024] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 13.482290267944336) to LOW (avg. 20.52565574645996)
+[28Jun2025 14:03:39.574] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[28Jun2025 14:03:39.574] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[28Jun2025 14:03:39.575] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[28Jun2025 14:03:46.024] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.52565574645996) to VERY_LOW (avg. 15.859395980834961)
+[28Jun2025 14:03:56.195] [Worker-Main-3/DEBUG] [ModernFix/]: Structure incendium:quartz_flats/quartz_tower3 is being run through DFU (hash c473be0f20a42082c30df0b316976c6bd4c3b1ce3fc9ba6a33ea1b65da5efef8), this will cause launch time delays
+[28Jun2025 14:03:59.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Straddler
+[28Jun2025 14:03:59.208] [Server thread/DEBUG] [tombstone/]: A new grave of the player AgentePerrote was created at position [x:-5946, y:52, z:333, dim:minecraft:the_nether]
+[28Jun2025 14:03:59.211] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[28Jun2025 14:04:09.624] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[28Jun2025 14:04:09.624] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[28Jun2025 14:04:09.625] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[28Jun2025 14:04:33.136] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[28Jun2025 14:04:36.636] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[28Jun2025 14:04:38.783] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[28Jun2025 14:04:39.674] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[28Jun2025 14:04:39.675] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[28Jun2025 14:04:39.676] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[28Jun2025 14:04:54.117] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 11.742968559265137) to LOW (avg. 26.024118423461914)
+[28Jun2025 14:04:54.933] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[28Jun2025 14:05:07.816] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jun2025 14:05:07.844] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jun2025 14:05:08.524] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 26.024118423461914) to VERY_LOW (avg. 13.608949661254883)
+[28Jun2025 14:05:09.724] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[28Jun2025 14:05:09.724] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[28Jun2025 14:05:09.726] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[28Jun2025 14:05:28.293] [Server thread/DEBUG] [Cobbledex/]: Saving 353 entries to /workspaces/server/servidor_minecraft/./world/./cobbledex-coop.json
+[28Jun2025 14:05:39.774] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[28Jun2025 14:05:39.776] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[28Jun2025 14:05:39.788] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[28Jun2025 14:06:09.824] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[28Jun2025 14:06:09.824] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[28Jun2025 14:06:09.825] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[28Jun2025 14:06:39.874] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[28Jun2025 14:06:39.874] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[28Jun2025 14:06:39.875] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[28Jun2025 14:07:09.924] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[28Jun2025 14:07:09.925] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[28Jun2025 14:07:09.926] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[28Jun2025 14:07:17.121] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_11b
+[28Jun2025 14:07:37.753] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mangrove_hut
+[28Jun2025 14:07:38.396] [Worker-Main-21/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (-3596 | 43 | 5316).
+[28Jun2025 14:07:38.398] [Worker-Main-21/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[28Jun2025 14:07:38.400] [Worker-Main-21/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 4(0) Nodes and 4(0) Rooms
+[28Jun2025 14:07:38.400] [Worker-Main-21/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[28Jun2025 14:07:38.401] [Worker-Main-21/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 5(0) Nodes and 6(0) Rooms
+[28Jun2025 14:07:38.401] [Worker-Main-21/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[28Jun2025 14:07:38.401] [Worker-Main-21/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 10(1) Nodes and 5(0) Rooms
+[28Jun2025 14:07:38.401] [Worker-Main-21/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[28Jun2025 14:07:38.401] [Worker-Main-21/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 9(3) Nodes and 5(0) Rooms
+[28Jun2025 14:07:38.401] [Worker-Main-21/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[28Jun2025 14:07:38.402] [Worker-Main-21/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 8(0) Nodes and 6(0) Rooms
+[28Jun2025 14:07:39.685] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mountain_tower
+[28Jun2025 14:07:39.938] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_2
+[28Jun2025 14:07:39.974] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[28Jun2025 14:07:39.975] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[28Jun2025 14:07:39.976] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[28Jun2025 14:07:40.241] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_jungle
+[28Jun2025 14:07:40.242] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_jungle
+[28Jun2025 14:07:40.243] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_jungle
+[28Jun2025 14:07:40.244] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_jungle
+[28Jun2025 14:07:40.245] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_jungle
+[28Jun2025 14:07:40.246] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_jungle
+[28Jun2025 14:07:40.246] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_jungle
+[28Jun2025 14:07:40.247] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_jungle
+[28Jun2025 14:07:41.147] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center2
+[28Jun2025 14:07:41.155] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center2
+[28Jun2025 14:07:46.262] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_13
+[28Jun2025 14:08:10.024] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[28Jun2025 14:08:10.025] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[28Jun2025 14:08:10.026] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[28Jun2025 14:08:12.446] [Server thread/DEBUG] [Cobbledex/]: Saving 354 entries to /workspaces/server/servidor_minecraft/./world/./cobbledex-coop.json
+[28Jun2025 14:08:28.318] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/origin_2
+[28Jun2025 14:08:28.664] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_crimson_fire
+[28Jun2025 14:08:28.675] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/piglin_camp_event_1
+[28Jun2025 14:08:28.677] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:donjon/mob/donjon_mob_empty
+[28Jun2025 14:08:28.677] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:donjon/mob/donjon_mob_hooglin
+[28Jun2025 14:08:28.678] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:donjon/mob/donjon_mob_skeleton_wither
+[28Jun2025 14:08:31.024] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 11.620857238769531) to LOW (avg. 20.540767669677734)
+[28Jun2025 14:08:40.074] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[28Jun2025 14:08:40.076] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[28Jun2025 14:08:40.082] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[28Jun2025 14:08:46.024] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.540767669677734) to VERY_LOW (avg. 8.891278266906738)
+[28Jun2025 14:09:10.124] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[28Jun2025 14:09:10.124] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[28Jun2025 14:09:10.125] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[28Jun2025 14:09:40.174] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[28Jun2025 14:09:40.174] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[28Jun2025 14:09:40.175] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[28Jun2025 14:09:55.285] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[28Jun2025 14:09:55.367] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[28Jun2025 14:09:55.385] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[28Jun2025 14:09:56.416] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior1
+[28Jun2025 14:09:58.075] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4650ms or 93 ticks behind
+[28Jun2025 14:09:58.174] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 10.238842964172363) to VERY_HIGH (avg. 614.6510009765625)
+[28Jun2025 14:09:59.424] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:the_nether changed from NORMAL (avg. 40.69508907) to VERY_LOW (avg. 4.853222639999999)
+[28Jun2025 14:10:05.674] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 614.6510009765625) to VERY_LOW (avg. 12.509512901306152)
+[28Jun2025 14:10:12.459] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jun2025 14:10:12.488] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jun2025 14:10:14.874] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[28Jun2025 14:10:14.874] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[28Jun2025 14:10:14.875] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[28Jun2025 14:10:44.924] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[28Jun2025 14:10:44.924] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[28Jun2025 14:10:44.925] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[28Jun2025 14:10:57.186] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[28Jun2025 14:11:07.056] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:donjon/mob/donjon_mob_skeleton
+[28Jun2025 14:11:07.429] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_soul_fire
+[28Jun2025 14:11:07.429] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:donjon/mob/donjon_mob_piglin_crossbow
+[28Jun2025 14:11:07.429] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:donjon/mob/donjon_mob_hooglin_fail
+[28Jun2025 14:11:07.430] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:donjon/mob/donjon_mob_piglin_sword
+[28Jun2025 14:11:14.974] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[28Jun2025 14:11:14.974] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[28Jun2025 14:11:14.975] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[28Jun2025 14:11:40.357] [Worker-Main-11/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[28Jun2025 14:11:40.443] [Worker-Main-11/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[28Jun2025 14:11:40.463] [Worker-Main-11/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[28Jun2025 14:11:42.998] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4274ms or 85 ticks behind
+[28Jun2025 14:11:49.274] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[28Jun2025 14:11:49.274] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[28Jun2025 14:11:49.275] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[28Jun2025 14:12:19.324] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[28Jun2025 14:12:19.324] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[28Jun2025 14:12:19.326] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[28Jun2025 14:12:49.374] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[28Jun2025 14:12:49.375] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[28Jun2025 14:12:49.376] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[28Jun2025 14:13:19.424] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[28Jun2025 14:13:19.424] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[28Jun2025 14:13:19.425] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[28Jun2025 14:13:25.166] [Worker-Main-21/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[28Jun2025 14:13:25.249] [Worker-Main-21/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[28Jun2025 14:13:25.265] [Worker-Main-21/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[28Jun2025 14:13:27.787] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4213ms or 84 ticks behind
+[28Jun2025 14:13:44.172] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.102676391601562) to HIGH (avg. 50.34351348876953)
+[28Jun2025 14:13:45.374] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from VERY_LOW (avg. 13.998003050000001) to NORMAL (avg. 36.785191579999996)
+[28Jun2025 14:13:51.624] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.34351348876953) to VERY_LOW (avg. 18.51506805419922)
+[28Jun2025 14:13:53.674] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[28Jun2025 14:13:53.675] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[28Jun2025 14:13:53.676] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.

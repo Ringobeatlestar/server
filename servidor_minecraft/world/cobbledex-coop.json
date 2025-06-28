@@ -2890,6 +2890,22 @@
         "discoveredTimestamp": 1751119193744,
         "caughtTimestamp": 1751119193744
       }
+    },
+    "onix": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1751119528292,
+        "caughtTimestamp": 1751119528292
+      }
+    },
+    "shedinja": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1751119692446,
+        "caughtTimestamp": 1751119692446
+      }
     }
   }
 }

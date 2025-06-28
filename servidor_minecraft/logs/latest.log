@@ -1994,3 +1994,28 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [28Jun2025 14:03:27.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Straddler
 [28Jun2025 14:03:27.558] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
 [28Jun2025 14:03:31.024] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 13.482290267944336) to LOW (avg. 20.52565574645996)
+[28Jun2025 14:03:46.024] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.52565574645996) to VERY_LOW (avg. 15.859395980834961)
+[28Jun2025 14:03:59.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Straddler
+[28Jun2025 14:03:59.211] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[28Jun2025 14:04:54.117] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 11.742968559265137) to LOW (avg. 26.024118423461914)
+[28Jun2025 14:05:08.524] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 26.024118423461914) to VERY_LOW (avg. 13.608949661254883)
+[28Jun2025 14:08:31.024] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 11.620857238769531) to LOW (avg. 20.540767669677734)
+[28Jun2025 14:08:46.024] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.540767669677734) to VERY_LOW (avg. 8.891278266906738)
+[28Jun2025 14:09:55.285] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[28Jun2025 14:09:55.367] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[28Jun2025 14:09:55.385] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[28Jun2025 14:09:58.075] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4650ms or 93 ticks behind
+[28Jun2025 14:09:58.174] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 10.238842964172363) to VERY_HIGH (avg. 614.6510009765625)
+[28Jun2025 14:09:59.424] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:the_nether changed from NORMAL (avg. 40.69508907) to VERY_LOW (avg. 4.853222639999999)
+[28Jun2025 14:10:05.674] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 614.6510009765625) to VERY_LOW (avg. 12.509512901306152)
+[28Jun2025 14:11:40.357] [Worker-Main-11/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[28Jun2025 14:11:40.443] [Worker-Main-11/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[28Jun2025 14:11:40.463] [Worker-Main-11/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[28Jun2025 14:11:42.998] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4274ms or 85 ticks behind
+[28Jun2025 14:13:25.166] [Worker-Main-21/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[28Jun2025 14:13:25.249] [Worker-Main-21/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[28Jun2025 14:13:25.265] [Worker-Main-21/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[28Jun2025 14:13:27.787] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4213ms or 84 ticks behind
+[28Jun2025 14:13:44.172] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.102676391601562) to HIGH (avg. 50.34351348876953)
+[28Jun2025 14:13:45.374] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from VERY_LOW (avg. 13.998003050000001) to NORMAL (avg. 36.785191579999996)
+[28Jun2025 14:13:51.624] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.34351348876953) to VERY_LOW (avg. 18.51506805419922)
