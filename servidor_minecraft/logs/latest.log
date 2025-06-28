@@ -1910,3 +1910,4 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [28Jun2025 18:13:30.063] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 43.7396125793457) to LOW (avg. 33.625518798828125)
 [28Jun2025 18:13:31.047] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from LOW (avg. 16.68723632) to NORMAL (avg. 36.95512767)
 [28Jun2025 18:13:44.667] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 33.625518798828125) to VERY_LOW (avg. 18.032751083374023)
+[28Jun2025 19:29:21.770] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 3.952 ms. 5714/5767 recipes are parallelized.
