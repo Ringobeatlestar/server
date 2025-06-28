@@ -2063,3 +2063,10 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [28Jun2025 16:20:27.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AgentePerrote: Set own game mode to Creative Mode]
 [28Jun2025 16:20:37.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AgentePerrote: Set own game mode to Survival Mode]
 [28Jun2025 16:21:55.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AgentePerrote: Set own game mode to Creative Mode]
+[28Jun2025 16:26:02.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Glow and Behold!]
+[28Jun2025 16:26:20.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AgentePerrote: Set own game mode to Survival Mode]
+[28Jun2025 16:27:08.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was shot by Summoned Skeleton
+[28Jun2025 16:27:08.054] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[28Jun2025 16:30:01.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AgentePerrote: Set own game mode to Creative Mode]
+[28Jun2025 16:30:33.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AgentePerrote: Set own game mode to Survival Mode]
+[28Jun2025 16:30:42.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made AgentePerrote no longer a server operator
