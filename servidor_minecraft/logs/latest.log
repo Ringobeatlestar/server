@@ -2045,3 +2045,8 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [28Jun2025 14:59:37.961] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AgentePerrote[/127.182.232.120:35051] logged in with entity id 56781 at (-1892.7370611189122, 67.0, 178.97862996286977)
 [28Jun2025 14:59:38.079] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player AgentePerrote
 [28Jun2025 14:59:38.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote joined the game
+[28Jun2025 15:12:26.945] [Worker-Main-116/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[28Jun2025 15:12:27.024] [Worker-Main-116/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[28Jun2025 15:12:27.042] [Worker-Main-116/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[28Jun2025 15:12:29.547] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4172ms or 83 ticks behind
+[28Jun2025 15:12:34.824] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:overworld changed from VERY_HIGH (avg. 383.0825231) to VERY_LOW (avg. 9.35557249)
