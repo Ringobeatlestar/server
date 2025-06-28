@@ -1928,6 +1928,54 @@
             "discoveredTimestamp": 1751119692445,
             "caughtTimestamp": 1751119692445
           }
+        },
+        "pichu": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1751120740990,
+            "caughtTimestamp": 1751120740990
+          }
+        },
+        "glaceon": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1751121115318,
+            "caughtTimestamp": 1751121115318
+          }
+        },
+        "leafeon": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1751121162933,
+            "caughtTimestamp": 1751121162933
+          }
+        },
+        "kirlia": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1751121227495,
+            "caughtTimestamp": 1751121227495
+          }
+        },
+        "jolteon": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1751121287968,
+            "caughtTimestamp": 1751121287968
+          }
+        },
+        "drakloak": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1751121516724,
+            "caughtTimestamp": 1751121606139
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1954,20 +2002,20 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 182,
+    "totalCaptureCount": 187,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 60,
-    "totalBattleVictoryCount": 281,
+    "totalEvolvedCount": 64,
+    "totalBattleVictoryCount": 286,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 280,
+    "totalPvWBattleVictoryCount": 285,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 10,
     "totalTradedCount": 22,
     "totalTypeCaptureCounts": {
       "grass": 19,
-      "psychic": 8,
+      "psychic": 10,
       "water": 12,
-      "normal": 36,
+      "normal": 37,
       "flying": 31,
       "ground": 13,
       "fire": 25,
@@ -1976,12 +2024,12 @@
       "ice": 2,
       "fighting": 12,
       "bug": 22,
-      "electric": 5,
-      "fairy": 15,
+      "electric": 6,
+      "fairy": 16,
       "rock": 11,
       "poison": 13,
-      "dragon": 5,
-      "ghost": 28
+      "dragon": 6,
+      "ghost": 29
     },
     "totalDefeatedCounts": {
       "cobblemon:bidoof": 1,

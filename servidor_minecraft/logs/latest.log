@@ -2026,3 +2026,10 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [28Jun2025 14:16:51.907] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
 [28Jun2025 14:22:59.124] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 11.726287841796875) to LOW (avg. 25.663850784301758)
 [28Jun2025 14:23:14.124] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 25.663850784301758) to VERY_LOW (avg. 12.955751419067383)
+[28Jun2025 14:32:20.085] [Server thread/INFO] [Cobbledex/]: No serializer found for com.arcaryx.cobblemonintegrations.enhancedcelestials.LunarEventRequirement@2b708684
+[28Jun2025 14:32:20.086] [Server thread/INFO] [Cobbledex/]: No serializer found for com.arcaryx.cobblemonintegrations.enhancedcelestials.LunarEventRequirement@598e4078
+[28Jun2025 14:32:20.086] [Server thread/INFO] [Cobbledex/]: No serializer found for com.arcaryx.cobblemonintegrations.enhancedcelestials.LunarEventRequirement@6e5f8264
+[28Jun2025 14:33:04.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Vindicator
+[28Jun2025 14:33:04.768] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[28Jun2025 14:33:15.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Vex
+[28Jun2025 14:33:15.482] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved

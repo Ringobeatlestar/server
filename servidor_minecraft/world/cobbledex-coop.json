@@ -2906,6 +2906,38 @@
         "discoveredTimestamp": 1751119692446,
         "caughtTimestamp": 1751119692446
       }
+    },
+    "glaceon": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1751121115319,
+        "caughtTimestamp": 1751121115319
+      }
+    },
+    "leafeon": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1751121162934,
+        "caughtTimestamp": 1751121162934
+      }
+    },
+    "jolteon": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1751121287970,
+        "caughtTimestamp": 1751121287970
+      }
+    },
+    "drakloak": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1751121516725,
+        "caughtTimestamp": 1751121606140
+      }
     }
   }
 }
