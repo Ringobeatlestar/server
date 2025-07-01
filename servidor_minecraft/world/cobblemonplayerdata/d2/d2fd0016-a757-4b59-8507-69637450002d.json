@@ -2048,6 +2048,14 @@
             "discoveredTimestamp": 1751396289323,
             "caughtTimestamp": 1751396289323
           }
+        },
+        "pyukumuku": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1751396450271,
+            "caughtTimestamp": 1751396450271
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -2075,19 +2083,19 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 194,
+    "totalCaptureCount": 195,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 69,
-    "totalBattleVictoryCount": 364,
+    "totalBattleVictoryCount": 368,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 363,
+    "totalPvWBattleVictoryCount": 367,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 11,
     "totalTradedCount": 22,
     "totalTypeCaptureCounts": {
       "grass": 19,
       "psychic": 11,
-      "water": 14,
+      "water": 15,
       "normal": 39,
       "flying": 33,
       "ground": 13,
@@ -2131,7 +2139,7 @@
       "cobblemon:deerling": 1,
       "cobblemon:elekid": 1,
       "cobblemon:swellow": 1,
-      "cobblemon:crabrawler": 22,
+      "cobblemon:crabrawler": 23,
       "cobblemon:lilligant": 2,
       "cobblemon:petilil": 2,
       "cobblemon:vivillon": 9,
@@ -2161,9 +2169,10 @@
       "cobblemon:cacnea": 4,
       "cobblemon:maractus": 2,
       "cobblemon:phione": 1,
-      "cobblemon:pelipper": 3,
+      "cobblemon:pelipper": 4,
       "cobblemon:wimpod": 3,
-      "cobblemon:dewpider": 2
+      "cobblemon:dewpider": 2,
+      "cobblemon:basculin": 1
     },
     "aspectsCollected": {
       "cobblemon:vivillon": [

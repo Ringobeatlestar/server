@@ -1977,3 +1977,10 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [01Jul2025 18:54:20.100] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/1000, l='ServerLevel[world]', x=-1910.50, y=68.75, z=205.50, removed=DISCARDED]
 [01Jul2025 18:54:20.100] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/1002, l='ServerLevel[world]', x=-1910.50, y=68.75, z=205.50, removed=DISCARDED]
 [01Jul2025 18:54:20.100] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/1003, l='ServerLevel[world]', x=-1910.50, y=68.75, z=205.50, removed=DISCARDED]
+[01Jul2025 18:59:20.306] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 9.990239143371582) to LOW (avg. 21.340858459472656)
+[01Jul2025 18:59:43.886] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 13e395f2-ebba-46ba-8e94-dfa3933b457e
+[01Jul2025 18:59:43.886] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 13e395f2-ebba-46ba-8e94-dfa3933b457e
+[01Jul2025 19:00:01.733] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id the_deep_void:abductor
+[01Jul2025 19:00:27.806] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 29.125717163085938) to VERY_LOW (avg. 11.621036529541016)
+[01Jul2025 19:00:50.325] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 8.89482307434082) to LOW (avg. 22.76141357421875)
+[01Jul2025 19:00:57.806] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.76141357421875) to VERY_LOW (avg. 12.6527099609375)
