@@ -15171,3 +15171,140 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [01Jul2025 20:20:20.656] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
 [01Jul2025 20:20:20.656] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
 [01Jul2025 20:20:20.656] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[01Jul2025 20:20:50.706] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[01Jul2025 20:20:50.706] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[01Jul2025 20:20:50.708] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[01Jul2025 20:21:20.756] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[01Jul2025 20:21:20.756] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[01Jul2025 20:21:20.757] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[01Jul2025 20:21:29.472] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'legendary_monsters:lava_eater_spawn' in chunk [-117, 11], discarding
+[01Jul2025 20:21:29.474] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'legendary_monsters:lava_eater_spawn' in chunk [-116, 11], discarding
+[01Jul2025 20:21:29.474] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'legendary_monsters:lava_eater_spawn' in chunk [-115, 11], discarding
+[01Jul2025 20:21:29.476] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'legendary_monsters:lava_eater_spawn' in chunk [-12, -1], discarding
+[01Jul2025 20:21:29.476] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'legendary_monsters:lava_eater_spawn' in chunk [-12, 0], discarding
+[01Jul2025 20:21:29.477] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'legendary_monsters:lava_eater_spawn' in chunk [-12, 1], discarding
+[01Jul2025 20:21:29.537] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'legendary_monsters:lava_eater_spawn' in chunk [-11, -1], discarding
+[01Jul2025 20:21:29.538] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'legendary_monsters:lava_eater_spawn' in chunk [-11, 0], discarding
+[01Jul2025 20:21:29.539] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'legendary_monsters:lava_eater_spawn' in chunk [-11, 1], discarding
+[01Jul2025 20:21:29.568] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/piglin_camp_fire
+[01Jul2025 20:21:29.570] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/piglin_camp_event_1
+[01Jul2025 20:21:29.571] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/piglin_camp_event_3
+[01Jul2025 20:21:29.571] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/piglin_camp_event_2
+[01Jul2025 20:21:29.573] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/camp_mob_piglin_brute
+[01Jul2025 20:21:29.575] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:donjon/mob/donjon_mob_skeleton_empty
+[01Jul2025 20:21:29.575] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:donjon/mob/donjon_mob_skeleton_wither
+[01Jul2025 20:21:29.576] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/camp_mob_piglin_crossbow
+[01Jul2025 20:21:29.660] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'legendary_monsters:lava_eater_spawn' in chunk [-10, -1], discarding
+[01Jul2025 20:21:29.660] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: legendary_monsters:lava_eater_spawn
+[01Jul2025 20:21:29.704] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'legendary_monsters:lava_eater_spawn' in chunk [-10, 0], discarding
+[01Jul2025 20:21:29.705] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'legendary_monsters:lava_eater_spawn' in chunk [-10, 1], discarding
+[01Jul2025 20:21:29.757] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/origin_2
+[01Jul2025 20:21:29.760] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_1
+[01Jul2025 20:21:29.762] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_5
+[01Jul2025 20:21:29.763] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_2
+[01Jul2025 20:21:29.765] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_7
+[01Jul2025 20:21:29.765] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_3
+[01Jul2025 20:21:29.766] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/armor_2
+[01Jul2025 20:21:29.767] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_6
+[01Jul2025 20:21:29.767] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/armor_1
+[01Jul2025 20:21:29.768] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/piglin_camp
+[01Jul2025 20:21:29.769] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/hill_2
+[01Jul2025 20:21:29.770] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/fossil
+[01Jul2025 20:21:29.770] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_1
+[01Jul2025 20:21:29.771] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_3
+[01Jul2025 20:21:29.772] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_4
+[01Jul2025 20:21:29.792] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id legendary_monsters:lava_eater
+[01Jul2025 20:21:31.824] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_tower_1_crimson
+[01Jul2025 20:21:31.825] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_plate_1_crimson
+[01Jul2025 20:21:31.826] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/skeleton_tower_unit_witherskeleton
+[01Jul2025 20:21:31.826] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/skeleton_tower_unit_empty
+[01Jul2025 20:21:31.827] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_11_crimson
+[01Jul2025 20:21:31.828] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_8_crimson
+[01Jul2025 20:21:31.829] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_5_crimson
+[01Jul2025 20:21:31.830] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_2_crimson
+[01Jul2025 20:21:31.830] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_7_crimson
+[01Jul2025 20:21:31.831] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_4_crimson
+[01Jul2025 20:21:31.831] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_6_crimson
+[01Jul2025 20:21:31.832] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_12_crimson
+[01Jul2025 20:21:31.832] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/skeleton_tower_unit_skeleton
+[01Jul2025 20:21:31.833] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:hamlet/hamlet_piglin_crossbow
+[01Jul2025 20:21:50.806] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[01Jul2025 20:21:50.806] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[01Jul2025 20:21:50.807] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[01Jul2025 20:22:04.243] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/999, l='ServerLevel[world]', x=-1910.50, y=68.75, z=205.50, removed=DISCARDED]
+[01Jul2025 20:22:04.243] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/1000, l='ServerLevel[world]', x=-1910.50, y=68.75, z=205.50, removed=DISCARDED]
+[01Jul2025 20:22:04.244] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/1002, l='ServerLevel[world]', x=-1910.50, y=68.75, z=205.50, removed=DISCARDED]
+[01Jul2025 20:22:04.244] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/1003, l='ServerLevel[world]', x=-1910.50, y=68.75, z=205.50, removed=DISCARDED]
+[01Jul2025 20:22:04.244] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/33720, l='ServerLevel[world]', x=-1910.50, y=68.75, z=205.50, removed=DISCARDED]
+[01Jul2025 20:22:20.856] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[01Jul2025 20:22:20.856] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[01Jul2025 20:22:20.857] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[01Jul2025 20:22:50.906] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[01Jul2025 20:22:50.907] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[01Jul2025 20:22:50.907] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[01Jul2025 20:23:20.956] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[01Jul2025 20:23:20.957] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[01Jul2025 20:23:20.957] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[01Jul2025 20:23:51.006] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[01Jul2025 20:23:51.007] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[01Jul2025 20:23:51.007] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[01Jul2025 20:24:21.056] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[01Jul2025 20:24:21.056] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[01Jul2025 20:24:21.056] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[01Jul2025 20:24:51.106] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[01Jul2025 20:24:51.106] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[01Jul2025 20:24:51.107] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[01Jul2025 20:25:04.729] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jul2025 20:25:04.755] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jul2025 20:25:21.156] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[01Jul2025 20:25:21.157] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[01Jul2025 20:25:21.158] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[01Jul2025 20:25:51.206] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[01Jul2025 20:25:51.206] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[01Jul2025 20:25:51.206] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[01Jul2025 20:26:21.256] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[01Jul2025 20:26:21.256] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[01Jul2025 20:26:21.257] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[01Jul2025 20:26:51.306] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[01Jul2025 20:26:51.307] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[01Jul2025 20:26:51.308] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[01Jul2025 20:27:08.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Ravager
+[01Jul2025 20:27:08.768] [Server thread/DEBUG] [tombstone/]: A new grave of the player AgentePerrote was created at position [x:-1859, y:75, z:239, dim:minecraft:overworld]
+[01Jul2025 20:27:08.776] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[01Jul2025 20:27:09.879] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/1002, l='ServerLevel[world]', x=-1910.50, y=68.75, z=205.50, removed=DISCARDED]
+[01Jul2025 20:27:09.880] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/33720, l='ServerLevel[world]', x=-1910.50, y=68.75, z=205.50, removed=DISCARDED]
+[01Jul2025 20:27:09.880] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/999, l='ServerLevel[world]', x=-1910.50, y=68.75, z=205.50, removed=DISCARDED]
+[01Jul2025 20:27:09.880] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/1003, l='ServerLevel[world]', x=-1910.50, y=68.75, z=205.50, removed=DISCARDED]
+[01Jul2025 20:27:09.880] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/1000, l='ServerLevel[world]', x=-1910.50, y=68.75, z=205.50, removed=DISCARDED]
+[01Jul2025 20:27:21.356] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[01Jul2025 20:27:21.357] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[01Jul2025 20:27:21.358] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[01Jul2025 20:27:51.406] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[01Jul2025 20:27:51.407] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[01Jul2025 20:27:51.407] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[01Jul2025 20:27:51.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Ravager
+[01Jul2025 20:27:51.777] [Server thread/DEBUG] [tombstone/]: A new grave of the player AgentePerrote was created at position [x:-1869, y:70, z:241, dim:minecraft:overworld]
+[01Jul2025 20:27:51.785] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[01Jul2025 20:27:52.902] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/1002, l='ServerLevel[world]', x=-1910.50, y=68.75, z=205.50, removed=DISCARDED]
+[01Jul2025 20:27:52.903] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/33720, l='ServerLevel[world]', x=-1910.50, y=68.75, z=205.50, removed=DISCARDED]
+[01Jul2025 20:27:52.903] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/999, l='ServerLevel[world]', x=-1910.50, y=68.75, z=205.50, removed=DISCARDED]
+[01Jul2025 20:27:52.903] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/1003, l='ServerLevel[world]', x=-1910.50, y=68.75, z=205.50, removed=DISCARDED]
+[01Jul2025 20:27:52.903] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/1000, l='ServerLevel[world]', x=-1910.50, y=68.75, z=205.50, removed=DISCARDED]
+[01Jul2025 20:28:21.456] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[01Jul2025 20:28:21.457] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[01Jul2025 20:28:21.457] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[01Jul2025 20:28:51.506] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[01Jul2025 20:28:51.507] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[01Jul2025 20:28:51.507] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[01Jul2025 20:29:10.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has completed the challenge [Village Defender]
+[01Jul2025 20:29:21.556] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[01Jul2025 20:29:21.557] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[01Jul2025 20:29:21.557] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[01Jul2025 20:29:51.606] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[01Jul2025 20:29:51.606] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[01Jul2025 20:29:51.607] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[01Jul2025 20:30:04.727] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jul2025 20:30:04.750] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jul2025 20:30:21.656] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[01Jul2025 20:30:21.656] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[01Jul2025 20:30:21.656] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
