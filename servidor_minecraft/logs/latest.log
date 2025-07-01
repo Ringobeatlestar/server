@@ -1930,3 +1930,18 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [01Jul2025 09:30:28.062] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 26.667198181152344) to VERY_LOW (avg. 13.192466735839844)
 [01Jul2025 09:40:11.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Vindicator
 [01Jul2025 09:40:11.591] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[01Jul2025 09:42:32.225] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PokemonEntity['La Ramona'/148853, l='ServerLevel[world]', x=-1890.67, y=70.00, z=264.83] died: La Ramona was slain by Ravager
+[01Jul2025 09:42:35.620] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PokemonEntity['Paco Pepe'/148773, l='ServerLevel[world]', x=-1891.91, y=70.00, z=263.30] died: Paco Pepe was slain by Ravager
+[01Jul2025 09:43:23.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Ravager
+[01Jul2025 09:43:23.701] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[01Jul2025 09:44:11.083] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[01Jul2025 09:44:58.019] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PokemonEntity['Paco Pepe'/155024, l='ServerLevel[world]', x=-1873.33, y=69.09, z=205.37] died: Paco Pepe was chopped to bits by Skirmisher
+[01Jul2025 09:45:57.327] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PokemonEntity['La Ramona'/156673, l='ServerLevel[world]', x=-1869.29, y=70.00, z=240.56] died: La Ramona was shot by Pillager
+[01Jul2025 09:46:15.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was blown up by Creeper
+[01Jul2025 09:46:16.013] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[01Jul2025 09:47:52.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was sniped by Archer
+[01Jul2025 09:47:53.002] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[01Jul2025 09:47:53.042] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ansoooooo moved wrongly!
+[01Jul2025 09:48:52.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Vindicator
+[01Jul2025 09:48:52.250] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[01Jul2025 09:50:40.736] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
