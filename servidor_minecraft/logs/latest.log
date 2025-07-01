@@ -1910,3 +1910,5 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [01Jul2025 14:22:35.300] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from LOW (avg. 30.221086309999997) to NORMAL (avg. 36.27544494)
 [01Jul2025 14:22:49.000] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 36.09370040893555) to VERY_LOW (avg. 18.535785675048828)
 [01Jul2025 14:23:06.952] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 4.886 ms. 5714/5767 recipes are parallelized.
+[01Jul2025 14:28:34.863] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 4e4a1daa-b16e-4e28-b455-75e03b809405
+[01Jul2025 14:28:34.864] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 4e4a1daa-b16e-4e28-b455-75e03b809405
