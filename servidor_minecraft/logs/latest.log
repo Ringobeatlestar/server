@@ -1928,3 +1928,5 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [01Jul2025 09:28:01.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> negrata
 [01Jul2025 09:30:20.590] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 11.416037559509277) to LOW (avg. 26.667198181152344)
 [01Jul2025 09:30:28.062] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 26.667198181152344) to VERY_LOW (avg. 13.192466735839844)
+[01Jul2025 09:40:11.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Vindicator
+[01Jul2025 09:40:11.591] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
