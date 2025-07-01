@@ -1984,3 +1984,6 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [01Jul2025 19:00:27.806] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 29.125717163085938) to VERY_LOW (avg. 11.621036529541016)
 [01Jul2025 19:00:50.325] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 8.89482307434082) to LOW (avg. 22.76141357421875)
 [01Jul2025 19:00:57.806] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.76141357421875) to VERY_LOW (avg. 12.6527099609375)
+[01Jul2025 19:35:25.211] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'legendary_monsters:lava_eater_spawn' in chunk [-12, 1], discarding
+[01Jul2025 19:35:25.216] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'legendary_monsters:lava_eater_spawn' in chunk [-12, -1], discarding
+[01Jul2025 19:35:25.218] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'legendary_monsters:lava_eater_spawn' in chunk [-12, 0], discarding
