@@ -2110,3 +2110,33 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [01Jul2025 20:40:39.243] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/999, l='ServerLevel[world]', x=-1910.50, y=68.75, z=205.50, removed=DISCARDED]
 [01Jul2025 20:40:39.243] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/1003, l='ServerLevel[world]', x=-1910.50, y=68.75, z=205.50, removed=DISCARDED]
 [01Jul2025 20:40:39.243] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/1000, l='ServerLevel[world]', x=-1910.50, y=68.75, z=205.50, removed=DISCARDED]
+[01Jul2025 20:40:51.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Vindicator
+[01Jul2025 20:40:51.635] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[01Jul2025 20:40:52.684] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/1002, l='ServerLevel[world]', x=-1910.50, y=68.75, z=205.50, removed=DISCARDED]
+[01Jul2025 20:40:52.684] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/33720, l='ServerLevel[world]', x=-1910.50, y=68.75, z=205.50, removed=DISCARDED]
+[01Jul2025 20:40:52.684] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/999, l='ServerLevel[world]', x=-1910.50, y=68.75, z=205.50, removed=DISCARDED]
+[01Jul2025 20:40:52.684] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/1003, l='ServerLevel[world]', x=-1910.50, y=68.75, z=205.50, removed=DISCARDED]
+[01Jul2025 20:40:52.684] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/1000, l='ServerLevel[world]', x=-1910.50, y=68.75, z=205.50, removed=DISCARDED]
+[01Jul2025 20:41:07.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was killed by Evoker using magic
+[01Jul2025 20:41:07.486] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[01Jul2025 20:41:08.664] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/1002, l='ServerLevel[world]', x=-1910.50, y=68.75, z=205.50, removed=DISCARDED]
+[01Jul2025 20:41:08.664] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/33720, l='ServerLevel[world]', x=-1910.50, y=68.75, z=205.50, removed=DISCARDED]
+[01Jul2025 20:41:08.664] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/999, l='ServerLevel[world]', x=-1910.50, y=68.75, z=205.50, removed=DISCARDED]
+[01Jul2025 20:41:08.664] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/1003, l='ServerLevel[world]', x=-1910.50, y=68.75, z=205.50, removed=DISCARDED]
+[01Jul2025 20:41:08.665] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/1000, l='ServerLevel[world]', x=-1910.50, y=68.75, z=205.50, removed=DISCARDED]
+[01Jul2025 20:43:50.573] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PokemonEntity['JetPrivado'/43303, l='ServerLevel[world]', x=-1899.68, y=78.88, z=272.88] died: 1$s has perished from holy damage
+[01Jul2025 20:45:16.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has reached the goal [Postmortal]
+[01Jul2025 20:45:16.116] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[01Jul2025 20:45:20.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Vindicator
+[01Jul2025 20:45:20.184] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[01Jul2025 20:45:21.232] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/1002, l='ServerLevel[world]', x=-1910.50, y=68.75, z=205.50, removed=DISCARDED]
+[01Jul2025 20:45:21.233] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/33720, l='ServerLevel[world]', x=-1910.50, y=68.75, z=205.50, removed=DISCARDED]
+[01Jul2025 20:45:21.233] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/999, l='ServerLevel[world]', x=-1910.50, y=68.75, z=205.50, removed=DISCARDED]
+[01Jul2025 20:45:21.233] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/1003, l='ServerLevel[world]', x=-1910.50, y=68.75, z=205.50, removed=DISCARDED]
+[01Jul2025 20:45:21.233] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/1000, l='ServerLevel[world]', x=-1910.50, y=68.75, z=205.50, removed=DISCARDED]
+[01Jul2025 20:46:43.313] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/1002, l='ServerLevel[world]', x=-1910.50, y=68.75, z=205.50, removed=DISCARDED]
+[01Jul2025 20:46:43.313] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/33720, l='ServerLevel[world]', x=-1910.50, y=68.75, z=205.50, removed=DISCARDED]
+[01Jul2025 20:46:43.313] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/999, l='ServerLevel[world]', x=-1910.50, y=68.75, z=205.50, removed=DISCARDED]
+[01Jul2025 20:46:43.313] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/1003, l='ServerLevel[world]', x=-1910.50, y=68.75, z=205.50, removed=DISCARDED]
+[01Jul2025 20:46:43.314] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/1000, l='ServerLevel[world]', x=-1910.50, y=68.75, z=205.50, removed=DISCARDED]
+[01Jul2025 20:47:13.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has completed the challenge [Hero of the Village]
