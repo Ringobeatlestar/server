@@ -2094,9 +2094,9 @@
     "totalCaptureCount": 197,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 71,
-    "totalBattleVictoryCount": 382,
+    "totalBattleVictoryCount": 383,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 381,
+    "totalPvWBattleVictoryCount": 382,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 11,
     "totalTradedCount": 22,
@@ -2182,7 +2182,8 @@
       "cobblemon:dewpider": 2,
       "cobblemon:basculin": 1,
       "cobblemon:golisopod": 1,
-      "cobblemon:xerneas": 1
+      "cobblemon:xerneas": 1,
+      "cobblemon:wigglytuff": 1
     },
     "aspectsCollected": {
       "cobblemon:vivillon": [
