@@ -2056,6 +2056,14 @@
             "discoveredTimestamp": 1751396450271,
             "caughtTimestamp": 1751396450271
           }
+        },
+        "chandelure": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1751397259293,
+            "caughtTimestamp": 1751397259293
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -2085,10 +2093,10 @@
   "advancementData": {
     "totalCaptureCount": 195,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 69,
-    "totalBattleVictoryCount": 368,
+    "totalEvolvedCount": 71,
+    "totalBattleVictoryCount": 370,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 367,
+    "totalPvWBattleVictoryCount": 369,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 11,
     "totalTradedCount": 22,
@@ -2145,7 +2153,7 @@
       "cobblemon:vivillon": 9,
       "cobblemon:gengar": 1,
       "cobblemon:butterfree": 4,
-      "cobblemon:kingler": 5,
+      "cobblemon:kingler": 6,
       "cobblemon:cutiefly": 2,
       "cobblemon:krabby": 24,
       "cobblemon:ribombee": 1,
@@ -2169,7 +2177,7 @@
       "cobblemon:cacnea": 4,
       "cobblemon:maractus": 2,
       "cobblemon:phione": 1,
-      "cobblemon:pelipper": 4,
+      "cobblemon:pelipper": 5,
       "cobblemon:wimpod": 3,
       "cobblemon:dewpider": 2,
       "cobblemon:basculin": 1

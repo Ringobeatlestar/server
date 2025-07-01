@@ -2986,6 +2986,14 @@
         "discoveredTimestamp": 1751139154095,
         "caughtTimestamp": 1751139154095
       }
+    },
+    "chandelure": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1751397259294,
+        "caughtTimestamp": 1751397259294
+      }
     }
   }
 }
