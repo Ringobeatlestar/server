@@ -1944,3 +1944,7 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [01Jul2025 17:44:42.806] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.114696502685547) to VERY_LOW (avg. 8.960927963256836)
 [01Jul2025 17:45:04.067] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 3.875 ms. 5432/5478 recipes are parallelized.
 [01Jul2025 18:02:37.575] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 198.0 μs. 284/284 recipes are parallelized.
+[01Jul2025 18:16:09.523] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/1002, l='ServerLevel[world]', x=-1910.50, y=68.75, z=205.50, removed=DISCARDED]
+[01Jul2025 18:16:09.523] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/999, l='ServerLevel[world]', x=-1910.50, y=68.75, z=205.50, removed=DISCARDED]
+[01Jul2025 18:16:09.523] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/1003, l='ServerLevel[world]', x=-1910.50, y=68.75, z=205.50, removed=DISCARDED]
+[01Jul2025 18:16:09.524] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/1000, l='ServerLevel[world]', x=-1910.50, y=68.75, z=205.50, removed=DISCARDED]
