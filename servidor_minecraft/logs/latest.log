@@ -1945,3 +1945,11 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [01Jul2025 09:48:52.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Vindicator
 [01Jul2025 09:48:52.250] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
 [01Jul2025 09:50:40.736] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[01Jul2025 09:52:24.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was chopped to bits by Skirmisher
+[01Jul2025 09:52:24.646] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[01Jul2025 09:53:58.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Vex
+[01Jul2025 09:53:58.392] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[01Jul2025 09:54:47.821] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PokemonEntity['Paco Pepe'/178409, l='ServerLevel[world]', x=-1876.81, y=70.00, z=262.72] died: Paco Pepe was slain by Vindicator
+[01Jul2025 09:58:30.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Ravager
+[01Jul2025 09:58:30.747] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[01Jul2025 09:58:57.669] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PokemonEntity['La Ramona'/188972, l='ServerLevel[world]', x=-1894.19, y=70.00, z=251.60] died: La Ramona was struck down by Legioner
