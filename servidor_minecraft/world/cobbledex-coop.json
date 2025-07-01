@@ -2970,6 +2970,22 @@
         "discoveredTimestamp": 1751132338798,
         "caughtTimestamp": 1751132338798
       }
+    },
+    "pikachu": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1751139057492,
+        "caughtTimestamp": 1751139057492
+      }
+    },
+    "raichu": {
+      "alola": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1751139154095,
+        "caughtTimestamp": 1751139154095
+      }
     }
   }
 }

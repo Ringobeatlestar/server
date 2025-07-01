@@ -2024,6 +2024,22 @@
             "discoveredTimestamp": 1751132338797,
             "caughtTimestamp": 1751132338797
           }
+        },
+        "pikachu": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1751139057489,
+            "caughtTimestamp": 1751139057489
+          }
+        },
+        "raichu": {
+          "alola": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1751139154094,
+            "caughtTimestamp": 1751139154094
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -2053,10 +2069,10 @@
   "advancementData": {
     "totalCaptureCount": 193,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 67,
-    "totalBattleVictoryCount": 301,
+    "totalEvolvedCount": 69,
+    "totalBattleVictoryCount": 302,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 300,
+    "totalPvWBattleVictoryCount": 301,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 11,
     "totalTradedCount": 22,
@@ -2129,7 +2145,7 @@
       "cobblemon:eiscue": 1,
       "cobblemon:meloetta": 1,
       "cobblemon:rattata": 1,
-      "cobblemon:ekans": 3,
+      "cobblemon:ekans": 4,
       "cobblemon:doublade": 1,
       "cobblemon:fomantis": 1,
       "cobblemon:golem": 1,
