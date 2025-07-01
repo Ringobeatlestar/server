@@ -1909,3 +1909,5 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [01Jul2025 08:13:07.139] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from VERY_LOW (avg. 8.5612884) to LOW (avg. 31.49602495)
 [01Jul2025 08:13:13.062] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 35.54425811767578) to VERY_LOW (avg. 17.589126586914062)
 [01Jul2025 08:14:31.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> a
+[01Jul2025 09:08:34.319] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Ansoooooo is e02de1a8-2fb6-49f1-b9dc-8ef7357f32d3
+[01Jul2025 09:08:34.622] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@60e973d5[id=e02de1a8-2fb6-49f1-b9dc-8ef7357f32d3,name=Ansoooooo,properties={textures=[com.mojang.authlib.properties.Property@70d0929c]},legacy=false] (/127.212.9.25:41347) lost connection: Disconnected
