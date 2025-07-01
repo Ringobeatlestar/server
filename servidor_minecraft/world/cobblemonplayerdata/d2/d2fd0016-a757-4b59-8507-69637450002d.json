@@ -2040,6 +2040,14 @@
             "discoveredTimestamp": 1751139154094,
             "caughtTimestamp": 1751139154094
           }
+        },
+        "watchog": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1751396289323,
+            "caughtTimestamp": 1751396289323
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -2067,12 +2075,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 193,
+    "totalCaptureCount": 194,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 69,
-    "totalBattleVictoryCount": 349,
+    "totalBattleVictoryCount": 364,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 348,
+    "totalPvWBattleVictoryCount": 363,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 11,
     "totalTradedCount": 22,
@@ -2080,7 +2088,7 @@
       "grass": 19,
       "psychic": 11,
       "water": 14,
-      "normal": 38,
+      "normal": 39,
       "flying": 33,
       "ground": 13,
       "fire": 25,
@@ -2123,20 +2131,20 @@
       "cobblemon:deerling": 1,
       "cobblemon:elekid": 1,
       "cobblemon:swellow": 1,
-      "cobblemon:crabrawler": 18,
+      "cobblemon:crabrawler": 22,
       "cobblemon:lilligant": 2,
       "cobblemon:petilil": 2,
       "cobblemon:vivillon": 9,
       "cobblemon:gengar": 1,
       "cobblemon:butterfree": 4,
-      "cobblemon:kingler": 4,
+      "cobblemon:kingler": 5,
       "cobblemon:cutiefly": 2,
-      "cobblemon:krabby": 19,
+      "cobblemon:krabby": 24,
       "cobblemon:ribombee": 1,
-      "cobblemon:wingull": 6,
+      "cobblemon:wingull": 7,
       "cobblemon:ralts": 1,
       "cobblemon:gimmighoul": 8,
-      "cobblemon:farfetchd": 2,
+      "cobblemon:farfetchd": 3,
       "cobblemon:beedrill": 1,
       "cobblemon:voltorb": 1,
       "cobblemon:riolu": 1,
@@ -2154,8 +2162,8 @@
       "cobblemon:maractus": 2,
       "cobblemon:phione": 1,
       "cobblemon:pelipper": 3,
-      "cobblemon:wimpod": 2,
-      "cobblemon:dewpider": 1
+      "cobblemon:wimpod": 3,
+      "cobblemon:dewpider": 2
     },
     "aspectsCollected": {
       "cobblemon:vivillon": [
