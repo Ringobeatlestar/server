@@ -1897,3 +1897,16 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [01Jul2025 14:04:57.755] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for ad_astra:glacio_orbit changed from NORMAL (avg. 45.0) to VERY_LOW (avg. 0.04893478)
 [01Jul2025 14:04:57.755] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for ad_astra:mercury_orbit changed from NORMAL (avg. 45.0) to VERY_LOW (avg. 0.04528181)
 [01Jul2025 14:04:57.755] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for ad_astra:mercury changed from NORMAL (avg. 45.0) to VERY_LOW (avg. 0.051986050000000006)
+[01Jul2025 14:22:21.726] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player AgentePerrote is d2fd0016-a757-4b59-8507-69637450002d
+[01Jul2025 14:22:24.003] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[01Jul2025 14:22:24.135] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AgentePerrote[/127.182.232.120:35383] logged in with entity id 1154 at (-1897.37737515314, 68.9375, 205.66379950008533)
+[01Jul2025 14:22:24.423] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player AgentePerrote
+[01Jul2025 14:22:24.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote joined the game
+[01Jul2025 14:22:24.559] [Server thread/WARN] [solapplepie/]: Invalid attribute specified in config: generic.speed
+[01Jul2025 14:22:25.771] [Server thread/INFO] [fastsuite/]: Constructed recipe list for create:milling in 368.5 μs. 0/100 recipes are parallelized.
+[01Jul2025 14:22:27.412] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 1.8249127864837646) to HIGH (avg. 53.22734832763672)
+[01Jul2025 14:22:28.702] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from VERY_LOW (avg. 10.21981091) to LOW (avg. 30.221086309999997)
+[01Jul2025 14:22:34.246] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 53.22734832763672) to LOW (avg. 36.09370040893555)
+[01Jul2025 14:22:35.300] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from LOW (avg. 30.221086309999997) to NORMAL (avg. 36.27544494)
+[01Jul2025 14:22:49.000] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 36.09370040893555) to VERY_LOW (avg. 18.535785675048828)
+[01Jul2025 14:23:06.952] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 4.886 ms. 5714/5767 recipes are parallelized.
