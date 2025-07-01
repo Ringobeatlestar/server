@@ -1943,3 +1943,4 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [01Jul2025 17:44:27.806] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 12.047590255737305) to LOW (avg. 21.114696502685547)
 [01Jul2025 17:44:42.806] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.114696502685547) to VERY_LOW (avg. 8.960927963256836)
 [01Jul2025 17:45:04.067] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 3.875 ms. 5432/5478 recipes are parallelized.
+[01Jul2025 18:02:37.575] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 198.0 μs. 284/284 recipes are parallelized.
