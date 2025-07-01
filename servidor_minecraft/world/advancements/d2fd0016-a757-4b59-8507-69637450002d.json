@@ -35,24 +35,6 @@
     },
     "done": true
   },
-  "legendary_monsters:legendary_monsters_root": {
-    "criteria": {
-      "custom_test_name": "2025-06-15 09:44:50 +0000"
-    },
-    "done": true
-  },
-  "the_deep_void:the_deep_void_advancement": {
-    "criteria": {
-      "the_deep_void_advancement_0": "2025-06-15 09:44:50 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:end_root": {
-    "criteria": {
-      "custom_test_name": "2025-06-15 09:44:50 +0000"
-    },
-    "done": true
-  },
   "lootr:root": {
     "criteria": {
       "always_true": "2025-06-15 09:44:50 +0000"
@@ -60,12 +42,6 @@
     "done": true
   },
   "cataclysm:root": {
-    "criteria": {
-      "custom_test_name": "2025-06-15 09:44:50 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:nether_root": {
     "criteria": {
       "custom_test_name": "2025-06-15 09:44:50 +0000"
     },
@@ -270,12 +246,6 @@
     },
     "done": true
   },
-  "vanillacookbook:recipes/poisonous_pie": {
-    "criteria": {
-      "has_rotten_flesh": "2025-06-15 09:51:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-06-15 09:51:32 +0000"
@@ -307,12 +277,6 @@
     },
     "done": false
   },
-  "vanillacookbook:recipes/seeds": {
-    "criteria": {
-      "has_seeds": "2025-06-15 09:53:40 +0000"
-    },
-    "done": true
-  },
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-06-15 11:14:20 +0000",
@@ -324,18 +288,6 @@
   "lootr:1chest": {
     "criteria": {
       "opened_chest": "2025-06-15 09:55:32 +0000"
-    },
-    "done": true
-  },
-  "vanillacookbook:recipes/bamboo": {
-    "criteria": {
-      "has_bamboo": "2025-06-15 09:55:33 +0000"
-    },
-    "done": true
-  },
-  "vanillacookbook:recipes/glowberry": {
-    "criteria": {
-      "has_glowberry": "2025-06-15 09:55:39 +0000"
     },
     "done": true
   },
@@ -402,12 +354,6 @@
     },
     "done": true
   },
-  "vanillacookbook:recipes/gunpowder": {
-    "criteria": {
-      "has_gunpowder": "2025-06-15 09:57:03 +0000"
-    },
-    "done": true
-  },
   "tombstone:recipes/from_grave_dust": {
     "criteria": {
       "has_ingredient": "2025-06-15 09:57:03 +0000"
@@ -454,12 +400,6 @@
     },
     "done": true
   },
-  "vanillacookbook:recipes/mushrooms": {
-    "criteria": {
-      "has_mushroom": "2025-06-15 09:57:39 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/ambush": {
     "criteria": {
       "coded_trigger": "2025-06-15 09:58:58 +0000"
@@ -492,12 +432,6 @@
       "mansion": "2025-06-25 21:45:23 +0000"
     },
     "done": false
-  },
-  "vanillacookbook:recipes/apple": {
-    "criteria": {
-      "has_apple": "2025-06-15 10:00:11 +0000"
-    },
-    "done": true
   },
   "mca:recipes/misc/needle_and_thread": {
     "criteria": {
@@ -575,33 +509,9 @@
     },
     "done": true
   },
-  "vanillacookbook:recipes/magma_cream": {
-    "criteria": {
-      "has_magma_cream": "2025-06-15 10:33:11 +0000"
-    },
-    "done": true
-  },
-  "vanillacookbook:recipes/bone": {
-    "criteria": {
-      "has_bone": "2025-06-15 10:36:30 +0000"
-    },
-    "done": true
-  },
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2025-06-15 10:46:21 +0000"
-    },
-    "done": true
-  },
-  "vanillacookbook:recipes/raw_meat": {
-    "criteria": {
-      "has_raw_meats": "2025-06-15 10:48:24 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:locate_ancient_stronghold": {
-    "criteria": {
-      "ancient_stronghold": "2025-06-15 10:53:10 +0000"
     },
     "done": true
   },
@@ -617,12 +527,6 @@
     },
     "done": true
   },
-  "legendary_monsters:defeat_spiky_bug": {
-    "criteria": {
-      "spiky_bug": "2025-06-15 11:13:17 +0000"
-    },
-    "done": true
-  },
   "immersive_paintings:misc/graffiti": {
     "criteria": {
       "has_item": "2025-06-15 11:13:40 +0000"
@@ -632,12 +536,6 @@
   "lootr:1barrel": {
     "criteria": {
       "opened_barrel": "2025-06-15 11:14:20 +0000"
-    },
-    "done": true
-  },
-  "vanillacookbook:recipes/bread": {
-    "criteria": {
-      "has_bread": "2025-06-15 11:14:38 +0000"
     },
     "done": true
   },
@@ -652,16 +550,6 @@
       "check_inv": "2025-06-15 11:15:04 +0000"
     },
     "done": true
-  },
-  "vanillacookbook:more_balanced_diet": {
-    "criteria": {
-      "miners_salad": "2025-06-15 11:15:40 +0000",
-      "berry_pie": "2025-06-21 09:11:43 +0000",
-      "apple_pie": "2025-06-20 14:51:11 +0000",
-      "meaty_stew": "2025-06-20 15:13:21 +0000",
-      "netherite_apple": "2025-06-21 14:47:00 +0000"
-    },
-    "done": false
   },
   "tombstone:adventure/ashes_and_bones": {
     "criteria": {
@@ -711,27 +599,9 @@
     },
     "done": true
   },
-  "vanillacookbook:recipes/wheat": {
-    "criteria": {
-      "has_wheat": "2025-06-15 11:33:08 +0000"
-    },
-    "done": true
-  },
   "irons_spellbooks:irons_spellbooks/ink_root": {
     "criteria": {
       "requirement": "2025-06-15 11:38:32 +0000"
-    },
-    "done": true
-  },
-  "vanillacookbook:recipes/porkchop": {
-    "criteria": {
-      "has_porkchop": "2025-06-15 11:43:57 +0000"
-    },
-    "done": true
-  },
-  "vanillacookbook:recipes/carrot": {
-    "criteria": {
-      "has_carrot": "2025-06-15 11:51:37 +0000"
     },
     "done": true
   },
@@ -762,12 +632,6 @@
   "mca:recipes/misc/blueprint": {
     "criteria": {
       "has_item": "2025-06-15 13:42:29 +0000"
-    },
-    "done": true
-  },
-  "vanillacookbook:recipes/paper": {
-    "criteria": {
-      "has_paper": "2025-06-15 13:42:29 +0000"
     },
     "done": true
   },
@@ -802,18 +666,6 @@
     },
     "done": true
   },
-  "vanillacookbook:recipes/honey": {
-    "criteria": {
-      "has_honey": "2025-06-15 13:54:01 +0000"
-    },
-    "done": true
-  },
-  "vanillacookbook:recipes/glass_bottle": {
-    "criteria": {
-      "has_bottle": "2025-06-15 13:54:31 +0000"
-    },
-    "done": true
-  },
   "cobblemon:obtain_mint": {
     "criteria": {
       "check_inv": "2025-06-15 14:03:35 +0000"
@@ -828,12 +680,6 @@
       "obtain_pink_mint_leaf": "2025-06-15 18:15:39 +0000",
       "obtain_red_mint_leaf": "2025-06-21 09:17:13 +0000",
       "obtain_blue_mint_leaf": "2025-06-15 14:03:35 +0000"
-    },
-    "done": true
-  },
-  "vanillacookbook:recipes/slime": {
-    "criteria": {
-      "has_slime_ball": "2025-06-15 14:12:09 +0000"
     },
     "done": true
   },
@@ -865,12 +711,6 @@
     },
     "done": false
   },
-  "vanillacookbook:recipes/cooked_chicken": {
-    "criteria": {
-      "has_cooked_chicken": "2025-06-15 17:32:34 +0000"
-    },
-    "done": true
-  },
   "irons_spellbooks:irons_spellbooks/spell_book_iron": {
     "criteria": {
       "requirement": "2025-06-15 17:52:06 +0000"
@@ -880,12 +720,6 @@
   "irons_spellbooks:irons_spellbooks/spell_book_equip": {
     "criteria": {
       "requirement": "2025-06-15 17:52:15 +0000"
-    },
-    "done": true
-  },
-  "vanillacookbook:recipes/kelp": {
-    "criteria": {
-      "has_kelp": "2025-06-15 18:07:15 +0000"
     },
     "done": true
   },
@@ -913,18 +747,6 @@
     },
     "done": true
   },
-  "vanillacookbook:recipes/chicken": {
-    "criteria": {
-      "has_chicken": "2025-06-16 09:12:12 +0000"
-    },
-    "done": true
-  },
-  "vanillacookbook:recipes/potato": {
-    "criteria": {
-      "has_potato": "2025-06-16 09:25:25 +0000"
-    },
-    "done": true
-  },
   "alexscaves:alexscaves/cave_book": {
     "criteria": {
       "cave_book": "2025-06-16 09:28:37 +0000"
@@ -940,18 +762,6 @@
   "dungeons_arise:find_fishing_hut": {
     "criteria": {
       "location0": "2025-06-16 09:49:34 +0000"
-    },
-    "done": true
-  },
-  "vanillacookbook:recipes/flowers": {
-    "criteria": {
-      "has_dandelion": "2025-06-16 10:10:32 +0000"
-    },
-    "done": true
-  },
-  "vanillacookbook:recipes/poppy": {
-    "criteria": {
-      "has_poppy": "2025-06-16 10:10:34 +0000"
     },
     "done": true
   },
@@ -994,12 +804,6 @@
     },
     "done": true
   },
-  "vanillacookbook:recipes/raw_fish": {
-    "criteria": {
-      "has_raw_fish": "2025-06-16 10:38:00 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/create_voodoo_poppet": {
     "criteria": {
       "has_voodoo_poppet": "2025-06-16 10:38:22 +0000"
@@ -1009,12 +813,6 @@
   "tombstone:adventure/enchant_voodoo_poppet": {
     "criteria": {
       "has_enchanted_voodoo_poppet": "2025-06-16 10:38:22 +0000"
-    },
-    "done": true
-  },
-  "vanillacookbook:recipes/cooked_fish": {
-    "criteria": {
-      "has_cooked_fish": "2025-06-16 10:44:56 +0000"
     },
     "done": true
   },
@@ -1065,12 +863,6 @@
   "tombstone:adventure/bone_crusher": {
     "criteria": {
       "coded_trigger": "2025-06-16 18:02:42 +0000"
-    },
-    "done": true
-  },
-  "vanillacookbook:recipes/baked_potato": {
-    "criteria": {
-      "has_baked_potato": "2025-06-16 18:14:29 +0000"
     },
     "done": true
   },
@@ -1404,12 +1196,6 @@
     },
     "done": true
   },
-  "vanillacookbook:recipes/ink": {
-    "criteria": {
-      "has_ink": "2025-06-20 10:43:40 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/fortuitous_militia": {
     "criteria": {
       "coded_trigger": "2025-06-20 10:51:48 +0000"
@@ -1458,12 +1244,6 @@
     },
     "done": true
   },
-  "vanillacookbook:recipes/egg": {
-    "criteria": {
-      "has_egg": "2025-06-20 14:52:18 +0000"
-    },
-    "done": true
-  },
   "quark:get_all_blossom_saplings": {
     "criteria": {
       "yellow": "2025-06-20 15:00:41 +0000"
@@ -1503,12 +1283,6 @@
   "minecraft:nether/loot_bastion": {
     "criteria": {
       "loot_bastion_other": "2025-06-21 13:24:58 +0000"
-    },
-    "done": true
-  },
-  "vanillacookbook:recipes/nether_wart": {
-    "criteria": {
-      "has_nether_warts": "2025-06-21 13:26:30 +0000"
     },
     "done": true
   },
@@ -1602,21 +1376,9 @@
     },
     "done": true
   },
-  "vanillacookbook:recipes/netherite": {
-    "criteria": {
-      "has_netherite": "2025-06-21 14:17:00 +0000"
-    },
-    "done": true
-  },
   "incendium:ash_barrens/root": {
     "criteria": {
       "requirement": "2025-06-21 14:25:31 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:locate_soul_fortress_remains": {
-    "criteria": {
-      "soul_fortress": "2025-06-21 14:29:57 +0000"
     },
     "done": true
   },
@@ -1653,12 +1415,6 @@
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2025-06-21 14:54:58 +0000"
-    },
-    "done": true
-  },
-  "vanillacookbook:recipes/hot_spices": {
-    "criteria": {
-      "has_torchflower_seeds": "2025-06-21 16:35:43 +0000"
     },
     "done": true
   },
@@ -1765,12 +1521,6 @@
     },
     "done": true
   },
-  "vanillacookbook:recipes/honeycomb": {
-    "criteria": {
-      "has_honeycomb": "2025-06-22 11:57:15 +0000"
-    },
-    "done": true
-  },
   "megamons:gen2_megastone": {
     "criteria": {
       "has_any_gen2_stone": "2025-06-22 11:58:21 +0000"
@@ -1819,12 +1569,6 @@
     },
     "done": true
   },
-  "vanillacookbook:recipes/cactus": {
-    "criteria": {
-      "has_cactus": "2025-06-22 16:25:23 +0000"
-    },
-    "done": true
-  },
   "alexsmobs:alexsmobs/root": {
     "criteria": {
       "useitem": "2025-06-22 16:26:04 +0000"
@@ -1852,12 +1596,6 @@
   "irons_spellbooks:irons_spellbooks/staff_artificer": {
     "criteria": {
       "requirement": "2025-06-23 10:25:10 +0000"
-    },
-    "done": true
-  },
-  "vanillacookbook:recipes/moss": {
-    "criteria": {
-      "has_moss": "2025-06-23 10:52:24 +0000"
     },
     "done": true
   },
@@ -1921,18 +1659,6 @@
     },
     "done": true
   },
-  "legendary_monsters:locate_frostbitten_temple": {
-    "criteria": {
-      "frostbitten_temple": "2025-06-23 11:59:01 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:defeat_frostbitten_golem": {
-    "criteria": {
-      "frostbitten_golem": "2025-06-23 11:59:43 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/mastery_1": {
     "criteria": {
       "coded_trigger": "2025-06-23 12:47:19 +0000"
@@ -1948,12 +1674,6 @@
   "mowziesmobs:kill_ferrous_wroughtnaut": {
     "criteria": {
       "ferrous_wroughtnaut": "2025-06-23 13:34:56 +0000"
-    },
-    "done": true
-  },
-  "vanillacookbook:recipes/glow_ink": {
-    "criteria": {
-      "has_glow_ink": "2025-06-23 13:35:40 +0000"
     },
     "done": true
   },
@@ -2002,12 +1722,6 @@
   "irons_spellbooks:irons_spellbooks/make_inscription_table": {
     "criteria": {
       "inscription_table": "2025-06-23 16:11:36 +0000"
-    },
-    "done": true
-  },
-  "vanillacookbook:recipes/cocoa_beans": {
-    "criteria": {
-      "has_cocoa_beans": "2025-06-25 10:03:34 +0000"
     },
     "done": true
   },
@@ -2122,12 +1836,6 @@
   "alexscaves:alexscaves/tame_candicorn": {
     "criteria": {
       "killed": "2025-06-25 11:13:46 +0000"
-    },
-    "done": true
-  },
-  "vanillacookbook:recipes/sugar": {
-    "criteria": {
-      "has_sugar": "2025-06-25 11:16:06 +0000"
     },
     "done": true
   },
@@ -2259,75 +1967,81 @@
     },
     "done": true
   },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-07-01 17:03:01 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-01 14:29:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-01 14:29:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-01 14:29:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-01 14:29:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-01 14:29:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-01 14:29:24 +0000"
+      "log_spam_fixer": "2025-07-01 17:44:17 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-01 14:29:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-01 14:29:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-01 14:29:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-01 14:29:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-01 14:29:24 +0000"
+      "log_spam_fixer": "2025-07-01 17:44:17 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-07-01 14:29:24 +0000"
+      "log_spam_fixer": "2025-07-01 17:44:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-01 17:44:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-01 17:44:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-01 17:44:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-01 17:44:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-01 17:44:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-01 17:44:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-01 17:44:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-01 17:44:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-01 17:44:17 +0000"
     },
     "done": false
   },
