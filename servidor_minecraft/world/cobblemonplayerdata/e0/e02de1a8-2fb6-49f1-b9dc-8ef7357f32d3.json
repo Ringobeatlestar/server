@@ -2190,6 +2190,14 @@
             "discoveredTimestamp": 1751023874786,
             "caughtTimestamp": 1751023874786
           }
+        },
+        "phione": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1751447652610,
+            "caughtTimestamp": 1751447652610
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -2218,12 +2226,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 153,
+    "totalCaptureCount": 155,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 109,
-    "totalBattleVictoryCount": 314,
+    "totalBattleVictoryCount": 319,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 314,
+    "totalPvWBattleVictoryCount": 319,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 2,
     "totalTradedCount": 22,
@@ -2231,7 +2239,7 @@
       "rock": 7,
       "bug": 18,
       "poison": 13,
-      "water": 27,
+      "water": 29,
       "ghost": 9,
       "fire": 7,
       "ice": 2,
@@ -2285,7 +2293,7 @@
       "cobblemon:basculin": 2,
       "cobblemon:ditto": 1,
       "cobblemon:carvanha": 1,
-      "cobblemon:cacturne": 1,
+      "cobblemon:cacturne": 2,
       "cobblemon:maractus": 2,
       "cobblemon:sandslash": 1,
       "cobblemon:zorua": 1,
@@ -2319,7 +2327,9 @@
       "cobblemon:spinda": 1,
       "cobblemon:aipom": 1,
       "cobblemon:sneasel": 1,
-      "cobblemon:magby": 1
+      "cobblemon:magby": 1,
+      "cobblemon:slowking": 1,
+      "cobblemon:slowbro": 1
     },
     "aspectsCollected": {
       "cobblemon:vivillon": [
