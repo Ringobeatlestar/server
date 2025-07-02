@@ -35,24 +35,6 @@
     },
     "done": true
   },
-  "legendary_monsters:legendary_monsters_root": {
-    "criteria": {
-      "custom_test_name": "2025-06-15 09:44:56 +0000"
-    },
-    "done": true
-  },
-  "the_deep_void:the_deep_void_advancement": {
-    "criteria": {
-      "the_deep_void_advancement_0": "2025-06-15 09:44:56 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:end_root": {
-    "criteria": {
-      "custom_test_name": "2025-06-15 09:44:56 +0000"
-    },
-    "done": true
-  },
   "lootr:root": {
     "criteria": {
       "always_true": "2025-06-15 09:44:56 +0000"
@@ -60,12 +42,6 @@
     "done": true
   },
   "cataclysm:root": {
-    "criteria": {
-      "custom_test_name": "2025-06-15 09:44:56 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:nether_root": {
     "criteria": {
       "custom_test_name": "2025-06-15 09:44:56 +0000"
     },
@@ -221,12 +197,6 @@
     },
     "done": true
   },
-  "vanillacookbook:recipes/poisonous_pie": {
-    "criteria": {
-      "has_rotten_flesh": "2025-06-15 09:47:10 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/first_grave": {
     "criteria": {
       "coded_trigger": "2025-06-15 09:47:16 +0000"
@@ -236,18 +206,6 @@
   "tombstone:recipes/from_grave_key": {
     "criteria": {
       "has_ingredient": "2025-06-15 09:47:18 +0000"
-    },
-    "done": true
-  },
-  "vanillacookbook:recipes/apple": {
-    "criteria": {
-      "has_apple": "2025-06-15 09:47:24 +0000"
-    },
-    "done": true
-  },
-  "vanillacookbook:recipes/seeds": {
-    "criteria": {
-      "has_seeds": "2025-06-15 09:48:01 +0000"
     },
     "done": true
   },
@@ -268,12 +226,6 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-06-15 09:48:51 +0000"
-    },
-    "done": true
-  },
-  "vanillacookbook:recipes/mushrooms": {
-    "criteria": {
-      "has_mushroom": "2025-06-15 09:49:15 +0000"
     },
     "done": true
   },
@@ -597,24 +549,6 @@
     },
     "done": true
   },
-  "vanillacookbook:recipes/bone": {
-    "criteria": {
-      "has_bone": "2025-06-15 10:43:52 +0000"
-    },
-    "done": true
-  },
-  "vanillacookbook:recipes/chicken": {
-    "criteria": {
-      "has_chicken": "2025-06-15 10:44:08 +0000"
-    },
-    "done": true
-  },
-  "vanillacookbook:recipes/raw_meat": {
-    "criteria": {
-      "has_raw_meats": "2025-06-15 10:44:08 +0000"
-    },
-    "done": true
-  },
   "betterdungeons:all_dungeons": {
     "criteria": {
       "in_better_zombie_dungeon": "2025-06-25 10:58:31 +0000",
@@ -629,18 +563,6 @@
     },
     "done": true
   },
-  "legendary_monsters:locate_ancient_stronghold": {
-    "criteria": {
-      "ancient_stronghold": "2025-06-15 11:01:05 +0000"
-    },
-    "done": true
-  },
-  "vanillacookbook:recipes/gunpowder": {
-    "criteria": {
-      "has_gunpowder": "2025-06-15 11:02:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2025-06-15 11:02:59 +0000"
@@ -650,12 +572,6 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_leggings": "2025-06-15 11:03:00 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:defeat_spiky_bug": {
-    "criteria": {
-      "spiky_bug": "2025-06-15 11:04:21 +0000"
     },
     "done": true
   },
@@ -674,19 +590,6 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-06-15 11:07:28 +0000"
-    },
-    "done": true
-  },
-  "vanillacookbook:more_balanced_diet": {
-    "criteria": {
-      "miners_salad": "2025-06-15 11:07:34 +0000",
-      "apple_pie": "2025-06-20 08:49:16 +0000"
-    },
-    "done": false
-  },
-  "legendary_monsters:defeat_the_ancient_guardian": {
-    "criteria": {
-      "guardian": "2025-06-15 11:12:15 +0000"
     },
     "done": true
   },
@@ -732,45 +635,9 @@
     },
     "done": true
   },
-  "vanillacookbook:recipes/honeycomb": {
-    "criteria": {
-      "has_honeycomb": "2025-06-15 11:37:33 +0000"
-    },
-    "done": true
-  },
-  "vanillacookbook:recipes/porkchop": {
-    "criteria": {
-      "has_porkchop": "2025-06-15 11:39:38 +0000"
-    },
-    "done": true
-  },
-  "vanillacookbook:recipes/potato": {
-    "criteria": {
-      "has_potato": "2025-06-15 11:57:46 +0000"
-    },
-    "done": true
-  },
-  "vanillacookbook:recipes/berry": {
-    "criteria": {
-      "has_berry": "2025-06-15 11:58:25 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/misc/rose_gold_dust": {
     "criteria": {
       "has_item": "2025-06-15 12:02:18 +0000"
-    },
-    "done": true
-  },
-  "vanillacookbook:recipes/honey": {
-    "criteria": {
-      "has_honey": "2025-06-15 12:03:46 +0000"
-    },
-    "done": true
-  },
-  "vanillacookbook:recipes/glass_bottle": {
-    "criteria": {
-      "has_bottle": "2025-06-15 12:04:00 +0000"
     },
     "done": true
   },
@@ -804,12 +671,6 @@
     },
     "done": true
   },
-  "vanillacookbook:recipes/paper": {
-    "criteria": {
-      "has_paper": "2025-06-16 08:44:54 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/misc/books": {
     "criteria": {
       "has_item": "2025-06-16 08:44:54 +0000"
@@ -828,18 +689,6 @@
     },
     "done": true
   },
-  "vanillacookbook:recipes/kelp": {
-    "criteria": {
-      "has_kelp": "2025-06-16 09:20:20 +0000"
-    },
-    "done": true
-  },
-  "vanillacookbook:recipes/cooked_chicken": {
-    "criteria": {
-      "has_cooked_chicken": "2025-06-16 09:22:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:main/fossil": {
     "criteria": {
       "plant_fossil": "2025-06-16 09:23:24 +0000"
@@ -855,12 +704,6 @@
   "cobblemon:obtain_revival_herb": {
     "criteria": {
       "check_inv": "2025-06-16 09:54:06 +0000"
-    },
-    "done": true
-  },
-  "vanillacookbook:recipes/egg": {
-    "criteria": {
-      "has_egg": "2025-06-16 10:06:57 +0000"
     },
     "done": true
   },
@@ -912,12 +755,6 @@
     },
     "done": true
   },
-  "vanillacookbook:recipes/magma_cream": {
-    "criteria": {
-      "has_magma_cream": "2025-06-16 10:28:18 +0000"
-    },
-    "done": true
-  },
   "cobblemon:trade_pokemon": {
     "criteria": {
       "trade": "2025-06-16 10:35:11 +0000"
@@ -933,18 +770,6 @@
   "dungeons_arise:find_fishing_hut": {
     "criteria": {
       "location0": "2025-06-16 10:37:48 +0000"
-    },
-    "done": true
-  },
-  "vanillacookbook:recipes/raw_fish": {
-    "criteria": {
-      "has_raw_fish": "2025-06-16 10:38:00 +0000"
-    },
-    "done": true
-  },
-  "vanillacookbook:recipes/cooked_fish": {
-    "criteria": {
-      "has_cooked_fish": "2025-06-16 10:45:06 +0000"
     },
     "done": true
   },
@@ -1158,12 +983,6 @@
     },
     "done": true
   },
-  "vanillacookbook:recipes/carrot": {
-    "criteria": {
-      "has_carrot": "2025-06-20 08:17:35 +0000"
-    },
-    "done": true
-  },
   "cobblemon:craft_ancient_balls": {
     "criteria": {
       "ancient_poke_ball": "2025-06-20 08:26:07 +0000",
@@ -1178,12 +997,6 @@
     },
     "done": true
   },
-  "vanillacookbook:recipes/bread": {
-    "criteria": {
-      "has_bread": "2025-06-20 08:35:22 +0000"
-    },
-    "done": true
-  },
   "exposure:adventure/moment_in_time": {
     "criteria": {
       "get_photograph": "2025-06-20 08:35:28 +0000"
@@ -1193,12 +1006,6 @@
   "lootr:50loot": {
     "criteria": {
       "loot_stat": "2025-06-20 08:39:15 +0000"
-    },
-    "done": true
-  },
-  "vanillacookbook:recipes/wheat": {
-    "criteria": {
-      "has_wheat": "2025-06-20 08:40:55 +0000"
     },
     "done": true
   },
@@ -1286,27 +1093,9 @@
     },
     "done": true
   },
-  "vanillacookbook:recipes/baked_potato": {
-    "criteria": {
-      "has_baked_potato": "2025-06-20 11:07:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-06-20 11:21:23 +0000"
-    },
-    "done": true
-  },
-  "vanillacookbook:recipes/glowberry": {
-    "criteria": {
-      "has_glowberry": "2025-06-20 11:21:27 +0000"
-    },
-    "done": true
-  },
-  "vanillacookbook:recipes/moss": {
-    "criteria": {
-      "has_moss": "2025-06-20 11:22:15 +0000"
     },
     "done": true
   },
@@ -1343,12 +1132,6 @@
   "megamons:mega_cuff": {
     "criteria": {
       "has_mega_cuff": "2025-06-20 11:33:35 +0000"
-    },
-    "done": true
-  },
-  "vanillacookbook:recipes/slime": {
-    "criteria": {
-      "has_slime_ball": "2025-06-21 09:59:56 +0000"
     },
     "done": true
   },
@@ -1487,18 +1270,6 @@
     },
     "done": true
   },
-  "vanillacookbook:recipes/flowers": {
-    "criteria": {
-      "has_dandelion": "2025-06-23 09:28:57 +0000"
-    },
-    "done": true
-  },
-  "vanillacookbook:recipes/ink": {
-    "criteria": {
-      "has_ink": "2025-06-23 09:32:08 +0000"
-    },
-    "done": true
-  },
   "alexsmobs:alexsmobs/capsid": {
     "criteria": {
       "capsid": "2025-06-23 10:07:03 +0000"
@@ -1515,12 +1286,6 @@
   "lootr:1cart": {
     "criteria": {
       "opened_cart": "2025-06-23 10:44:40 +0000"
-    },
-    "done": true
-  },
-  "vanillacookbook:recipes/glow_ink": {
-    "criteria": {
-      "has_glow_ink": "2025-06-23 11:24:30 +0000"
     },
     "done": true
   },
@@ -1557,12 +1322,6 @@
   "alexscaves:alexscaves/cave_map": {
     "criteria": {
       "cave_map": "2025-06-25 09:38:00 +0000"
-    },
-    "done": true
-  },
-  "vanillacookbook:recipes/melon": {
-    "criteria": {
-      "has_melon": "2025-06-25 10:09:00 +0000"
     },
     "done": true
   },
@@ -1677,12 +1436,6 @@
   "alexscaves:alexscaves/gelatin": {
     "criteria": {
       "gelatin": "2025-06-25 11:14:02 +0000"
-    },
-    "done": true
-  },
-  "vanillacookbook:recipes/sugar": {
-    "criteria": {
-      "has_sugar": "2025-06-25 11:15:48 +0000"
     },
     "done": true
   },
@@ -1866,6 +1619,24 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-07-01 10:09:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-07-01 10:14:04 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_naga": {
+    "criteria": {
+      "naga": "2025-07-01 10:24:18 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
       "log_spam_fixer": "2025-07-01 10:29:02 +0000"
@@ -1938,21 +1709,9 @@
     },
     "done": false
   },
-  "minecraft:adventure/hero_of_the_village": {
+  "farmersdelight:main/root": {
     "criteria": {
-      "hero_of_the_village": "2025-07-01 10:09:03 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:kill_naga": {
-    "criteria": {
-      "naga": "2025-07-01 10:24:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2025-07-01 10:14:04 +0000"
+      "seeds": "2025-07-02 09:07:14 +0000"
     },
     "done": true
   },
