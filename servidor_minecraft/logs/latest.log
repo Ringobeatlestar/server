@@ -5000,3 +5000,28 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [02Jul2025 10:40:33.520] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4910, y=-53, z=53} BlockPos{x=-4910, y=-52, z=52}
 [02Jul2025 10:41:24.352] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4927, y=-51, z=100} BlockPos{x=-4927, y=-52, z=99}
 [02Jul2025 10:41:35.312] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4935, y=-51, z=96} BlockPos{x=-4936, y=-51, z=95}
+[02Jul2025 10:44:58.529] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.670547485351562) to LOW (avg. 20.741653442382812)
+[02Jul2025 10:45:06.029] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.741653442382812) to VERY_LOW (avg. 17.835046768188477)
+[02Jul2025 10:46:28.529] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.296220779418945) to LOW (avg. 20.460227966308594)
+[02Jul2025 10:46:43.529] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.460227966308594) to VERY_LOW (avg. 11.661269187927246)
+[02Jul2025 10:47:04.668] [Worker-Main-31/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[02Jul2025 10:47:04.729] [Worker-Main-31/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[02Jul2025 10:47:04.759] [Worker-Main-31/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[02Jul2025 10:47:06.029] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.86921501159668) to LOW (avg. 25.25583267211914)
+[02Jul2025 10:47:13.529] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 25.25583267211914) to VERY_LOW (avg. 16.71063232421875)
+[02Jul2025 10:47:51.029] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.75261688232422) to LOW (avg. 20.241470336914062)
+[02Jul2025 10:47:54.771] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4978, y=-42, z=5} BlockPos{x=-4979, y=-43, z=6}
+[02Jul2025 10:47:57.149] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4981, y=-43, z=7} BlockPos{x=-4983, y=-43, z=6}
+[02Jul2025 10:48:04.519] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4990, y=-44, z=-2} BlockPos{x=-4989, y=-45, z=-2}
+[02Jul2025 10:48:06.029] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.241470336914062) to VERY_LOW (avg. 16.87277603149414)
+[02Jul2025 10:48:17.548] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4999, y=-50, z=-7} BlockPos{x=-4998, y=-47, z=-7}
+[02Jul2025 10:48:31.451] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4900, y=-52, z=128} BlockPos{x=-4899, y=-53, z=128}
+[02Jul2025 10:48:40.727] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4980, y=-39, z=-6} BlockPos{x=-4981, y=-38, z=-7}
+[02Jul2025 10:48:51.093] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4973, y=-40, z=12} BlockPos{x=-4974, y=-40, z=13}
+[02Jul2025 10:48:51.146] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4973, y=-40, z=12} BlockPos{x=-4974, y=-40, z=13}
+[02Jul2025 10:48:51.196] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4973, y=-40, z=12} BlockPos{x=-4974, y=-40, z=13}
+[02Jul2025 10:48:51.246] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4973, y=-40, z=12} BlockPos{x=-4974, y=-40, z=13}
+[02Jul2025 10:50:41.144] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4944, y=-52, z=52} BlockPos{x=-4945, y=-52, z=51}
+[02Jul2025 10:50:41.239] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4944, y=-52, z=52} BlockPos{x=-4945, y=-52, z=51}
+[02Jul2025 10:50:41.245] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4944, y=-52, z=52} BlockPos{x=-4945, y=-52, z=51}
+[02Jul2025 10:52:27.799] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4962, y=-31, z=64} BlockPos{x=-4965, y=-32, z=65}
