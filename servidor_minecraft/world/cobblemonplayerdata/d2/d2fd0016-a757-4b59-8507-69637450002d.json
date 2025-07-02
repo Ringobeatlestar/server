@@ -2064,6 +2064,22 @@
             "discoveredTimestamp": 1751397259293,
             "caughtTimestamp": 1751397259293
           }
+        },
+        "terapagos": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1751454935993,
+            "caughtTimestamp": 1751454935993
+          }
+        },
+        "azelf": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1751455058346,
+            "caughtTimestamp": 1751455058346
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -2091,20 +2107,20 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 199,
+    "totalCaptureCount": 201,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 71,
-    "totalBattleVictoryCount": 396,
+    "totalBattleVictoryCount": 399,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 395,
+    "totalPvWBattleVictoryCount": 398,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 12,
     "totalTradedCount": 22,
     "totalTypeCaptureCounts": {
       "grass": 19,
-      "psychic": 11,
+      "psychic": 12,
       "water": 15,
-      "normal": 39,
+      "normal": 40,
       "flying": 34,
       "ground": 13,
       "fire": 25,
@@ -2153,7 +2169,7 @@
       "cobblemon:vivillon": 9,
       "cobblemon:gengar": 1,
       "cobblemon:butterfree": 4,
-      "cobblemon:kingler": 8,
+      "cobblemon:kingler": 9,
       "cobblemon:cutiefly": 2,
       "cobblemon:krabby": 25,
       "cobblemon:ribombee": 1,

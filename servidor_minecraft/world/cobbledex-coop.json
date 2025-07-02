@@ -2994,6 +2994,22 @@
         "discoveredTimestamp": 1751397259294,
         "caughtTimestamp": 1751397259294
       }
+    },
+    "terapagos": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1751454935995,
+        "caughtTimestamp": 1751454935995
+      }
+    },
+    "azelf": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1751455058348,
+        "caughtTimestamp": 1751455058348
+      }
     }
   }
 }
