@@ -2088,6 +2088,14 @@
             "discoveredTimestamp": 1751455453898,
             "caughtTimestamp": 1751455453898
           }
+        },
+        "amoonguss": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1751461058049,
+            "caughtTimestamp": 1751461058049
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -2117,10 +2125,10 @@
   "advancementData": {
     "totalCaptureCount": 202,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 71,
-    "totalBattleVictoryCount": 400,
+    "totalEvolvedCount": 72,
+    "totalBattleVictoryCount": 401,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 399,
+    "totalPvWBattleVictoryCount": 400,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 12,
     "totalTradedCount": 22,
@@ -2210,7 +2218,8 @@
       "cobblemon:wigglytuff": 1,
       "cobblemon:shuppet": 3,
       "cobblemon:drifblim": 1,
-      "cobblemon:wooper": 1
+      "cobblemon:wooper": 1,
+      "cobblemon:comfey": 1
     },
     "aspectsCollected": {
       "cobblemon:vivillon": [

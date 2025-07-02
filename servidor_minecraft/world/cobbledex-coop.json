@@ -3018,6 +3018,14 @@
         "discoveredTimestamp": 1751455453899,
         "caughtTimestamp": 1751455453899
       }
+    },
+    "amoonguss": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1751461058050,
+        "caughtTimestamp": 1751461058050
+      }
     }
   }
 }
