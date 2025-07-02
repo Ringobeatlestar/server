@@ -3595,3 +3595,6 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [02Jul2025 09:26:59.419] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5010, l='ServerLevel[world]', x=-1908.13, y=68.00, z=205.50, removed=DISCARDED]
 [02Jul2025 09:27:45.693] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PokemonEntity['La Ramona'/6763, l='ServerLevel[world]', x=-1968.83, y=63.00, z=203.97] died: La Ramona was blown up by Creeper
 [02Jul2025 09:28:18.120] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 395.5 μs. 284/284 recipes are parallelized.
+[02Jul2025 09:34:04.840] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 2.743 ms. 5432/5478 recipes are parallelized.
+[02Jul2025 09:36:17.123] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id the_deep_void:abductor
+[02Jul2025 09:36:17.460] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/9716, l='ServerLevel[world]', x=279.47, y=24.00, z=-2703.48, removed=DISCARDED]
