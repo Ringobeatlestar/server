@@ -1867,3 +1867,5 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [02Jul2025 22:09:03.771] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AgentePerrote[/127.182.232.120:39333] logged in with entity id 2193 at (-1894.362083724942, 69.875, 217.2967533689248)
 [02Jul2025 22:09:03.908] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player AgentePerrote
 [02Jul2025 22:09:03.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote joined the game
+[02Jul2025 22:14:48.340] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 4.682 ms. 5444/5490 recipes are parallelized.
+[02Jul2025 22:24:02.324] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 211.5 μs. 284/284 recipes are parallelized.
