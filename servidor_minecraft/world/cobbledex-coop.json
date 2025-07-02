@@ -3010,6 +3010,14 @@
         "discoveredTimestamp": 1751455058348,
         "caughtTimestamp": 1751455058348
       }
+    },
+    "regidrago": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1751455453899,
+        "caughtTimestamp": 1751455453899
+      }
     }
   }
 }

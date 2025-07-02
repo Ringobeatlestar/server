@@ -2080,6 +2080,14 @@
             "discoveredTimestamp": 1751455058346,
             "caughtTimestamp": 1751455058346
           }
+        },
+        "regidrago": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1751455453898,
+            "caughtTimestamp": 1751455453898
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -2107,12 +2115,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 201,
+    "totalCaptureCount": 202,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 71,
-    "totalBattleVictoryCount": 399,
+    "totalBattleVictoryCount": 400,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 398,
+    "totalPvWBattleVictoryCount": 399,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 12,
     "totalTradedCount": 22,
@@ -2133,7 +2141,7 @@
       "fairy": 19,
       "rock": 11,
       "poison": 13,
-      "dragon": 6,
+      "dragon": 7,
       "ghost": 31
     },
     "totalDefeatedCounts": {
