@@ -2237,9 +2237,9 @@
     "totalCaptureCount": 157,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 109,
-    "totalBattleVictoryCount": 325,
+    "totalBattleVictoryCount": 329,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 325,
+    "totalPvWBattleVictoryCount": 329,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 2,
     "totalTradedCount": 22,
@@ -2339,7 +2339,8 @@
       "cobblemon:slowking": 1,
       "cobblemon:slowbro": 1,
       "cobblemon:spiritomb": 1,
-      "cobblemon:shuppet": 2
+      "cobblemon:shuppet": 5,
+      "cobblemon:mismagius": 1
     },
     "aspectsCollected": {
       "cobblemon:vivillon": [
