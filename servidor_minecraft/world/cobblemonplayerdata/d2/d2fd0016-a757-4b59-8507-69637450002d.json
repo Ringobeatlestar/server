@@ -2126,9 +2126,9 @@
     "totalCaptureCount": 202,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 72,
-    "totalBattleVictoryCount": 401,
+    "totalBattleVictoryCount": 402,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 400,
+    "totalPvWBattleVictoryCount": 401,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 12,
     "totalTradedCount": 22,
@@ -2219,7 +2219,8 @@
       "cobblemon:shuppet": 3,
       "cobblemon:drifblim": 1,
       "cobblemon:wooper": 1,
-      "cobblemon:comfey": 1
+      "cobblemon:comfey": 1,
+      "cobblemon:watchog": 1
     },
     "aspectsCollected": {
       "cobblemon:vivillon": [
