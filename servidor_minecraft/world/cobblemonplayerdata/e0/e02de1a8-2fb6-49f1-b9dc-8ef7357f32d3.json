@@ -2198,6 +2198,14 @@
             "discoveredTimestamp": 1751447652610,
             "caughtTimestamp": 1751447652610
           }
+        },
+        "shuppet": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1751449801553,
+            "caughtTimestamp": 1751449801553
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -2226,12 +2234,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 156,
+    "totalCaptureCount": 157,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 109,
-    "totalBattleVictoryCount": 321,
+    "totalBattleVictoryCount": 325,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 321,
+    "totalPvWBattleVictoryCount": 325,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 2,
     "totalTradedCount": 22,
@@ -2240,7 +2248,7 @@
       "bug": 18,
       "poison": 13,
       "water": 29,
-      "ghost": 9,
+      "ghost": 10,
       "fire": 7,
       "ice": 2,
       "fairy": 14,
@@ -2329,7 +2337,9 @@
       "cobblemon:sneasel": 1,
       "cobblemon:magby": 1,
       "cobblemon:slowking": 1,
-      "cobblemon:slowbro": 1
+      "cobblemon:slowbro": 1,
+      "cobblemon:spiritomb": 1,
+      "cobblemon:shuppet": 2
     },
     "aspectsCollected": {
       "cobblemon:vivillon": [
