@@ -1579,7 +1579,7 @@
         },
         "shuppet": {
           "normal": {
-            "isShiny": false,
+            "isShiny": true,
             "status": "CAUGHT",
             "discoveredTimestamp": 1750686499150,
             "caughtTimestamp": 1750686499150
@@ -2091,14 +2091,14 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 198,
+    "totalCaptureCount": 199,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 71,
-    "totalBattleVictoryCount": 393,
+    "totalBattleVictoryCount": 394,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 392,
+    "totalPvWBattleVictoryCount": 393,
     "totalPvNBattleVictoryCount": 0,
-    "totalShinyCaptureCount": 11,
+    "totalShinyCaptureCount": 12,
     "totalTradedCount": 22,
     "totalTypeCaptureCounts": {
       "grass": 19,
@@ -2118,7 +2118,7 @@
       "rock": 11,
       "poison": 13,
       "dragon": 6,
-      "ghost": 30
+      "ghost": 31
     },
     "totalDefeatedCounts": {
       "cobblemon:bidoof": 1,

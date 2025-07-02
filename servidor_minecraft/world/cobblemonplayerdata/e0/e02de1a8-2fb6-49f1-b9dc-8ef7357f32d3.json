@@ -2206,6 +2206,14 @@
             "discoveredTimestamp": 1751449801553,
             "caughtTimestamp": 1751449801553
           }
+        },
+        "spiritomb": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1751452340693,
+            "caughtTimestamp": 1751452340693
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -2228,18 +2236,19 @@
         "210",
         "225",
         "240",
-        "255"
+        "255",
+        "270"
       ],
       "name": "Cobbledex_RewardHistory"
     }
   },
   "advancementData": {
-    "totalCaptureCount": 157,
+    "totalCaptureCount": 158,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 109,
-    "totalBattleVictoryCount": 329,
+    "totalBattleVictoryCount": 333,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 329,
+    "totalPvWBattleVictoryCount": 333,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 2,
     "totalTradedCount": 22,
@@ -2248,7 +2257,7 @@
       "bug": 18,
       "poison": 13,
       "water": 29,
-      "ghost": 10,
+      "ghost": 11,
       "fire": 7,
       "ice": 2,
       "fairy": 14,
@@ -2259,7 +2268,7 @@
       "fighting": 4,
       "psychic": 7,
       "electric": 7,
-      "dark": 7,
+      "dark": 8,
       "dragon": 3,
       "steel": 4
     },
@@ -2339,7 +2348,7 @@
       "cobblemon:slowking": 1,
       "cobblemon:slowbro": 1,
       "cobblemon:spiritomb": 1,
-      "cobblemon:shuppet": 5,
+      "cobblemon:shuppet": 8,
       "cobblemon:mismagius": 1
     },
     "aspectsCollected": {

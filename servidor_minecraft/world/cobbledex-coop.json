@@ -2559,7 +2559,7 @@
     },
     "shuppet": {
       "normal": {
-        "isShiny": false,
+        "isShiny": true,
         "status": "CAUGHT",
         "discoveredTimestamp": 1750686499151,
         "caughtTimestamp": 1750686499151
