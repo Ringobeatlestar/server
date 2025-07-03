@@ -3074,6 +3074,30 @@
         "discoveredTimestamp": 1751537314292,
         "caughtTimestamp": 1751537314292
       }
+    },
+    "seel": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1751537349246,
+        "caughtTimestamp": 1751537349246
+      }
+    },
+    "eiscue": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1751537428795,
+        "caughtTimestamp": 1751537428795
+      }
+    },
+    "lotad": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1751537707487,
+        "caughtTimestamp": 1751537707487
+      }
     }
   }
 }

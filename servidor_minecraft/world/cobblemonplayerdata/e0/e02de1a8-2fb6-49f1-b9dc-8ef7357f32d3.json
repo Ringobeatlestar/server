@@ -2262,6 +2262,38 @@
             "discoveredTimestamp": 1751537314291,
             "caughtTimestamp": 1751537314291
           }
+        },
+        "seel": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1751537349245,
+            "caughtTimestamp": 1751537349245
+          }
+        },
+        "eiscue": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1751537428793,
+            "caughtTimestamp": 1751537428793
+          }
+        },
+        "lotad": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1751537707486,
+            "caughtTimestamp": 1751537707486
+          }
+        },
+        "stunky": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1751537740244,
+            "caughtTimestamp": 1751537740244
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -2291,32 +2323,32 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 163,
+    "totalCaptureCount": 167,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 110,
-    "totalBattleVictoryCount": 350,
+    "totalBattleVictoryCount": 351,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 350,
+    "totalPvWBattleVictoryCount": 351,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 2,
     "totalTradedCount": 22,
     "totalTypeCaptureCounts": {
       "rock": 7,
       "bug": 18,
-      "poison": 13,
-      "water": 30,
+      "poison": 14,
+      "water": 32,
       "ghost": 12,
       "fire": 7,
-      "ice": 5,
+      "ice": 6,
       "fairy": 14,
       "normal": 40,
       "flying": 22,
       "ground": 7,
-      "grass": 22,
+      "grass": 23,
       "fighting": 4,
       "psychic": 7,
       "electric": 8,
-      "dark": 8,
+      "dark": 9,
       "dragon": 3,
       "steel": 4
     },
