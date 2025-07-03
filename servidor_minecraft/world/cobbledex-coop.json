@@ -3106,6 +3106,13 @@
         "discoveredTimestamp": 1751538044889,
         "caughtTimestamp": 1751538057842
       }
+    },
+    "skorupi": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1751540138293
+      }
     }
   }
 }

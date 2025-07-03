@@ -2302,6 +2302,13 @@
             "discoveredTimestamp": 1751538044887,
             "caughtTimestamp": 1751538057841
           }
+        },
+        "skorupi": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1751540138290
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -2334,9 +2341,9 @@
     "totalCaptureCount": 168,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 110,
-    "totalBattleVictoryCount": 352,
+    "totalBattleVictoryCount": 353,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 352,
+    "totalPvWBattleVictoryCount": 353,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 2,
     "totalTradedCount": 22,
@@ -2439,7 +2446,8 @@
       "cobblemon:shuppet": 14,
       "cobblemon:mismagius": 1,
       "cobblemon:regice": 1,
-      "cobblemon:seel": 1
+      "cobblemon:seel": 1,
+      "cobblemon:skorupi": 1
     },
     "aspectsCollected": {
       "cobblemon:vivillon": [
