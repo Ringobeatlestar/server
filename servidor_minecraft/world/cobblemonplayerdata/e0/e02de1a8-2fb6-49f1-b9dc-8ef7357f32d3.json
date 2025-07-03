@@ -2214,6 +2214,14 @@
             "discoveredTimestamp": 1751452340693,
             "caughtTimestamp": 1751452340693
           }
+        },
+        "purugly": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1751535590212,
+            "caughtTimestamp": 1751535590212
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -2245,10 +2253,10 @@
   "advancementData": {
     "totalCaptureCount": 158,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 109,
-    "totalBattleVictoryCount": 340,
+    "totalEvolvedCount": 110,
+    "totalBattleVictoryCount": 344,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 340,
+    "totalPvWBattleVictoryCount": 344,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 2,
     "totalTradedCount": 22,
@@ -2282,13 +2290,13 @@
       "cobblemon:miltank": 3,
       "cobblemon:lilligant": 4,
       "cobblemon:snorunt": 1,
-      "cobblemon:krabby": 5,
+      "cobblemon:krabby": 7,
       "cobblemon:petilil": 2,
       "cobblemon:tauros": 21,
       "cobblemon:cutiefly": 2,
       "cobblemon:kingler": 6,
       "cobblemon:butterfree": 13,
-      "cobblemon:crabrawler": 10,
+      "cobblemon:crabrawler": 11,
       "cobblemon:yanma": 1,
       "cobblemon:araquanid": 6,
       "cobblemon:wingull": 1,
@@ -2302,7 +2310,7 @@
       "cobblemon:swellow": 1,
       "cobblemon:hoppip": 2,
       "cobblemon:pelipper": 8,
-      "cobblemon:rapidash": 1,
+      "cobblemon:rapidash": 2,
       "cobblemon:pineco": 1,
       "cobblemon:ninjask": 1,
       "cobblemon:vivillon": 5,

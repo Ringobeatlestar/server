@@ -3026,6 +3026,14 @@
         "discoveredTimestamp": 1751461058050,
         "caughtTimestamp": 1751461058050
       }
+    },
+    "purugly": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1751535590216,
+        "caughtTimestamp": 1751535590216
+      }
     }
   }
 }

@@ -1864,3 +1864,14 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [03Jul2025 09:22:18.671] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from VERY_LOW (avg. 12.64550519) to LOW (avg. 29.169285079999998)
 [03Jul2025 09:22:39.921] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 27.667377471923828) to VERY_LOW (avg. 13.326177597045898)
 [03Jul2025 09:27:31.284] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 4.170 ms. 5444/5490 recipes are parallelized.
+[03Jul2025 09:45:31.808] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player AgentePerrote is d2fd0016-a757-4b59-8507-69637450002d
+[03Jul2025 09:45:34.074] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AgentePerrote[/127.182.232.120:51905] logged in with entity id 6977 at (-1881.6102816919913, 55.0, 243.0839807386147)
+[03Jul2025 09:45:34.190] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player AgentePerrote
+[03Jul2025 09:45:34.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote joined the game
+[03Jul2025 09:46:34.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> tperoquien cojoens eres
+[03Jul2025 09:46:49.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> diego
+[03Jul2025 09:46:54.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> que
+[03Jul2025 09:47:00.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> antonio
+[03Jul2025 09:47:28.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> puta
+[03Jul2025 09:47:43.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> sex
+[03Jul2025 09:47:47.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> tin
