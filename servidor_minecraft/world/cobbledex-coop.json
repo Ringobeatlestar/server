@@ -3034,6 +3034,46 @@
         "discoveredTimestamp": 1751535590216,
         "caughtTimestamp": 1751535590216
       }
+    },
+    "dhelmise": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1751536859848,
+        "caughtTimestamp": 1751536859848
+      }
+    },
+    "chinchou": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1751537166646,
+        "caughtTimestamp": 1751537166646
+      }
+    },
+    "bergmite": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1751537193795,
+        "caughtTimestamp": 1751537193795
+      }
+    },
+    "cubchoo": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1751537245894,
+        "caughtTimestamp": 1751537245894
+      }
+    },
+    "cetoddle": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1751537314292,
+        "caughtTimestamp": 1751537314292
+      }
     }
   }
 }

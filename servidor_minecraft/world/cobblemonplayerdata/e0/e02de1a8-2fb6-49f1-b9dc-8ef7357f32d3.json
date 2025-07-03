@@ -2222,6 +2222,46 @@
             "discoveredTimestamp": 1751535590212,
             "caughtTimestamp": 1751535590212
           }
+        },
+        "dhelmise": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1751536859846,
+            "caughtTimestamp": 1751536859846
+          }
+        },
+        "chinchou": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1751537166643,
+            "caughtTimestamp": 1751537166643
+          }
+        },
+        "bergmite": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1751537193794,
+            "caughtTimestamp": 1751537193794
+          }
+        },
+        "cubchoo": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1751537245893,
+            "caughtTimestamp": 1751537245893
+          }
+        },
+        "cetoddle": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1751537314291,
+            "caughtTimestamp": 1751537314291
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -2251,12 +2291,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 158,
+    "totalCaptureCount": 163,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 110,
-    "totalBattleVictoryCount": 344,
+    "totalBattleVictoryCount": 350,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 344,
+    "totalPvWBattleVictoryCount": 350,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 2,
     "totalTradedCount": 22,
@@ -2264,18 +2304,18 @@
       "rock": 7,
       "bug": 18,
       "poison": 13,
-      "water": 29,
-      "ghost": 11,
+      "water": 30,
+      "ghost": 12,
       "fire": 7,
-      "ice": 2,
+      "ice": 5,
       "fairy": 14,
       "normal": 40,
       "flying": 22,
       "ground": 7,
-      "grass": 21,
+      "grass": 22,
       "fighting": 4,
       "psychic": 7,
-      "electric": 7,
+      "electric": 8,
       "dark": 8,
       "dragon": 3,
       "steel": 4
@@ -2358,7 +2398,8 @@
       "cobblemon:spiritomb": 1,
       "cobblemon:shuppet": 14,
       "cobblemon:mismagius": 1,
-      "cobblemon:regice": 1
+      "cobblemon:regice": 1,
+      "cobblemon:seel": 1
     },
     "aspectsCollected": {
       "cobblemon:vivillon": [
