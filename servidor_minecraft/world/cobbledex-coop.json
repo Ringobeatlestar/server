@@ -3098,6 +3098,14 @@
         "discoveredTimestamp": 1751537707487,
         "caughtTimestamp": 1751537707487
       }
+    },
+    "stantler": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1751538044889,
+        "caughtTimestamp": 1751538057842
+      }
     }
   }
 }
