@@ -3357,3 +3357,316 @@ java.lang.IllegalArgumentException: Missing required parameters: [<parameter min
 [03Jul2025 11:05:57.465] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for ad_astra:venus changed from LOW (avg. 27.35256121) to VERY_LOW (avg. 0.035551059999999995)
 [03Jul2025 11:09:46.601] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/36575, l='ServerLevel[world]', x=-3905.33, y=40.21, z=-2994.65, removed=DISCARDED]
 [03Jul2025 11:09:55.304] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/36575, l='ServerLevel[world]', x=-3905.33, y=40.21, z=-2994.65, removed=DISCARDED]
+[03Jul2025 11:11:48.715] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.011680603027344) to VERY_LOW (avg. 19.93572235107422)
+[03Jul2025 11:11:56.215] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.93572235107422) to LOW (avg. 22.065500259399414)
+[03Jul2025 11:13:03.715] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.473440170288086) to VERY_LOW (avg. 19.836687088012695)
+[03Jul2025 11:13:18.715] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.836687088012695) to LOW (avg. 21.868492126464844)
+[03Jul2025 11:13:48.715] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.169662475585938) to VERY_LOW (avg. 19.741687774658203)
+[03Jul2025 11:14:03.715] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.741687774658203) to LOW (avg. 23.300722122192383)
+[03Jul2025 11:14:16.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> ola
+[03Jul2025 11:14:26.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> z
+[03Jul2025 11:14:32.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> zzz
+[03Jul2025 11:14:41.215] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 30.588462829589844) to VERY_LOW (avg. 19.305034637451172)
+[03Jul2025 11:14:56.215] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.305034637451172) to LOW (avg. 23.032676696777344)
+[03Jul2025 11:15:17.467] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[03Jul2025 11:15:17.467] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[03Jul2025 11:15:17.546] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[03Jul2025 11:15:48.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was led to the grave by Priest
+[03Jul2025 11:15:48.301] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[03Jul2025 11:16:07.561] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JetPrivado (vehicle of AgentePerrote) moved too quickly! -7.012714075141957,0.0,-7.275281853611773
+[03Jul2025 11:16:07.562] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JetPrivado (vehicle of AgentePerrote) moved too quickly! -7.334953977964233,0.0,-7.578712640927847
+[03Jul2025 11:16:07.562] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JetPrivado (vehicle of AgentePerrote) moved too quickly! -7.656580508537445,0.0,-7.880850942996858
+[03Jul2025 11:16:07.562] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JetPrivado (vehicle of AgentePerrote) moved too quickly! -7.9776795389771,0.0,-8.181877707753074
+[03Jul2025 11:16:07.562] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JetPrivado (vehicle of AgentePerrote) moved too quickly! -8.298324919301649,0.0,-8.481948550420498
+[03Jul2025 11:16:07.563] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JetPrivado (vehicle of AgentePerrote) moved too quickly! -8.618580160527017,0.0,-8.781197300091435
+[03Jul2025 11:16:07.563] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JetPrivado (vehicle of AgentePerrote) moved too quickly! -8.938499882126507,0.0,-9.079739049785417
+[03Jul2025 11:16:07.563] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JetPrivado (vehicle of AgentePerrote) moved too quickly! -9.258131056848015,0.0,-9.377672779499221
+[03Jul2025 11:16:07.563] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JetPrivado (vehicle of AgentePerrote) moved too quickly! -9.577514081254776,0.0,-9.675083612030221
+[03Jul2025 11:16:07.564] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JetPrivado (vehicle of AgentePerrote) moved too quickly! -9.896683696391392,0.0,-9.972044752983834
+[03Jul2025 11:16:07.564] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JetPrivado (vehicle of AgentePerrote) moved too quickly! -10.2156697795549,0.0,-10.268619159180844
+[03Jul2025 11:16:07.564] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JetPrivado (vehicle of AgentePerrote) moved too quickly! -10.534498025222092,0.0,-10.56486097348727
+[03Jul2025 11:16:07.564] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JetPrivado (vehicle of AgentePerrote) moved too quickly! -10.853190530642223,0.0,-10.860816758767896
+[03Jul2025 11:16:07.565] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JetPrivado (vehicle of AgentePerrote) moved too quickly! -11.171766299449246,0.0,-11.156526559086274
+[03Jul2025 11:16:07.565] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JetPrivado (vehicle of AgentePerrote) moved too quickly! -11.490241674770004,0.0,-11.452024812337072
+[03Jul2025 11:16:07.565] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JetPrivado (vehicle of AgentePerrote) moved too quickly! -11.808630711691876,0.0,-11.747341135109878
+[03Jul2025 11:16:07.565] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JetPrivado (vehicle of AgentePerrote) moved too quickly! -12.126945497590896,0.0,-12.042500997671482
+[03Jul2025 11:16:07.566] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JetPrivado (vehicle of AgentePerrote) moved too quickly! -12.445196427610426,0.0,-12.337526304451444
+[03Jul2025 11:16:07.566] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JetPrivado (vehicle of AgentePerrote) moved too quickly! -12.763392441573615,0.0,-12.632435893259185
+[03Jul2025 11:16:07.566] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JetPrivado (vehicle of AgentePerrote) moved too quickly! -13.08154122772794,0.0,-12.927245964610734
+[03Jul2025 11:16:07.566] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JetPrivado (vehicle of AgentePerrote) moved too quickly! -13.399649397966186,0.0,-13.221970450950153
+[03Jul2025 11:16:07.567] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JetPrivado (vehicle of AgentePerrote) moved too quickly! -13.717722638518353,0.0,-13.516621334179035
+[03Jul2025 11:16:07.567] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JetPrivado (vehicle of AgentePerrote) moved too quickly! -14.03576583953918,0.0,-13.81120891873286
+[03Jul2025 11:16:07.567] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JetPrivado (vehicle of AgentePerrote) moved too quickly! -14.353783206563094,0.0,-14.105742066426274
+[03Jul2025 11:16:07.567] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JetPrivado (vehicle of AgentePerrote) moved too quickly! -14.671778356349932,0.0,-14.400228398419586
+[03Jul2025 11:16:07.567] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JetPrivado (vehicle of AgentePerrote) moved too quickly! -14.98975439931337,0.0,-14.694674468910762
+[03Jul2025 11:16:07.568] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JetPrivado (vehicle of AgentePerrote) moved too quickly! -15.279388610732894,0.0,-15.001294611046205
+[03Jul2025 11:16:07.568] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JetPrivado (vehicle of AgentePerrote) moved too quickly! -15.530769401184898,0.0,-15.324366716098325
+[03Jul2025 11:16:07.568] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JetPrivado (vehicle of AgentePerrote) moved too quickly! -15.749252249605433,0.0,-15.661587509258993
+[03Jul2025 11:16:07.569] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JetPrivado (vehicle of AgentePerrote) moved too quickly! -15.93944286787837,0.0,-16.010976174192706
+[03Jul2025 11:16:07.569] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JetPrivado (vehicle of AgentePerrote) moved too quickly! -16.105302168224625,0.0,-16.370829208851433
+[03Jul2025 11:16:07.569] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JetPrivado (vehicle of AgentePerrote) moved too quickly! -16.250236535153363,0.0,-16.73968160147365
+[03Jul2025 11:16:07.569] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JetPrivado (vehicle of AgentePerrote) moved too quickly! -16.34799210792835,0.0,-17.106287825387767
+[03Jul2025 11:16:07.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JetPrivado (vehicle of AgentePerrote) moved too quickly! -16.390874075537795,0.0,-17.466069392100053
+[03Jul2025 11:16:07.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JetPrivado (vehicle of AgentePerrote) moved too quickly! -16.38656474270465,0.0,-17.819981753618777
+[03Jul2025 11:16:07.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JetPrivado (vehicle of AgentePerrote) moved too quickly! -16.341670891491503,0.0,-18.16884659867128
+[03Jul2025 11:16:07.572] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2757ms or 55 ticks behind
+[03Jul2025 11:16:07.705] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JetPrivado (vehicle of AgentePerrote) moved too quickly! -9.411589144330264,-0.29399999999999693,-11.326359031501056
+[03Jul2025 11:16:07.826] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:overworld changed from VERY_HIGH (avg. 58.862318009999996) to HIGH (avg. 48.00855443)
+[03Jul2025 11:16:16.550] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1905, y=56, z=249} BlockPos{x=-4014, y=64, z=-1056}
+[03Jul2025 11:16:26.545] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundInteractPacket@78559539, suppressing error
+java.lang.IllegalArgumentException: Missing required parameters: [<parameter minecraft:origin>]
+	at net.minecraft.world.level.storage.loot.LootParams$Builder.m_287235_(LootParams.java:132) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at com.peeko32213.unusualprehistory.common.entity.msc.util.dino.EntityWorldSpawnable.getItemFromLootTable(EntityWorldSpawnable.java:120) ~[unusualprehistory-1.5.0.3.jar%23347!/:1.5.0.3]
+	at com.peeko32213.unusualprehistory.common.entity.msc.util.dino.EntityWorldSpawnable.getSoundForDrop(EntityWorldSpawnable.java:105) ~[unusualprehistory-1.5.0.3.jar%23347!/:1.5.0.3]
+	at com.peeko32213.unusualprehistory.common.entity.msc.util.dino.EntityWorldSpawnable.itemDrop(EntityWorldSpawnable.java:98) ~[unusualprehistory-1.5.0.3.jar%23347!/:1.5.0.3]
+	at com.peeko32213.unusualprehistory.common.entity.msc.util.dino.EntityWorldSpawnable.m_6096_(EntityWorldSpawnable.java:85) ~[unusualprehistory-1.5.0.3.jar%23347!/:1.5.0.3]
+	at net.minecraft.world.entity.player.Player.m_36157_(Player.java:982) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_143678_(ServerGamePacketListenerImpl.java:1460) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_142299_(ServerGamePacketListenerImpl.java:1472) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket$InteractionAction.m_142457_(ServerboundInteractPacket.java:116) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.mixinextras$bridge$m_18701_$248(MinecraftServer.java) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.wrapOperation$zdh000$managedBlock(MinecraftServer.java:1856) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[03Jul2025 11:16:26.835] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundInteractPacket@36827e94, suppressing error
+java.lang.IllegalArgumentException: Missing required parameters: [<parameter minecraft:origin>]
+	at net.minecraft.world.level.storage.loot.LootParams$Builder.m_287235_(LootParams.java:132) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at com.peeko32213.unusualprehistory.common.entity.msc.util.dino.EntityWorldSpawnable.getItemFromLootTable(EntityWorldSpawnable.java:120) ~[unusualprehistory-1.5.0.3.jar%23347!/:1.5.0.3]
+	at com.peeko32213.unusualprehistory.common.entity.msc.util.dino.EntityWorldSpawnable.getSoundForDrop(EntityWorldSpawnable.java:105) ~[unusualprehistory-1.5.0.3.jar%23347!/:1.5.0.3]
+	at com.peeko32213.unusualprehistory.common.entity.msc.util.dino.EntityWorldSpawnable.itemDrop(EntityWorldSpawnable.java:98) ~[unusualprehistory-1.5.0.3.jar%23347!/:1.5.0.3]
+	at com.peeko32213.unusualprehistory.common.entity.msc.util.dino.EntityWorldSpawnable.m_6096_(EntityWorldSpawnable.java:85) ~[unusualprehistory-1.5.0.3.jar%23347!/:1.5.0.3]
+	at net.minecraft.world.entity.player.Player.m_36157_(Player.java:982) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_143678_(ServerGamePacketListenerImpl.java:1460) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_142299_(ServerGamePacketListenerImpl.java:1472) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket$InteractionAction.m_142457_(ServerboundInteractPacket.java:116) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[03Jul2025 11:16:28.834] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundInteractPacket@4ad1497d, suppressing error
+java.lang.IllegalArgumentException: Missing required parameters: [<parameter minecraft:origin>]
+	at net.minecraft.world.level.storage.loot.LootParams$Builder.m_287235_(LootParams.java:132) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at com.peeko32213.unusualprehistory.common.entity.msc.util.dino.EntityWorldSpawnable.getItemFromLootTable(EntityWorldSpawnable.java:120) ~[unusualprehistory-1.5.0.3.jar%23347!/:1.5.0.3]
+	at com.peeko32213.unusualprehistory.common.entity.msc.util.dino.EntityWorldSpawnable.getSoundForDrop(EntityWorldSpawnable.java:105) ~[unusualprehistory-1.5.0.3.jar%23347!/:1.5.0.3]
+	at com.peeko32213.unusualprehistory.common.entity.msc.util.dino.EntityWorldSpawnable.itemDrop(EntityWorldSpawnable.java:98) ~[unusualprehistory-1.5.0.3.jar%23347!/:1.5.0.3]
+	at com.peeko32213.unusualprehistory.common.entity.msc.util.dino.EntityWorldSpawnable.m_6096_(EntityWorldSpawnable.java:85) ~[unusualprehistory-1.5.0.3.jar%23347!/:1.5.0.3]
+	at net.minecraft.world.entity.player.Player.m_36157_(Player.java:982) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_143678_(ServerGamePacketListenerImpl.java:1460) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_142299_(ServerGamePacketListenerImpl.java:1472) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket$InteractionAction.m_142457_(ServerboundInteractPacket.java:116) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[03Jul2025 11:16:29.000] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundInteractPacket@224ed7ae, suppressing error
+java.lang.IllegalArgumentException: Missing required parameters: [<parameter minecraft:origin>]
+	at net.minecraft.world.level.storage.loot.LootParams$Builder.m_287235_(LootParams.java:132) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at com.peeko32213.unusualprehistory.common.entity.msc.util.dino.EntityWorldSpawnable.getItemFromLootTable(EntityWorldSpawnable.java:120) ~[unusualprehistory-1.5.0.3.jar%23347!/:1.5.0.3]
+	at com.peeko32213.unusualprehistory.common.entity.msc.util.dino.EntityWorldSpawnable.getSoundForDrop(EntityWorldSpawnable.java:105) ~[unusualprehistory-1.5.0.3.jar%23347!/:1.5.0.3]
+	at com.peeko32213.unusualprehistory.common.entity.msc.util.dino.EntityWorldSpawnable.itemDrop(EntityWorldSpawnable.java:98) ~[unusualprehistory-1.5.0.3.jar%23347!/:1.5.0.3]
+	at com.peeko32213.unusualprehistory.common.entity.msc.util.dino.EntityWorldSpawnable.m_6096_(EntityWorldSpawnable.java:85) ~[unusualprehistory-1.5.0.3.jar%23347!/:1.5.0.3]
+	at net.minecraft.world.entity.player.Player.m_36157_(Player.java:982) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_143678_(ServerGamePacketListenerImpl.java:1460) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_142299_(ServerGamePacketListenerImpl.java:1472) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket$InteractionAction.m_142457_(ServerboundInteractPacket.java:116) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.mixinextras$bridge$m_18701_$248(MinecraftServer.java) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.wrapOperation$zdh000$managedBlock(MinecraftServer.java:1856) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[03Jul2025 11:16:29.638] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundInteractPacket@4e215f10, suppressing error
+java.lang.IllegalArgumentException: Missing required parameters: [<parameter minecraft:origin>]
+	at net.minecraft.world.level.storage.loot.LootParams$Builder.m_287235_(LootParams.java:132) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at com.peeko32213.unusualprehistory.common.entity.msc.util.dino.EntityWorldSpawnable.getItemFromLootTable(EntityWorldSpawnable.java:120) ~[unusualprehistory-1.5.0.3.jar%23347!/:1.5.0.3]
+	at com.peeko32213.unusualprehistory.common.entity.msc.util.dino.EntityWorldSpawnable.getSoundForDrop(EntityWorldSpawnable.java:105) ~[unusualprehistory-1.5.0.3.jar%23347!/:1.5.0.3]
+	at com.peeko32213.unusualprehistory.common.entity.msc.util.dino.EntityWorldSpawnable.itemDrop(EntityWorldSpawnable.java:98) ~[unusualprehistory-1.5.0.3.jar%23347!/:1.5.0.3]
+	at com.peeko32213.unusualprehistory.common.entity.msc.util.dino.EntityWorldSpawnable.m_6096_(EntityWorldSpawnable.java:85) ~[unusualprehistory-1.5.0.3.jar%23347!/:1.5.0.3]
+	at net.minecraft.world.entity.player.Player.m_36157_(Player.java:982) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_143678_(ServerGamePacketListenerImpl.java:1460) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_142299_(ServerGamePacketListenerImpl.java:1472) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket$InteractionAction.m_142457_(ServerboundInteractPacket.java:116) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[03Jul2025 11:16:29.849] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundInteractPacket@186ce042, suppressing error
+java.lang.IllegalArgumentException: Missing required parameters: [<parameter minecraft:origin>]
+	at net.minecraft.world.level.storage.loot.LootParams$Builder.m_287235_(LootParams.java:132) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at com.peeko32213.unusualprehistory.common.entity.msc.util.dino.EntityWorldSpawnable.getItemFromLootTable(EntityWorldSpawnable.java:120) ~[unusualprehistory-1.5.0.3.jar%23347!/:1.5.0.3]
+	at com.peeko32213.unusualprehistory.common.entity.msc.util.dino.EntityWorldSpawnable.getSoundForDrop(EntityWorldSpawnable.java:105) ~[unusualprehistory-1.5.0.3.jar%23347!/:1.5.0.3]
+	at com.peeko32213.unusualprehistory.common.entity.msc.util.dino.EntityWorldSpawnable.itemDrop(EntityWorldSpawnable.java:98) ~[unusualprehistory-1.5.0.3.jar%23347!/:1.5.0.3]
+	at com.peeko32213.unusualprehistory.common.entity.msc.util.dino.EntityWorldSpawnable.m_6096_(EntityWorldSpawnable.java:85) ~[unusualprehistory-1.5.0.3.jar%23347!/:1.5.0.3]
+	at net.minecraft.world.entity.player.Player.m_36157_(Player.java:982) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_143678_(ServerGamePacketListenerImpl.java:1460) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_142299_(ServerGamePacketListenerImpl.java:1472) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket$InteractionAction.m_142457_(ServerboundInteractPacket.java:116) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[03Jul2025 11:16:30.004] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundInteractPacket@3224e44a, suppressing error
+java.lang.IllegalArgumentException: Missing required parameters: [<parameter minecraft:origin>]
+	at net.minecraft.world.level.storage.loot.LootParams$Builder.m_287235_(LootParams.java:132) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at com.peeko32213.unusualprehistory.common.entity.msc.util.dino.EntityWorldSpawnable.getItemFromLootTable(EntityWorldSpawnable.java:120) ~[unusualprehistory-1.5.0.3.jar%23347!/:1.5.0.3]
+	at com.peeko32213.unusualprehistory.common.entity.msc.util.dino.EntityWorldSpawnable.getSoundForDrop(EntityWorldSpawnable.java:105) ~[unusualprehistory-1.5.0.3.jar%23347!/:1.5.0.3]
+	at com.peeko32213.unusualprehistory.common.entity.msc.util.dino.EntityWorldSpawnable.itemDrop(EntityWorldSpawnable.java:98) ~[unusualprehistory-1.5.0.3.jar%23347!/:1.5.0.3]
+	at com.peeko32213.unusualprehistory.common.entity.msc.util.dino.EntityWorldSpawnable.m_6096_(EntityWorldSpawnable.java:85) ~[unusualprehistory-1.5.0.3.jar%23347!/:1.5.0.3]
+	at net.minecraft.world.entity.player.Player.m_36157_(Player.java:982) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_143678_(ServerGamePacketListenerImpl.java:1460) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_142299_(ServerGamePacketListenerImpl.java:1472) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket$InteractionAction.m_142457_(ServerboundInteractPacket.java:116) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.mixinextras$bridge$m_18701_$248(MinecraftServer.java) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.wrapOperation$zdh000$managedBlock(MinecraftServer.java:1856) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[03Jul2025 11:16:30.194] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundInteractPacket@4baa78a2, suppressing error
+java.lang.IllegalArgumentException: Missing required parameters: [<parameter minecraft:origin>]
+	at net.minecraft.world.level.storage.loot.LootParams$Builder.m_287235_(LootParams.java:132) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at com.peeko32213.unusualprehistory.common.entity.msc.util.dino.EntityWorldSpawnable.getItemFromLootTable(EntityWorldSpawnable.java:120) ~[unusualprehistory-1.5.0.3.jar%23347!/:1.5.0.3]
+	at com.peeko32213.unusualprehistory.common.entity.msc.util.dino.EntityWorldSpawnable.getSoundForDrop(EntityWorldSpawnable.java:105) ~[unusualprehistory-1.5.0.3.jar%23347!/:1.5.0.3]
+	at com.peeko32213.unusualprehistory.common.entity.msc.util.dino.EntityWorldSpawnable.itemDrop(EntityWorldSpawnable.java:98) ~[unusualprehistory-1.5.0.3.jar%23347!/:1.5.0.3]
+	at com.peeko32213.unusualprehistory.common.entity.msc.util.dino.EntityWorldSpawnable.m_6096_(EntityWorldSpawnable.java:85) ~[unusualprehistory-1.5.0.3.jar%23347!/:1.5.0.3]
+	at net.minecraft.world.entity.player.Player.m_36157_(Player.java:982) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_143678_(ServerGamePacketListenerImpl.java:1460) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_142299_(ServerGamePacketListenerImpl.java:1472) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket$InteractionAction.m_142457_(ServerboundInteractPacket.java:116) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.mixinextras$bridge$m_18701_$248(MinecraftServer.java) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.wrapOperation$zdh000$managedBlock(MinecraftServer.java:1856) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[03Jul2025 11:16:31.488] [Server thread/INFO] [fastsuite/]: Constructed recipe list for sawmill:woodcutting in 414.5 μs. 0/1515 recipes are parallelized.
+[03Jul2025 11:18:51.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Alligator In Name Only]
+[03Jul2025 11:18:55.106] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/45639, l='ServerLevel[world]', x=-1907.83, y=68.00, z=205.50, removed=DISCARDED]
+[03Jul2025 11:18:55.107] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/45640, l='ServerLevel[world]', x=-1908.03, y=68.00, z=195.50, removed=DISCARDED]
+[03Jul2025 11:18:55.107] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/45641, l='ServerLevel[world]', x=-1908.93, y=68.00, z=200.50, removed=DISCARDED]
+[03Jul2025 11:19:03.040] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AgentePerrote moved too quickly! -10.035589494929582,0.466368041641239,-0.7044296054805557
+[03Jul2025 11:19:03.041] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ansoooooo moved too quickly! 9.99033874691213,-0.38574072493575784,-0.7836095541001669
+[03Jul2025 11:19:52.289] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'legendary_monsters:frostbitten_temple' in chunk [-261, -111], discarding
+[03Jul2025 11:19:52.291] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'legendary_monsters:frostbitten_temple' in chunk [-263, -109], discarding
+[03Jul2025 11:19:52.292] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: legendary_monsters:frostbitten_temple
+[03Jul2025 11:19:52.293] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'legendary_monsters:frostbitten_temple' in chunk [-262, -110], discarding
+[03Jul2025 11:19:54.701] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'legendary_monsters:frostbitten_temple' in chunk [-263, -110], discarding
+[03Jul2025 11:19:54.702] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'legendary_monsters:frostbitten_temple' in chunk [-262, -111], discarding
+[03Jul2025 11:19:55.658] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[03Jul2025 11:19:55.666] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[03Jul2025 11:19:55.735] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[03Jul2025 11:19:57.034] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'legendary_monsters:frostbitten_temple' in chunk [-263, -111], discarding
