@@ -3293,3 +3293,67 @@ java.lang.IllegalArgumentException: Missing required parameters: [<parameter min
 [03Jul2025 10:59:04.857] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'legendary_monsters:frostbitten_temple' in chunk [-262, -110], discarding
 [03Jul2025 10:59:10.944] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3705, y=57, z=-992} but found not block entity block Block{minecraft:water}[level=2] at location
 [03Jul2025 10:59:10.945] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=2] but failed at location BlockPos{x=-3705, y=57, z=-992}
+[03Jul2025 11:00:01.016] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 31.782997131347656) to NORMAL (avg. 40.30107879638672)
+[03Jul2025 11:00:10.034] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 40.30107879638672) to HIGH (avg. 50.29642105102539)
+[03Jul2025 11:00:19.147] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id the_deep_void:abductor
+[03Jul2025 11:00:23.524] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.29642105102539) to NORMAL (avg. 40.01001739501953)
+[03Jul2025 11:00:24.107] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id man:mftfhang
+[03Jul2025 11:00:39.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has made the advancement [Chompy]
+[03Jul2025 11:00:52.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Staravia
+[03Jul2025 11:00:52.626] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[03Jul2025 11:00:53.515] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.225284576416016) to LOW (avg. 26.88990592956543)
+[03Jul2025 11:03:23.515] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.055927276611328) to VERY_LOW (avg. 18.408367156982422)
+[03Jul2025 11:03:46.245] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.880510330200195) to HIGH (avg. 50.6024169921875)
+[03Jul2025 11:03:51.573] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[03Jul2025 11:03:51.597] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[03Jul2025 11:03:51.673] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[03Jul2025 11:03:53.809] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.6024169921875) to MEDIUM (avg. 46.3709602355957)
+[03Jul2025 11:04:08.515] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.3709602355957) to LOW (avg. 25.696794509887695)
+[03Jul2025 11:04:23.515] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 25.696794509887695) to VERY_LOW (avg. 18.45919418334961)
+[03Jul2025 11:04:38.515] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.45919418334961) to LOW (avg. 26.892148971557617)
+[03Jul2025 11:05:10.091] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id man:mftfhang
+[03Jul2025 11:05:11.554] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id the_deep_void:abductor
+[03Jul2025 11:05:16.340] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id man:mftfhang
+[03Jul2025 11:05:40.587] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-4048, y=9, z=-2848}
+[03Jul2025 11:05:40.588] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-4047, y=9, z=-2848}
+[03Jul2025 11:05:40.588] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-4047, y=9, z=-2848}
+[03Jul2025 11:05:40.589] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-4048, y=9, z=-2848}
+[03Jul2025 11:05:40.589] [Worker-Main-1/ERROR] [Dungeon Crawl/]: Failed to fetch a mob spawner at (-4048, 9, -2848)
+[03Jul2025 11:05:43.921] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/35318, l='ServerLevel[world]', x=-4057.58, y=43.36, z=-2758.69, removed=DISCARDED]
+[03Jul2025 11:05:54.287] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AgentePerrote moved too quickly! 0.7317100909426699,0.0,-10.380267258076856
+[03Jul2025 11:05:54.287] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 7.67397319140764,0.0,-6.975487085886925
+[03Jul2025 11:05:54.288] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 7.962059216330545,0.0,-7.283369205137205
+[03Jul2025 11:05:54.288] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 8.248919291544098,0.0,-7.592889550406653
+[03Jul2025 11:05:54.288] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 8.534725050007182,0.0,-7.903818770052112
+[03Jul2025 11:05:54.288] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 8.819624096065127,0.0,-8.215959621660659
+[03Jul2025 11:05:54.288] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 9.103823884563099,0.0,-8.52907191461054
+[03Jul2025 11:05:54.289] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 9.386264156689776,0.0,-8.843996501266702
+[03Jul2025 11:05:54.289] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 9.66261479142895,0.0,-9.163824451368328
+[03Jul2025 11:05:54.289] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 9.926988017517033,0.0,-9.491821480428825
+[03Jul2025 11:05:54.289] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 10.175122515131534,0.0,-9.829507084825764
+[03Jul2025 11:05:54.290] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 10.405536483316155,0.0,-10.17683200031297
+[03Jul2025 11:05:54.290] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 10.617605006734266,0.0,-10.533282539246557
+[03Jul2025 11:05:54.290] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 10.8095645146268,0.0,-10.898429081874838
+[03Jul2025 11:05:54.290] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 10.977102125897545,0.0,-11.271701364518776
+[03Jul2025 11:05:54.290] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 11.110919177785945,0.0,-11.650816588045018
+[03Jul2025 11:05:54.290] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 11.200032361826743,0.0,-12.029666778389128
+[03Jul2025 11:05:54.290] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 11.244615657094982,0.0,-12.40551006640726
+[03Jul2025 11:05:54.290] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 11.2830667822127,0.0,-12.784349364168975
+[03Jul2025 11:05:54.291] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 11.335338966272047,0.0,-13.167619137538622
+[03Jul2025 11:05:54.291] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 11.401037796013043,0.0,-13.554207991305248
+[03Jul2025 11:05:54.291] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 11.479083302845993,0.0,-13.943350522395122
+[03Jul2025 11:05:54.291] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 11.569421312320173,0.0,-14.33401890072173
+[03Jul2025 11:05:54.291] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 11.671152782649642,0.0,-14.725659898853337
+[03Jul2025 11:05:54.291] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 11.783557658315658,0.0,-15.117748191982173
+[03Jul2025 11:05:54.292] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 11.905523968674515,0.0,-15.510050486117962
+[03Jul2025 11:05:54.292] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 12.035713112869871,0.0,-15.902536821120066
+[03Jul2025 11:05:54.292] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 12.172973894163533,0.0,-16.295181431267338
+[03Jul2025 11:05:54.292] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 12.316316283362085,0.0,-16.687962158039227
+[03Jul2025 11:05:54.293] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 12.464888855359277,0.0,-17.080859945108386
+[03Jul2025 11:05:54.293] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 12.618055064707733,0.0,-17.47381433005421
+[03Jul2025 11:05:54.294] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2729ms or 54 ticks behind
+[03Jul2025 11:05:54.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 5.171050854611622,0.0,-11.007194008820079
+[03Jul2025 11:05:54.414] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 5.12563418672562,0.0,-11.199778022945338
+[03Jul2025 11:05:57.465] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for ad_astra:venus changed from LOW (avg. 27.35256121) to VERY_LOW (avg. 0.035551059999999995)
+[03Jul2025 11:09:46.601] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/36575, l='ServerLevel[world]', x=-3905.33, y=40.21, z=-2994.65, removed=DISCARDED]
+[03Jul2025 11:09:55.304] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/36575, l='ServerLevel[world]', x=-3905.33, y=40.21, z=-2994.65, removed=DISCARDED]

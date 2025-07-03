@@ -2126,9 +2126,9 @@
     "totalCaptureCount": 202,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 72,
-    "totalBattleVictoryCount": 410,
+    "totalBattleVictoryCount": 412,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 409,
+    "totalPvWBattleVictoryCount": 411,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 12,
     "totalTradedCount": 22,
@@ -2191,7 +2191,7 @@
       "cobblemon:ribombee": 1,
       "cobblemon:wingull": 8,
       "cobblemon:ralts": 1,
-      "cobblemon:gimmighoul": 8,
+      "cobblemon:gimmighoul": 9,
       "cobblemon:farfetchd": 4,
       "cobblemon:beedrill": 1,
       "cobblemon:voltorb": 1,
@@ -2222,7 +2222,8 @@
       "cobblemon:comfey": 1,
       "cobblemon:watchog": 1,
       "cobblemon:araquanid": 2,
-      "cobblemon:murkrow": 1
+      "cobblemon:murkrow": 1,
+      "cobblemon:slowking": 1
     },
     "aspectsCollected": {
       "cobblemon:vivillon": [
