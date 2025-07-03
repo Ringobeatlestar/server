@@ -1875,3 +1875,77 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [03Jul2025 09:47:28.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> puta
 [03Jul2025 09:47:43.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> sex
 [03Jul2025 09:47:47.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> tin
+[03Jul2025 09:50:31.083] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ansoooooo lost connection: Disconnected
+[03Jul2025 09:50:31.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo left the game
+[03Jul2025 09:50:38.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Spooky Scary Skeleton]
+[03Jul2025 09:52:27.227] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Ansoooooo is e02de1a8-2fb6-49f1-b9dc-8ef7357f32d3
+[03Jul2025 09:52:29.514] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ansoooooo[/127.212.9.25:56141] logged in with entity id 8566 at (-1900.237120100898, 68.0, 214.65672920247667)
+[03Jul2025 09:52:29.593] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Ansoooooo
+[03Jul2025 09:52:29.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo joined the game
+[03Jul2025 09:53:56.875] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id the_deep_void:abductor
+[03Jul2025 09:54:02.421] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 12.925252914428711) to LOW (avg. 25.24839210510254)
+[03Jul2025 09:54:24.921] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.746089935302734) to VERY_LOW (avg. 14.207276344299316)
+[03Jul2025 09:54:39.921] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.207276344299316) to LOW (avg. 22.30219078063965)
+[03Jul2025 09:54:56.868] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[03Jul2025 09:54:56.978] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[03Jul2025 09:54:59.952] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[03Jul2025 09:55:00.221] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[03Jul2025 09:55:00.221] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[03Jul2025 09:55:22.204] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[03Jul2025 09:55:39.959] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 23.132347106933594) to NORMAL (avg. 45.668724060058594)
+[03Jul2025 09:55:47.421] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 45.668724060058594) to LOW (avg. 25.627323150634766)
+[03Jul2025 09:56:16.211] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 8.447248736006145,0.0,-5.515705480338738
+[03Jul2025 09:56:16.211] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 8.640239669423977,0.0,-5.494074708400831
+[03Jul2025 09:56:16.211] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 8.845749782029543,0.0,-5.4604707228170355
+[03Jul2025 09:56:16.212] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 9.067689913064214,0.0,-5.424773110033357
+[03Jul2025 09:56:16.212] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 9.303373766727645,0.0,-5.385183731191546
+[03Jul2025 09:56:16.212] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 9.548218943419329,0.0,-5.334254791657941
+[03Jul2025 09:56:16.212] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 9.797531980780604,0.0,-5.266394736417851
+[03Jul2025 09:56:16.212] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 10.04527105995578,0.0,-5.1771020426788255
+[03Jul2025 09:56:16.212] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 10.289294585887433,0.0,-5.066689632087673
+[03Jul2025 09:56:16.213] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 10.529101844654633,0.0,-4.937211392925292
+[03Jul2025 09:56:16.213] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 10.763199745830889,0.0,-4.78965383764762
+[03Jul2025 09:56:16.213] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 10.988132813852758,0.0,-4.623718033023351
+[03Jul2025 09:56:16.213] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 11.17810156430096,0.0,-4.438396570119039
+[03Jul2025 09:56:16.214] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 11.325559217085015,0.0,-4.235176488002935
+[03Jul2025 09:56:16.214] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 11.436457325877768,0.0,-4.01656359336539
+[03Jul2025 09:56:16.214] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 11.477708241531559,0.0,-3.9175898702317227
+[03Jul2025 09:56:16.214] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 11.477708241531559,0.0,-3.9175898702317227
+[03Jul2025 09:56:16.214] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 11.477708241531559,0.0,-3.9175898702317227
+[03Jul2025 09:56:16.215] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 11.457920440260864,0.0,-3.9175898702317227
+[03Jul2025 09:56:16.215] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 11.404347319025078,0.0,-3.9175898702317227
+[03Jul2025 09:56:16.215] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 11.377708217689701,0.0,-3.9175898702317227
+[03Jul2025 09:56:16.215] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 11.377708217689701,0.0,-3.9175898702317227
+[03Jul2025 09:56:16.215] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 11.377708217689701,0.0,-3.9175898702317227
+[03Jul2025 09:56:16.215] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 11.377708217689701,0.0,-3.9175898702317227
+[03Jul2025 09:56:16.216] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 11.377708217689701,0.0,-3.9175898702317227
+[03Jul2025 09:56:16.216] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 11.377708217689701,0.0,-3.9175898702317227
+[03Jul2025 09:56:16.216] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 11.377708217689701,0.0,-3.9175898702317227
+[03Jul2025 09:56:16.216] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 11.377708217689701,0.0,-3.931479154824274
+[03Jul2025 09:56:16.216] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 11.377708217689701,0.0,-3.973654791310537
+[03Jul2025 09:56:16.217] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 11.236658520515562,0.0,-4.044053192978481
+[03Jul2025 09:56:16.217] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 11.022976283718094,0.0,-4.136638386042932
+[03Jul2025 09:56:16.217] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 10.803326366326814,0.0,-4.246031133742235
+[03Jul2025 09:56:16.217] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 10.577846701211683,0.0,-4.36904680637258
+[03Jul2025 09:56:16.218] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 10.347304129512054,0.0,-4.503715956641145
+[03Jul2025 09:56:16.218] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 10.11240745814996,0.0,-4.648407097678501
+[03Jul2025 09:56:16.218] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 9.873766261078003,0.0,-4.801717150777449
+[03Jul2025 09:56:16.218] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 9.63190477189562,0.0,-4.962439468248704
+[03Jul2025 09:56:16.218] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 9.387273831498305,0.0,-5.129536333080296
+[03Jul2025 09:56:16.219] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 9.140159314678385,0.0,-5.30198540792685
+[03Jul2025 09:56:16.219] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 8.885504324488807,0.0,-5.453502664272264
+[03Jul2025 09:56:16.219] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 8.62265534337405,0.0,-5.5711247828699015
+[03Jul2025 09:56:16.219] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yanmega (vehicle of Ansoooooo) moved too quickly! 8.353496803021926,0.0,-5.65709111469755
+[03Jul2025 09:56:16.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> a
+[03Jul2025 09:56:16.221] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9999ms or 199 ticks behind
+[03Jul2025 09:56:19.871] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 25.792863845825195) to VERY_LOW (avg. 16.50598907470703)
+[03Jul2025 09:56:21.121] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from LOW (avg. 34.51315581) to VERY_HIGH (avg. 120.04937051)
+[03Jul2025 09:56:57.371] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.83172607421875) to LOW (avg. 20.25218963623047)
+[03Jul2025 09:57:19.946] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 28.55532455444336) to NORMAL (avg. 42.501651763916016)
+[03Jul2025 09:57:27.371] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.501651763916016) to LOW (avg. 29.17031478881836)
+[03Jul2025 09:57:42.371] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 29.17031478881836) to VERY_LOW (avg. 17.017122268676758)
+[03Jul2025 09:57:57.456] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.017122268676758) to LOW (avg. 33.272247314453125)
+[03Jul2025 09:58:12.371] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 33.272247314453125) to VERY_LOW (avg. 18.365724563598633)
+[03Jul2025 09:58:29.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Dhelmise
+[03Jul2025 09:58:29.452] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[03Jul2025 09:58:34.871] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.511980056762695) to LOW (avg. 20.269887924194336)
