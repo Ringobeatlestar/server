@@ -3153,6 +3153,14 @@
         "discoveredTimestamp": 1751547277137,
         "caughtTimestamp": 1751547277137
       }
+    },
+    "mamoswine": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1751624639653,
+        "caughtTimestamp": 1751624639653
+      }
     }
   }
 }

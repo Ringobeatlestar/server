@@ -2136,6 +2136,14 @@
             "discoveredTimestamp": 1751547277136,
             "caughtTimestamp": 1751547277136
           }
+        },
+        "mamoswine": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1751624639649,
+            "caughtTimestamp": 1751624639649
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -2164,12 +2172,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 207,
+    "totalCaptureCount": 208,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 72,
-    "totalBattleVictoryCount": 418,
+    "totalBattleVictoryCount": 420,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 417,
+    "totalPvWBattleVictoryCount": 419,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 12,
     "totalTradedCount": 22,
@@ -2179,11 +2187,11 @@
       "water": 15,
       "normal": 40,
       "flying": 34,
-      "ground": 13,
+      "ground": 14,
       "fire": 25,
       "steel": 20,
       "dark": 12,
-      "ice": 3,
+      "ice": 4,
       "fighting": 13,
       "bug": 23,
       "electric": 7,
@@ -2233,7 +2241,7 @@
       "cobblemon:wingull": 8,
       "cobblemon:ralts": 1,
       "cobblemon:gimmighoul": 9,
-      "cobblemon:farfetchd": 4,
+      "cobblemon:farfetchd": 5,
       "cobblemon:beedrill": 1,
       "cobblemon:voltorb": 1,
       "cobblemon:riolu": 1,
