@@ -1917,3 +1917,6 @@ java.lang.Exception: null
 [04Jul2025 20:39:49.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Spider
 [04Jul2025 20:39:49.178] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
 [04Jul2025 20:39:52.212] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 32.10926818847656) to VERY_LOW (avg. 19.106185913085938)
+[04Jul2025 20:44:44.712] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 12.697515487670898) to LOW (avg. 27.126407623291016)
+[04Jul2025 20:44:52.212] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 27.126407623291016) to VERY_LOW (avg. 13.136950492858887)
+[04Jul2025 20:45:22.549] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 4.909 ms. 5444/5490 recipes are parallelized.
