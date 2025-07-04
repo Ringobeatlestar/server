@@ -1920,3 +1920,10 @@ java.lang.Exception: null
 [04Jul2025 20:44:44.712] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 12.697515487670898) to LOW (avg. 27.126407623291016)
 [04Jul2025 20:44:52.212] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 27.126407623291016) to VERY_LOW (avg. 13.136950492858887)
 [04Jul2025 20:45:22.549] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 4.909 ms. 5444/5490 recipes are parallelized.
+[04Jul2025 20:55:52.782] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 5799e18f-253c-435a-89a7-a3e7647db469
+[04Jul2025 20:55:52.783] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 5799e18f-253c-435a-89a7-a3e7647db469
+[04Jul2025 20:57:07.212] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 10.30257797241211) to LOW (avg. 22.27249526977539)
+[04Jul2025 20:57:14.712] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.27249526977539) to VERY_LOW (avg. 12.347637176513672)
+[04Jul2025 21:00:11.664] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5916, l='ServerLevel[world]', x=-1910.50, y=68.75, z=205.50, removed=DISCARDED]
+[04Jul2025 21:00:11.665] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5917, l='ServerLevel[world]', x=-1910.50, y=68.75, z=195.50, removed=DISCARDED]
+[04Jul2025 21:00:11.666] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5915, l='ServerLevel[world]', x=-1910.50, y=68.75, z=200.50, removed=DISCARDED]
