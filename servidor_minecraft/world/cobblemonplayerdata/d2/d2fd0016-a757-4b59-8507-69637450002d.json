@@ -2104,6 +2104,38 @@
             "discoveredTimestamp": 1751541419206,
             "caughtTimestamp": 1751541419206
           }
+        },
+        "bisharp": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1751542073544,
+            "caughtTimestamp": 1751542073544
+          }
+        },
+        "mew": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1751546121239,
+            "caughtTimestamp": 1751546121239
+          }
+        },
+        "koraidon": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1751546610937,
+            "caughtTimestamp": 1751546610937
+          }
+        },
+        "cosmog": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1751547277136,
+            "caughtTimestamp": 1751547277136
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -2125,39 +2157,40 @@
         "195",
         "210",
         "225",
-        "240"
+        "240",
+        "255"
       ],
       "name": "Cobbledex_RewardHistory"
     }
   },
   "advancementData": {
-    "totalCaptureCount": 203,
+    "totalCaptureCount": 207,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 72,
-    "totalBattleVictoryCount": 413,
+    "totalBattleVictoryCount": 418,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 412,
+    "totalPvWBattleVictoryCount": 417,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 12,
     "totalTradedCount": 22,
     "totalTypeCaptureCounts": {
       "grass": 19,
-      "psychic": 12,
+      "psychic": 14,
       "water": 15,
       "normal": 40,
       "flying": 34,
       "ground": 13,
       "fire": 25,
-      "steel": 19,
-      "dark": 11,
+      "steel": 20,
+      "dark": 12,
       "ice": 3,
-      "fighting": 12,
+      "fighting": 13,
       "bug": 23,
       "electric": 7,
       "fairy": 19,
       "rock": 11,
       "poison": 13,
-      "dragon": 7,
+      "dragon": 8,
       "ghost": 31
     },
     "totalDefeatedCounts": {
@@ -2214,7 +2247,7 @@
       "cobblemon:fomantis": 1,
       "cobblemon:golem": 1,
       "cobblemon:falinks": 1,
-      "cobblemon:cacnea": 4,
+      "cobblemon:cacnea": 5,
       "cobblemon:maractus": 2,
       "cobblemon:phione": 1,
       "cobblemon:pelipper": 8,

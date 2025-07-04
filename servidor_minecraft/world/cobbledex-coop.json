@@ -106,7 +106,7 @@
     },
     "mudbray": {
       "normal": {
-        "isShiny": false,
+        "isShiny": true,
         "status": "CAUGHT",
         "discoveredTimestamp": 1749988323362,
         "caughtTimestamp": 1749988323362
@@ -3112,6 +3112,46 @@
         "isShiny": false,
         "status": "SEEN",
         "discoveredTimestamp": 1751540138293
+      }
+    },
+    "bisharp": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1751542073545,
+        "caughtTimestamp": 1751542073545
+      }
+    },
+    "dwebble": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1751543700796,
+        "caughtTimestamp": 1751543700796
+      }
+    },
+    "mew": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1751546121242,
+        "caughtTimestamp": 1751546121242
+      }
+    },
+    "koraidon": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1751546610938,
+        "caughtTimestamp": 1751546610938
+      }
+    },
+    "cosmog": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1751547277137,
+        "caughtTimestamp": 1751547277137
       }
     }
   }
