@@ -1932,3 +1932,10 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [05Jul2025 13:58:28.057] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'legendary_monsters:lava_eater_spawn' in chunk [-362, 37], discarding
 [05Jul2025 13:58:28.207] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'legendary_monsters:lava_eater_spawn' in chunk [-364, 39], discarding
 [05Jul2025 13:58:29.496] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.14849853515625) to VERY_LOW (avg. 12.77600383758545)
+[05Jul2025 14:16:45.356] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AgentePerrote lost connection: Disconnected
+[05Jul2025 14:16:45.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote left the game
+[05Jul2025 14:23:14.810] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player AgentePerrote is d2fd0016-a757-4b59-8507-69637450002d
+[05Jul2025 14:23:17.084] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AgentePerrote[/127.182.232.120:47253] logged in with entity id 24548 at (-1363.4595175285222, 104.0, -423.2484997838282)
+[05Jul2025 14:23:17.171] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player AgentePerrote
+[05Jul2025 14:23:17.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote joined the game
+[05Jul2025 14:24:38.246] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from VERY_LOW (avg. 12.246390009999999) to LOW (avg. 17.309078120000002)
