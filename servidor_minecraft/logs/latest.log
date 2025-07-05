@@ -1867,3 +1867,16 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [05Jul2025 13:03:54.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> siempre
 [05Jul2025 13:09:19.663] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 4.129 ms. 5444/5490 recipes are parallelized.
 [05Jul2025 13:20:29.544] [Server thread/INFO] [fastsuite/]: Constructed recipe list for sawmill:woodcutting in 508.1 μs. 0/1515 recipes are parallelized.
+[05Jul2025 13:52:12.747] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3201ms or 64 ticks behind
+[05Jul2025 13:52:13.396] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:overworld changed from LOW (avg. 29.773293170000002) to VERY_LOW (avg. 9.28809075)
+[05Jul2025 13:52:16.172] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'legendary_monsters:lava_eater_spawn' in chunk [-158, 3], discarding
+[05Jul2025 13:52:50.247] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2351ms or 47 ticks behind
+[05Jul2025 13:52:53.246] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:the_nether changed from VERY_LOW (avg. 10.87944248) to LOW (avg. 32.086903480000004)
+[05Jul2025 13:53:21.513] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'legendary_monsters:lava_eater_spawn' in chunk [-390, 24], discarding
+[05Jul2025 13:53:21.513] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'legendary_monsters:lava_eater_spawn' in chunk [-389, 24], discarding
+[05Jul2025 13:53:21.514] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'legendary_monsters:lava_eater_spawn' in chunk [-388, 24], discarding
+[05Jul2025 13:53:21.714] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'legendary_monsters:lava_eater_spawn' in chunk [-390, 25], discarding
+[05Jul2025 13:53:21.714] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'legendary_monsters:lava_eater_spawn' in chunk [-388, 25], discarding
+[05Jul2025 13:53:21.716] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'legendary_monsters:lava_eater_spawn' in chunk [-389, 25], discarding
+[05Jul2025 13:53:22.015] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 9.442349433898926) to LOW (avg. 20.610401153564453)
+[05Jul2025 13:53:29.496] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.610401153564453) to VERY_LOW (avg. 10.537575721740723)
