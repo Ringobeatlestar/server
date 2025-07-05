@@ -1866,3 +1866,4 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [05Jul2025 13:03:53.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> mi
 [05Jul2025 13:03:54.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> siempre
 [05Jul2025 13:09:19.663] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 4.129 ms. 5444/5490 recipes are parallelized.
+[05Jul2025 13:20:29.544] [Server thread/INFO] [fastsuite/]: Constructed recipe list for sawmill:woodcutting in 508.1 μs. 0/1515 recipes are parallelized.
