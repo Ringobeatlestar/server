@@ -2175,9 +2175,9 @@
     "totalCaptureCount": 208,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 72,
-    "totalBattleVictoryCount": 424,
+    "totalBattleVictoryCount": 425,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 423,
+    "totalPvWBattleVictoryCount": 424,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 12,
     "totalTradedCount": 22,
@@ -2272,7 +2272,8 @@
       "cobblemon:watchog": 1,
       "cobblemon:araquanid": 2,
       "cobblemon:murkrow": 1,
-      "cobblemon:slowking": 1
+      "cobblemon:slowking": 1,
+      "cobblemon:gligar": 1
     },
     "aspectsCollected": {
       "cobblemon:vivillon": [
