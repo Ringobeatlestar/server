@@ -1943,3 +1943,6 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [05Jul2025 14:40:44.505] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 10.016070365905762) to LOW (avg. 37.08357238769531)
 [05Jul2025 14:40:51.996] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 37.08357238769531) to VERY_LOW (avg. 15.24862003326416)
 [05Jul2025 14:50:46.602] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity EntityPotoo['Chimuelo'/30530, l='ServerLevel[world]', x=-1904.50, y=55.40, z=248.50] died: Chimuelo was slain by Desdentado
+[05Jul2025 15:25:19.311] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/43538, l='ServerLevel[world]', x=-3629.58, y=98.00, z=-3340.30] died, message: 'Villager was slain by AgentePerrote'
+[05Jul2025 15:25:19.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Neighborhood Brawl]
+[05Jul2025 15:34:47.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Limit Breaker]
