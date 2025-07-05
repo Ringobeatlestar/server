@@ -1940,3 +1940,5 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [05Jul2025 14:23:17.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote joined the game
 [05Jul2025 14:24:38.246] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from VERY_LOW (avg. 12.246390009999999) to LOW (avg. 17.309078120000002)
 [05Jul2025 14:30:37.904] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/24909, l='ServerLevel[world]', x=-3544.30, y=67.00, z=-3335.92] died, message: 'Nitwit was slain by Zombie'
+[05Jul2025 14:40:44.505] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 10.016070365905762) to LOW (avg. 37.08357238769531)
+[05Jul2025 14:40:51.996] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 37.08357238769531) to VERY_LOW (avg. 15.24862003326416)
